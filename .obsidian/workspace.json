@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Моя первая заметка.md",
+                "file": "Новая заметка.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Моя первая заметка.md",
+                "file": "Новая заметка.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Моя первая заметка.md",
+                "file": "Новая заметка.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Моя первая заметка.md"
+                "file": "Новая заметка.md"
               }
             }
           }
@@ -146,8 +146,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -161,8 +160,9 @@
   },
   "active": "3d1c4332dd31a211",
   "lastOpenFiles": [
-    "Welcome.md",
     "Моя первая заметка.md",
+    "Новая заметка.md",
+    "Welcome.md",
     "files"
   ]
 }
