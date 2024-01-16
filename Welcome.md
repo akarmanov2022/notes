@@ -6,3 +6,9 @@ When you're ready, delete this note and make the vault your own.
 dsdsi
 
 `Hello World!!`
+
+```Java
+public class DemoClass {
+	private final String demoField;
+}
+```
