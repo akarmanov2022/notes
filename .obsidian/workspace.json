@@ -13,11 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Java.md",
+                "file": "АОП.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
+            }
+          },
+          {
+            "id": "26871215a7e12971",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
             }
           },
           {
@@ -52,7 +60,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pro Spring 5.md",
+                "file": "Kotlin.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a2db310bd84d61e2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cквозная функциональнсоть.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -65,7 +86,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Книги.md",
+                "file": "Java.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -73,7 +94,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -139,7 +160,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Книги.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +176,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Книги.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -178,9 +197,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Книги.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -202,14 +219,18 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "dda3934a3f75aeb7",
+  "active": "26871215a7e12971",
   "lastOpenFiles": [
     "Pro Spring 5.md",
-    "Java.md",
-    "templates/Лекция.md",
-    "Книги.md",
+    "Spring.md",
+    "АОП в Spring.md",
+    "АОП.md",
+    "Cквозная функциональнсоть.md",
     "Языки программирования.md",
+    "Java.md",
     "Kotlin.md",
+    "Книги.md",
+    "templates/Лекция.md",
     "daily/2024-01-16.md",
     "daily",
     "templates",
