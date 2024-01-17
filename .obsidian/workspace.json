@@ -71,9 +71,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "a4ecf5d8d43d48f7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -139,7 +152,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Java.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +169,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Java.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -179,7 +192,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Java.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           }
@@ -202,11 +215,16 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "dda3934a3f75aeb7",
+  "active": "a4ecf5d8d43d48f7",
   "lastOpenFiles": [
+    "АОП.md",
+    "АОП в Spring.md",
+    "Spring.md",
+    "Cквозная функциональнсоть.md",
+    "Java.md",
+    "conflict-files-obsidian-git.md",
     "Книги.md",
     "Pro Spring 5.md",
-    "Java.md",
     "templates/Лекция.md",
     "Языки программирования.md",
     "Kotlin.md",
