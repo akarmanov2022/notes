@@ -65,7 +65,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Книги.md",
+                "file": "Java.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -123,7 +123,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 263.5
+    "width": 258.5
   },
   "right": {
     "id": "040412060455cf19",
@@ -139,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Книги.md",
+                "file": "Java.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +156,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Книги.md",
+                "file": "Java.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -179,7 +179,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Книги.md"
+                "file": "Java.md"
               }
             }
           }
@@ -204,10 +204,10 @@
   },
   "active": "dda3934a3f75aeb7",
   "lastOpenFiles": [
+    "Книги.md",
     "Pro Spring 5.md",
     "Java.md",
     "templates/Лекция.md",
-    "Книги.md",
     "Языки программирования.md",
     "Kotlin.md",
     "daily/2024-01-16.md",
