@@ -97,9 +97,48 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "1a14901a469de6f9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Управление транзакциями.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3a208213ea5139f4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Управление транзакциями.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "97159f32fe755c47",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Уровни изоляции транзакции.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -166,7 +205,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Основные понятия JPA.md",
+                "file": "Уровни изоляции транзакции.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,7 +222,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Основные понятия JPA.md",
+                "file": "Уровни изоляции транзакции.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -206,11 +245,20 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Основные понятия JPA.md"
+                "file": "Уровни изоляции транзакции.md"
               }
             }
+          },
+          {
+            "id": "4d1fd266fd2e9921",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -229,21 +277,26 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "481c35d102de066b",
+  "active": "97159f32fe755c47",
   "lastOpenFiles": [
-    "Доступ к данным в Spring через интерфейс JPA.md",
+    "Управление транзакциями.md",
     "Основные понятия JPA.md",
+    "Доступ к данным в Spring через интерфейс JPA.md",
     "Pro Spring 5.md",
+    "templates/Лекция.md",
+    "Языки программирования.md",
+    "Java.md",
+    "Уровни изоляции транзакции.md",
+    "Untitled 1.md",
+    "Untitled.md",
+    "ACID.md",
     "АОП в Spring.md",
     "АОП.md",
     "Книги.md",
-    "Языки программирования.md",
     "Spring.md",
     "Kotlin.md",
-    "Java.md",
     "conflict-files-obsidian-git.md",
     "Cквозная функциональнсоть.md",
-    "templates/Лекция.md",
     "daily/2024-01-16.md",
     "daily",
     "templates",
