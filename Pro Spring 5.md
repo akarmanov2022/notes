@@ -6,10 +6,8 @@ tags:
   - Книга
 published: "2017"
 ---
-## Темы
 ```dataview
-TABLE
-	file.name as "Темы"
-FROM #Pro-Spring-5
+LIST
+FROM #Pro-Spring-5 
 ```
 [[Java]] [[Книги]]

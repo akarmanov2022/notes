@@ -71,9 +71,35 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "7db105e42159567c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Доступ к данным в Spring через интерфейс JPA.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "481c35d102de066b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Основные понятия JPA.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -123,7 +149,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 258.5
+    "width": 258.5,
+    "collapsed": true
   },
   "right": {
     "id": "040412060455cf19",
@@ -139,7 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pro Spring 5.md",
+                "file": "Основные понятия JPA.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +183,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pro Spring 5.md",
+                "file": "Основные понятия JPA.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -179,7 +206,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pro Spring 5.md"
+                "file": "Основные понятия JPA.md"
               }
             }
           }
@@ -202,11 +229,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "dda3934a3f75aeb7",
+  "active": "481c35d102de066b",
   "lastOpenFiles": [
+    "Доступ к данным в Spring через интерфейс JPA.md",
+    "Основные понятия JPA.md",
+    "Pro Spring 5.md",
     "АОП в Spring.md",
     "АОП.md",
-    "Pro Spring 5.md",
     "Книги.md",
     "Языки программирования.md",
     "Spring.md",
