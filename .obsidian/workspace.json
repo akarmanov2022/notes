@@ -34,6 +34,19 @@
             }
           },
           {
+            "id": "23e89a5c47401ce4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
             "id": "38fa2a6f594cc04d",
             "type": "leaf",
             "state": {
@@ -99,7 +112,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -165,7 +178,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "АОП в Spring.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -182,7 +195,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "АОП в Spring.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -205,7 +218,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "АОП в Spring.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           }
@@ -228,10 +241,18 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "26871215a7e12971",
+  "active": "23e89a5c47401ce4",
   "lastOpenFiles": [
-    "Книги.md",
     "АОП в Spring.md",
+    "conflict-files-obsidian-git.md",
+    "Уровни изоляции транзакции.md",
+    "Управление транзакциями.md",
+    "Основные понятия JPA.md",
+    "Доступ к данным в Spring через интерфейс JPA.md",
+    "Untitled.md",
+    "Untitled 1.md",
+    "ACID.md",
+    "Книги.md",
     "Pro Spring 5.md",
     "Spring.md",
     "АОП.md",
