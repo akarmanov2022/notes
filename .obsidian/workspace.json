@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Книги.md",
+                "file": "Уровень абстракции транзакций в Spring.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -165,7 +165,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Книги.md",
+                "file": "Уровень абстракции транзакций в Spring.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -182,7 +182,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Книги.md",
+                "file": "Уровень абстракции транзакций в Spring.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -205,7 +205,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Книги.md"
+                "file": "Уровень абстракции транзакций в Spring.md"
               }
             }
           }
@@ -230,18 +230,20 @@
   },
   "active": "21056d9121618ad3",
   "lastOpenFiles": [
+    "Attachments",
     "Управление транзакциями.md",
+    "Уровень абстракции транзакций в Spring.md",
+    "Основные понятия JPA.md",
+    "Доступ к данным в Spring через интерфейс JPA.md",
     "Pro Spring 5.md",
+    "Книги.md",
+    "Untitled.md",
     "Режимы распростанения.md",
     "Уровни изоляции транзакции.md",
     "АОП в Spring.md",
     "conflict-files-obsidian-git.md",
-    "Основные понятия JPA.md",
-    "Доступ к данным в Spring через интерфейс JPA.md",
-    "Untitled.md",
     "Untitled 1.md",
     "ACID.md",
-    "Книги.md",
     "Spring.md",
     "АОП.md",
     "Cквозная функциональнсоть.md",
