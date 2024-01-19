@@ -24,8 +24,13 @@
             "id": "26871215a7e12971",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "АОП в Spring.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           },
           {
@@ -160,6 +165,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "АОП в Spring.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -176,6 +182,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "АОП в Spring.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -197,7 +204,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "АОП в Spring.md"
+              }
             }
           }
         ]
@@ -221,15 +230,15 @@
   },
   "active": "26871215a7e12971",
   "lastOpenFiles": [
+    "Книги.md",
+    "АОП в Spring.md",
     "Pro Spring 5.md",
     "Spring.md",
-    "АОП в Spring.md",
     "АОП.md",
     "Cквозная функциональнсоть.md",
     "Языки программирования.md",
     "Java.md",
     "Kotlin.md",
-    "Книги.md",
     "templates/Лекция.md",
     "daily/2024-01-16.md",
     "daily",
