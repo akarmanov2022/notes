@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Уровень абстракции транзакций в Spring.md",
+                "file": "Управление транзакциями.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -52,7 +52,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/Лекция.md",
+                "file": "Уровень абстракции транзакций в Spring.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -99,7 +99,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -228,29 +228,29 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "21056d9121618ad3",
+  "active": "eaaf1dae112b3f12",
   "lastOpenFiles": [
-    "Attachments",
     "Управление транзакциями.md",
     "Уровень абстракции транзакций в Spring.md",
-    "Основные понятия JPA.md",
-    "Доступ к данным в Spring через интерфейс JPA.md",
+    "Templates/Лекция.md",
+    "Языки программирования.md",
     "Pro Spring 5.md",
     "Книги.md",
-    "Untitled.md",
-    "Режимы распростанения.md",
+    "Spring.md",
     "Уровни изоляции транзакции.md",
+    "Режимы распростанения.md",
+    "Основные понятия JPA.md",
+    "Доступ к данным в Spring через интерфейс JPA.md",
     "АОП в Spring.md",
+    "АОП.md",
+    "ACID.md",
+    "Attachments",
+    "Untitled.md",
     "conflict-files-obsidian-git.md",
     "Untitled 1.md",
-    "ACID.md",
-    "Spring.md",
-    "АОП.md",
     "Cквозная функциональнсоть.md",
-    "Языки программирования.md",
     "Java.md",
     "Kotlin.md",
-    "Templates/Лекция.md",
     "Daily Notes/2024-01-16.md",
     "Daily Notes",
     "Templates",
