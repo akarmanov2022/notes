@@ -4,128 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "dd81aea87333e9ba",
+        "id": "6e79951f8ae959ad",
         "type": "tabs",
         "children": [
           {
-            "id": "e79aafb0e3b31d8a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Java.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "38fa2a6f594cc04d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Языки программирования.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "eaaf1dae112b3f12",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "templates/Лекция.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6c1d7d0691e919d7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Pro Spring 5.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "dda3934a3f75aeb7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Pro Spring 5.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7db105e42159567c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Доступ к данным в Spring через интерфейс JPA.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "481c35d102de066b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Основные понятия JPA.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1a14901a469de6f9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Управление транзакциями.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3a208213ea5139f4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Управление транзакциями.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "97159f32fe755c47",
+            "id": "4d37cb66cbd9ac82",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -133,12 +16,21 @@
                 "file": "Уровни изоляции транзакции.md",
                 "mode": "source",
                 "backlinks": true,
-                "source": false
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "5d0202c87e31dbf2",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2024-01-18 23.39.07.excalidraw.md"
               }
             }
           }
-        ],
-        "currentTab": 9
+        ]
       }
     ],
     "direction": "vertical"
@@ -188,8 +80,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 258.5,
-    "collapsed": true
+    "width": 351.5
   },
   "right": {
     "id": "040412060455cf19",
@@ -250,7 +141,7 @@
             }
           },
           {
-            "id": "4d1fd266fd2e9921",
+            "id": "93c2402c3e557572",
             "type": "leaf",
             "state": {
               "type": "advanced-tables-toolbar",
@@ -262,8 +153,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -274,19 +164,25 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "workspaces:Manage workspace layouts": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "97159f32fe755c47",
+  "active": "4d37cb66cbd9ac82",
   "lastOpenFiles": [
+    "files/Pasted image 20240118234038.png",
+    "Excalidraw/Drawing 2024-01-18 23.39.07.excalidraw.md",
+    "Уровни изоляции транзакции.md",
     "Управление транзакциями.md",
+    "Excalidraw/Drawing 2024-01-18 23.36.57.excalidraw.md",
+    "Excalidraw",
+    "Untitled 2.md",
     "Основные понятия JPA.md",
     "Доступ к данным в Spring через интерфейс JPA.md",
     "Pro Spring 5.md",
     "templates/Лекция.md",
     "Языки программирования.md",
     "Java.md",
-    "Уровни изоляции транзакции.md",
     "Untitled 1.md",
     "Untitled.md",
     "ACID.md",
