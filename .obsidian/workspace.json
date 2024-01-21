@@ -8,26 +8,11 @@
         "type": "tabs",
         "children": [
           {
-            "id": "4d37cb66cbd9ac82",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Уровни изоляции транзакции.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": true
-              }
-            }
-          },
-          {
             "id": "5d0202c87e31dbf2",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2024-01-18 23.39.07.excalidraw.md"
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -96,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Уровни изоляции транзакции.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Уровни изоляции транзакции.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Уровни изоляции транзакции.md"
-              }
+              "state": {}
             }
           },
           {
@@ -168,15 +149,16 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "4d37cb66cbd9ac82",
+  "active": "5d0202c87e31dbf2",
   "lastOpenFiles": [
     "files/Pasted image 20240118234038.png",
+    "Excalidraw/Drawing 2024-01-18 23.36.57.excalidraw.md",
     "Excalidraw/Drawing 2024-01-18 23.39.07.excalidraw.md",
+    "Untitled 2.md",
+    "Untitled.md",
     "Уровни изоляции транзакции.md",
     "Управление транзакциями.md",
-    "Excalidraw/Drawing 2024-01-18 23.36.57.excalidraw.md",
     "Excalidraw",
-    "Untitled 2.md",
     "Основные понятия JPA.md",
     "Доступ к данным в Spring через интерфейс JPA.md",
     "Pro Spring 5.md",
@@ -184,7 +166,6 @@
     "Языки программирования.md",
     "Java.md",
     "Untitled 1.md",
-    "Untitled.md",
     "ACID.md",
     "АОП в Spring.md",
     "АОП.md",
