@@ -4,23 +4,115 @@
     "type": "split",
     "children": [
       {
-        "id": "6e79951f8ae959ad",
+        "id": "dd81aea87333e9ba",
         "type": "tabs",
         "children": [
           {
-            "id": "5d0202c87e31dbf2",
+            "id": "e79aafb0e3b31d8a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Уровни изоляции транзакции.md",
+                "file": "АОП.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "26871215a7e12971",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Управление транзакциями.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "38fa2a6f594cc04d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Языки программирования.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "eaaf1dae112b3f12",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Уровень абстракции транзакций в Spring.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ee537e4516886856",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Массивы.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6c1d7d0691e919d7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Kotlin.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a2db310bd84d61e2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cквозная функциональнсоть.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "dda3934a3f75aeb7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Java.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -70,7 +162,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 351.5
+    "width": 263.5
   },
   "right": {
     "id": "040412060455cf19",
@@ -86,7 +178,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Уровни изоляции транзакции.md",
+                "file": "Массивы.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +195,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Уровни изоляции транзакции.md",
+                "file": "Массивы.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,24 +218,16 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Уровни изоляции транзакции.md"
+                "file": "Массивы.md"
               }
             }
-          },
-          {
-            "id": "93c2402c3e557572",
-            "type": "leaf",
-            "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -154,44 +238,39 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "workspaces:Manage workspace layouts": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "5d0202c87e31dbf2",
+  "active": "ee537e4516886856",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
+    "Структуры данных и алгоритмы.md",
+    "Массивы.md",
     "Уровень абстракции транзакций в Spring.md",
-    "Режимы распростанения.md",
-    "Templates/Лекция.md",
-    "Templates",
-    "Daily Notes/2024-01-16.md",
-    "Daily Notes",
-    "files/Pasted image 20240118234038.png",
-    "Excalidraw/Drawing 2024-01-18 23.36.57.excalidraw.md",
-    "Excalidraw/Drawing 2024-01-18 23.39.07.excalidraw.md",
-    "Untitled 2.md",
-    "Untitled.md",
-    "Уровни изоляции транзакции.md",
     "Управление транзакциями.md",
-    "Excalidraw",
-    "Основные понятия JPA.md",
-    "Доступ к данным в Spring через интерфейс JPA.md",
-    "Pro Spring 5.md",
-    "templates/Лекция.md",
+    "Templates/Лекция.md",
     "Языки программирования.md",
-    "Java.md",
-    "Untitled 1.md",
-    "ACID.md",
-    "АОП в Spring.md",
-    "АОП.md",
+    "Pro Spring 5.md",
     "Книги.md",
     "Spring.md",
-    "Kotlin.md",
+    "Уровни изоляции транзакции.md",
+    "Режимы распростанения.md",
+    "Основные понятия JPA.md",
+    "Доступ к данным в Spring через интерфейс JPA.md",
+    "АОП в Spring.md",
+    "АОП.md",
+    "ACID.md",
+    "Attachments",
+    "conflict-files-obsidian-git.md",
+    "Untitled 1.md",
     "Cквозная функциональнсоть.md",
-    "daily/2024-01-16.md",
-    "daily",
-    "templates",
+    "Java.md",
+    "Kotlin.md",
+    "Daily Notes/2024-01-16.md",
+    "Daily Notes",
+    "Templates",
+    "Welcome.md",
+    "Новая заметка.md",
+    "Моя первая заметка.md",
     "files"
   ]
 }
