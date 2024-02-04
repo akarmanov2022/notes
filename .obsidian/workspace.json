@@ -110,9 +110,17 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "cc9d2e845181a8da",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -178,7 +186,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Массивы.md",
+                "file": "АОП.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -195,7 +203,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Массивы.md",
+                "file": "АОП.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -218,7 +226,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Массивы.md"
+                "file": "АОП.md"
               }
             }
           }
@@ -242,10 +250,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "ee537e4516886856",
+  "active": "cc9d2e845181a8da",
   "lastOpenFiles": [
-    "Структуры данных и алгоритмы.md",
     "Массивы.md",
+    "Java.md",
+    "Kotlin.md",
+    "Структуры данных и алгоритмы.md",
     "Уровень абстракции транзакций в Spring.md",
     "Управление транзакциями.md",
     "Templates/Лекция.md",
@@ -264,8 +274,6 @@
     "conflict-files-obsidian-git.md",
     "Untitled 1.md",
     "Cквозная функциональнсоть.md",
-    "Java.md",
-    "Kotlin.md",
     "Daily Notes/2024-01-16.md",
     "Daily Notes",
     "Templates",
