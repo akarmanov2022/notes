@@ -4,123 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "dd81aea87333e9ba",
+        "id": "460e2f5a81ea4c40",
         "type": "tabs",
         "children": [
           {
-            "id": "e79aafb0e3b31d8a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "АОП.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "26871215a7e12971",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Управление транзакциями.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "38fa2a6f594cc04d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Языки программирования.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "eaaf1dae112b3f12",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Уровень абстракции транзакций в Spring.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ee537e4516886856",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Массивы.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6c1d7d0691e919d7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Kotlin.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a2db310bd84d61e2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Cквозная функциональнсоть.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "dda3934a3f75aeb7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Java.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "cc9d2e845181a8da",
+            "id": "8ba1b913662e413e",
             "type": "leaf",
             "state": {
               "type": "empty",
               "state": {}
             }
           }
-        ],
-        "currentTab": 8
+        ]
       }
     ],
     "direction": "vertical"
@@ -170,7 +65,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 263.5
+    "width": 263.5,
+    "collapsed": true
   },
   "right": {
     "id": "040412060455cf19",
@@ -186,7 +82,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "АОП.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -203,7 +98,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "АОП.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -225,9 +119,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "АОП.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -250,36 +142,38 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "cc9d2e845181a8da",
+  "active": "8ba1b913662e413e",
   "lastOpenFiles": [
-    "Массивы.md",
+    "Основы языка Java.md",
+    "ACID.md",
+    "Attachments",
+    "Cквозная функциональнсоть.md",
     "Java.md",
-    "Kotlin.md",
-    "Структуры данных и алгоритмы.md",
-    "Уровень абстракции транзакций в Spring.md",
-    "Управление транзакциями.md",
+    "Untitled.md",
     "Templates/Лекция.md",
+    "АОП.md",
+    "Управление транзакциями.md",
     "Языки программирования.md",
+    "Уровень абстракции транзакций в Spring.md",
+    "Массивы.md",
+    "Kotlin.md",
+    "Spring.md",
+    "АОП в Spring.md",
+    "Структуры данных и алгоритмы.md",
     "Pro Spring 5.md",
     "Книги.md",
-    "Spring.md",
     "Уровни изоляции транзакции.md",
     "Режимы распростанения.md",
     "Основные понятия JPA.md",
     "Доступ к данным в Spring через интерфейс JPA.md",
-    "АОП в Spring.md",
-    "АОП.md",
-    "ACID.md",
     "Attachments",
     "conflict-files-obsidian-git.md",
     "Untitled 1.md",
-    "Cквозная функциональнсоть.md",
     "Daily Notes/2024-01-16.md",
     "Daily Notes",
     "Templates",
     "Welcome.md",
     "Новая заметка.md",
-    "Моя первая заметка.md",
     "files"
   ]
 }
