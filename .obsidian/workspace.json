@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Основные принципы объектно-реляционного преобразование средствами Hibernate.md",
+                "file": "Java.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -113,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Основные принципы объектно-реляционного преобразование средствами Hibernate.md",
+                "file": "Java.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Основные принципы объектно-реляционного преобразование средствами Hibernate.md",
+                "file": "Java.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Основные принципы объектно-реляционного преобразование средствами Hibernate.md"
+                "file": "Java.md"
               }
             }
           }
@@ -179,10 +179,10 @@
   },
   "active": "d4f6c0c77ea21e06",
   "lastOpenFiles": [
+    "Основные принципы объектно-реляционного преобразование средствами Hibernate.md",
     "Hibernate в Spring.md",
     "Pro Spring 5.md",
     "Spring.md",
-    "Основные принципы объектно-реляционного преобразование средствами Hibernate.md",
     "Конфигурирование фабрик сеансов Hibernate.md",
     "Главные конфигурационные параметры HIbernate.md",
     "Основы языка Java.md",
