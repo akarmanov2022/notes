@@ -58,9 +58,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "dd5dc8b50b5df0e4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Spring Security.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -191,12 +204,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "c8eb0d569834c239",
+  "active": "dd5dc8b50b5df0e4",
   "lastOpenFiles": [
-    "Авторизация.md",
     "Spring Security.md",
     "Конфигурирование фабрик сеансов Hibernate.md",
     "Java.md",
+    "Аутентификация.md",
+    "Авторизация.md",
     "Основные принципы объектно-реляционного преобразование средствами Hibernate.md",
     "Hibernate в Spring.md",
     "Pro Spring 5.md",
@@ -219,7 +233,6 @@
     "Книги.md",
     "Уровни изоляции транзакции.md",
     "Режимы распростанения.md",
-    "Основные понятия JPA.md",
     "Attachments",
     "Daily Notes",
     "Templates",
