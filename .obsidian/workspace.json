@@ -50,8 +50,13 @@
             "id": "c8eb0d569834c239",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Spring Security.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ],
@@ -122,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Java.md",
+                "file": "Spring Security.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Java.md",
+                "file": "Spring Security.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +167,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Java.md"
+                "file": "Spring Security.md"
               }
             }
           }
@@ -188,12 +193,14 @@
   },
   "active": "c8eb0d569834c239",
   "lastOpenFiles": [
+    "Авторизация.md",
+    "Spring Security.md",
+    "Конфигурирование фабрик сеансов Hibernate.md",
     "Java.md",
     "Основные принципы объектно-реляционного преобразование средствами Hibernate.md",
     "Hibernate в Spring.md",
     "Pro Spring 5.md",
     "Spring.md",
-    "Конфигурирование фабрик сеансов Hibernate.md",
     "Главные конфигурационные параметры HIbernate.md",
     "Основы языка Java.md",
     "ACID.md",
@@ -213,9 +220,7 @@
     "Уровни изоляции транзакции.md",
     "Режимы распростанения.md",
     "Основные понятия JPA.md",
-    "Доступ к данным в Spring через интерфейс JPA.md",
     "Attachments",
-    "conflict-files-obsidian-git.md",
     "Daily Notes",
     "Templates",
     "files"
