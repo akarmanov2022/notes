@@ -45,8 +45,17 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "c8eb0d569834c239",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -177,8 +186,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "d4f6c0c77ea21e06",
+  "active": "c8eb0d569834c239",
   "lastOpenFiles": [
+    "Java.md",
     "Основные принципы объектно-реляционного преобразование средствами Hibernate.md",
     "Hibernate в Spring.md",
     "Pro Spring 5.md",
@@ -189,7 +199,6 @@
     "ACID.md",
     "Attachments",
     "Cквозная функциональнсоть.md",
-    "Java.md",
     "Untitled.md",
     "Templates/Лекция.md",
     "АОП.md",
