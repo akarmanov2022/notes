@@ -65,7 +65,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spring Security.md",
+                "file": "Servlet Application.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -73,7 +73,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -204,8 +204,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "dd5dc8b50b5df0e4",
+  "active": "c8eb0d569834c239",
   "lastOpenFiles": [
+    "Attachments/Pasted image 20240222120410.png",
+    "Servlet Application.md",
     "Spring Security.md",
     "Конфигурирование фабрик сеансов Hibernate.md",
     "Java.md",
@@ -231,8 +233,6 @@
     "АОП в Spring.md",
     "Структуры данных и алгоритмы.md",
     "Книги.md",
-    "Уровни изоляции транзакции.md",
-    "Режимы распростанения.md",
     "Attachments",
     "Daily Notes",
     "Templates",
