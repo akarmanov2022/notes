@@ -60,6 +60,45 @@
             }
           },
           {
+            "id": "53c837cc62f87389",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Паттерны ООП (Design Patterns).md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "5fcdce11d9720d57",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Паттерны ООП (Design Patterns).md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "b6567eb074548bd5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Паттерны ООП (Design Patterns).md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              }
+            }
+          },
+          {
             "id": "07cce0a49b555c79",
             "type": "leaf",
             "state": {
@@ -86,7 +125,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -196,13 +235,29 @@
                 "file": "Паттерны ООП (Design Patterns).md"
               }
             }
+          },
+          {
+            "id": "7971c742784188bd",
+            "type": "leaf",
+            "state": {
+              "type": "mermaid-toolbar-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "3367f324f0a9acf8",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 231.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -214,13 +269,17 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "workspaces:Manage workspace layouts": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "c8eb0d569834c239",
+  "active": "b6567eb074548bd5",
   "lastOpenFiles": [
-    "Flyweight (приспособленец).md",
+    "Interpreter (интерпретатор).md",
     "Паттерны ООП (Design Patterns).md",
+    "Adapter (адаптер).md",
+    "Singleton (одиночка).md",
+    "Flyweight (приспособленец).md",
     "Composite (компоновщик).md",
     "Servlet Application.md",
     "Spring Security.md",
@@ -244,9 +303,6 @@
     "Управление транзакциями.md",
     "Языки программирования.md",
     "Уровень абстракции транзакций в Spring.md",
-    "Массивы.md",
-    "Kotlin.md",
-    "АОП в Spring.md",
     "Attachments",
     "Daily Notes",
     "Templates",
