@@ -50,13 +50,8 @@
             "id": "c8eb0d569834c239",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Spring Security.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           },
           {
@@ -140,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spring Security.md",
+                "file": "Java.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Spring Security.md",
+                "file": "Java.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -180,7 +175,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spring Security.md"
+                "file": "Java.md"
               }
             }
           }
@@ -206,9 +201,9 @@
   },
   "active": "c8eb0d569834c239",
   "lastOpenFiles": [
+    "Spring Security.md",
     "Attachments/Pasted image 20240222120410.png",
     "Servlet Application.md",
-    "Spring Security.md",
     "Конфигурирование фабрик сеансов Hibernate.md",
     "Java.md",
     "Аутентификация.md",
