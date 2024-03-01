@@ -55,7 +55,7 @@
                 "file": "Паттерны ООП (Design Patterns).md",
                 "mode": "source",
                 "backlinks": true,
-                "source": false
+                "source": true
               }
             }
           },
