@@ -8,19 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "132656c18ebf8e90",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Порождающие паттерны.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "77dde6a6a38f782e",
             "type": "leaf",
             "state": {
@@ -99,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Порождающие паттерны.md",
+                "file": "Composite (компоновщик).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Порождающие паттерны.md",
+                "file": "Composite (компоновщик).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Порождающие паттерны.md"
+                "file": "Composite (компоновщик).md"
               }
             }
           },
@@ -180,15 +167,18 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "132656c18ebf8e90",
+  "active": "77dde6a6a38f782e",
   "lastOpenFiles": [
+    "Templates/ТУСУР/Лекция.md",
+    "Daily Notes/2024-03-01.md",
+    "Templates/ТУСУР",
+    "Порождающие паттерны.md",
     "Паттерны ООП (Design Patterns).md",
     "Composite (компоновщик).md",
     "Chain of Responsibility (цепочка обязанностей).md",
     "Паттерны поведения.md",
     "Proxy (заместитель).md",
     "Prototype (прототип).md",
-    "Порождающие паттерны.md",
     "Design Patterns",
     "Builder (строитель).md",
     "Factory Method (фабричный метод).md",
@@ -208,7 +198,6 @@
     "Аутентификация.md",
     "Авторизация.md",
     "Основные принципы объектно-реляционного преобразование средствами Hibernate.md",
-    "Hibernate в Spring.md",
     "Attachments",
     "Attachments",
     "Daily Notes",
