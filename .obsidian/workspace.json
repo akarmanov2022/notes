@@ -8,46 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "d4f6c0c77ea21e06",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Java.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ee6c8c6a5d0d0844",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Конфигурирование фабрик сеансов Hibernate.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b72c539094bca5a7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Конфигурирование фабрик сеансов Hibernate.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c8eb0d569834c239",
+            "id": "6908273771a37f33",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -55,77 +16,24 @@
                 "file": "Паттерны ООП (Design Patterns).md",
                 "mode": "source",
                 "backlinks": true,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "53c837cc62f87389",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Паттерны ООП (Design Patterns).md",
-                "mode": "source",
-                "backlinks": true,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "5fcdce11d9720d57",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Паттерны ООП (Design Patterns).md",
-                "mode": "source",
-                "backlinks": true,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "b6567eb074548bd5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Паттерны ООП (Design Patterns).md",
-                "mode": "source",
-                "backlinks": true,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "07cce0a49b555c79",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Composite (компоновщик).md",
-                "mode": "source",
-                "backlinks": true,
                 "source": false
               }
             }
           },
           {
-            "id": "dd5dc8b50b5df0e4",
+            "id": "40dc512f61963234",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Servlet Application.md",
+                "file": "Порождающие паттерны.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 6
+        ]
       }
     ],
     "direction": "vertical"
@@ -171,12 +79,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 263.5,
-    "collapsed": true
+    "width": 263.5
   },
   "right": {
     "id": "040412060455cf19",
@@ -273,19 +181,22 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "b6567eb074548bd5",
+  "active": "6908273771a37f33",
   "lastOpenFiles": [
-    "Interpreter (интерпретатор).md",
+    "Структурные паттерны.md",
     "Паттерны ООП (Design Patterns).md",
+    "Порождающие паттерны.md",
+    "Composite (компоновщик).md",
+    "Java.md",
+    "Servlet Application.md",
+    "Abstract Factory (абстрактная фабрика).md",
+    "Конфигурирование фабрик сеансов Hibernate.md",
+    "Interpreter (интерпретатор).md",
     "Adapter (адаптер).md",
     "Singleton (одиночка).md",
     "Flyweight (приспособленец).md",
-    "Composite (компоновщик).md",
-    "Servlet Application.md",
     "Spring Security.md",
     "Attachments/Pasted image 20240222120410.png",
-    "Конфигурирование фабрик сеансов Hibernate.md",
-    "Java.md",
     "Аутентификация.md",
     "Авторизация.md",
     "Основные принципы объектно-реляционного преобразование средствами Hibernate.md",
@@ -300,9 +211,6 @@
     "Untitled.md",
     "Templates/Лекция.md",
     "АОП.md",
-    "Управление транзакциями.md",
-    "Языки программирования.md",
-    "Уровень абстракции транзакций в Spring.md",
     "Attachments",
     "Daily Notes",
     "Templates",
