@@ -19,8 +19,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "cd16513b6899f57e",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.8"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -167,7 +178,7 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "77dde6a6a38f782e",
+  "active": "cd16513b6899f57e",
   "lastOpenFiles": [
     "Templates/ТУСУР/Лекция.md",
     "Daily Notes/2024-03-01.md",
