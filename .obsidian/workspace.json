@@ -60,6 +60,19 @@
             }
           },
           {
+            "id": "07cce0a49b555c79",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Composite (компоновщик).md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
             "id": "dd5dc8b50b5df0e4",
             "type": "leaf",
             "state": {
@@ -206,8 +219,10 @@
   },
   "active": "c8eb0d569834c239",
   "lastOpenFiles": [
-    "Servlet Application.md",
+    "Flyweight (приспособленец).md",
     "Паттерны ООП (Design Patterns).md",
+    "Composite (компоновщик).md",
+    "Servlet Application.md",
     "Spring Security.md",
     "Attachments/Pasted image 20240222120410.png",
     "Конфигурирование фабрик сеансов Hibernate.md",
@@ -232,8 +247,6 @@
     "Массивы.md",
     "Kotlin.md",
     "АОП в Spring.md",
-    "Структуры данных и алгоритмы.md",
-    "Книги.md",
     "Attachments",
     "Daily Notes",
     "Templates",
