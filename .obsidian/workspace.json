@@ -4,24 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "460e2f5a81ea4c40",
+        "id": "7ff64a920b78c176",
         "type": "tabs",
         "children": [
           {
-            "id": "6908273771a37f33",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Паттерны ООП (Design Patterns).md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "40dc512f61963234",
+            "id": "132656c18ebf8e90",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -100,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Паттерны ООП (Design Patterns).md",
+                "file": "Порождающие паттерны.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Паттерны ООП (Design Patterns).md",
+                "file": "Порождающие паттерны.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Паттерны ООП (Design Patterns).md"
+                "file": "Порождающие паттерны.md"
               }
             }
           },
@@ -181,15 +168,23 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "6908273771a37f33",
+  "active": "132656c18ebf8e90",
   "lastOpenFiles": [
-    "Структурные паттерны.md",
     "Паттерны ООП (Design Patterns).md",
     "Порождающие паттерны.md",
+    "Builder (строитель).md",
+    "Factory Method (фабричный метод).md",
+    "Prototype (прототип).md",
+    "Abstract Factory (абстрактная фабрика).md",
+    "Decorator (декоратор).md",
+    "Структурные паттерны.md",
+    "Command (команда).md",
+    "Паттерны поведения.md",
+    "Chain of Responsibility (цепочка обязанностей).md",
+    "Proxy (заместитель).md",
     "Composite (компоновщик).md",
     "Java.md",
     "Servlet Application.md",
-    "Abstract Factory (абстрактная фабрика).md",
     "Конфигурирование фабрик сеансов Hibernate.md",
     "Interpreter (интерпретатор).md",
     "Adapter (адаптер).md",
@@ -202,15 +197,7 @@
     "Основные принципы объектно-реляционного преобразование средствами Hibernate.md",
     "Hibernate в Spring.md",
     "Pro Spring 5.md",
-    "Spring.md",
-    "Главные конфигурационные параметры HIbernate.md",
-    "Основы языка Java.md",
-    "ACID.md",
     "Attachments",
-    "Cквозная функциональнсоть.md",
-    "Untitled.md",
-    "Templates/Лекция.md",
-    "АОП.md",
     "Attachments",
     "Daily Notes",
     "Templates",
