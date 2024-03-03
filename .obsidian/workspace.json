@@ -4,20 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "7ff64a920b78c176",
+        "id": "11b6c6575bf307f3",
         "type": "tabs",
         "children": [
           {
-            "id": "77dde6a6a38f782e",
+            "id": "927bba2df65edbd2",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Практика НИР-1.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -86,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Практика НИР-1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Практика НИР-1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Практика НИР-1.md"
-              }
+              "state": {}
             }
           },
           {
@@ -168,15 +159,16 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "77dde6a6a38f782e",
+  "active": "927bba2df65edbd2",
   "lastOpenFiles": [
-    "Composite (компоновщик).md",
+    "Структурные паттерны.md",
+    "Паттерны ООП (Design Patterns).md",
     "Практика НИР-1.md",
+    "Composite (компоновщик).md",
     "Templates/ТУСУР/Лекция.md",
     "Daily Notes/2024-03-01.md",
     "Templates/ТУСУР",
     "Порождающие паттерны.md",
-    "Паттерны ООП (Design Patterns).md",
     "Chain of Responsibility (цепочка обязанностей).md",
     "Паттерны поведения.md",
     "Proxy (заместитель).md",
@@ -186,7 +178,6 @@
     "Factory Method (фабричный метод).md",
     "Abstract Factory (абстрактная фабрика).md",
     "Decorator (декоратор).md",
-    "Структурные паттерны.md",
     "Command (команда).md",
     "Java.md",
     "Servlet Application.md",
