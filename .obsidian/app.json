@@ -9,5 +9,5 @@
   "showIndentGuide": true,
   "propertiesInDocument": "source",
   "strictLineBreaks": false,
-  "livePreview": false
+  "livePreview": true
 }
