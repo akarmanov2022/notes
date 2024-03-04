@@ -1,4 +1,7 @@
-## Название и классификация
+---
+tags:
+---
+
 Абстрактная фабрика - паттерн, порождающий объекты
 ## Назначение
 Предоставляет интерфейс для создания семейств взаимосвязанных или взаимозависимых объектов, не специфицируя их конкретных классов.
@@ -19,38 +22,30 @@ classDiagram
         CreateScrollBar()*  
         CreateWindow()*  
     }  
-    namespace Motif {  
-        class MotifWidgetFactory {  
-            CreateScrollBar()  
-            CreateWindow()  
-        }  
-        class MotifWindow  
-        class MotifScrollBar  
+    class PMWidgetFactory {  
+        CreateScrollBar()  
+        CreateWindow()  
     }  
-    namespace PM {  
-        class PMWidgetFactory {  
-            CreateScrollBar()  
-            CreateWindow()  
-        }  
+    class MotifWidgetFactory {  
+        CreateScrollBar()  
+        CreateWindow()  
+    }  
+    class MotifWindow  
+    class MotifScrollBar  
+    class PMWindow  
+    class PMScrollBar  
   
-        class PMWindow  
-        class PMScrollBar  
-    }  
   
     Window <-- Client  
+    Window <|-- PMWindow  
+    Window <|-- MotifWindow  
     WidgetFactory <-- Client  
+    WidgetFactory <|-- MotifWidgetFactory  
+    WidgetFactory <|-- PMWidgetFactory  
     ScrollBar <-- Client  
-  
-  
-  
     ScrollBar <|-- PMScrollBar  
     ScrollBar <|-- MotifScrollBar  
   
-    Window <|-- PMWindow  
-    Window <|-- MotifWindow  
-  
-    WidgetFactory <|-- MotifWidgetFactory  
-    WidgetFactory <|-- PMWidgetFactory  
   
     PMScrollBar <.. PMWidgetFactory  
     PMWindow <.. PMWidgetFactory  
@@ -58,3 +53,21 @@ classDiagram
     MotifScrollBar <.. MotifWidgetFactory  
     MotifWindow <.. MotifWidgetFactory
 ```
+
+# Участники
+
+- `AbstractFactory` - абстрактная фабрика
+	- объявляет интерфейс для операции, создающих абстрактные объекты-продукты
+- `ConcreteFactory` - конкретная фабрика
+	- реализует операции, создающие конкретные объекты-продукты
+- `AbstractProduct` 
+	- объявляет интерфейс для типа объекта-продукта
+- `ConcreteProduct`
+	- Определяет объект-продукт, создаваемый соответствующей конкретной фабрикой
+- `Client` пользуется исключительно интерфейсами `AbstractFactory` и `AbstractProduct`
+# Отношения
+- обычно во время выполнения создается единственный экземпляр класса `ConcreteFactory`. Эта конкретная фабрика создает объекты-продукты, имеющие вполне определенную реализацию. Для создания других видов объектов клиент должен воспользоваться другой конкретной фабрикой
+- `AbstractFactory` передает создание объектов-продуктов своему подклассу
+# Результаты
+1. *изолируются конкретные классы*. Паттерн помогает контролировать классы объектов, создаваемых приложением. Поскольку фабрика инкапсулирует ответственность за создание классов и сам процесс их создания, то она изолирует клиента от подробностей реализации классов. Клиенты манипулируют экземплярами через их абстрактные интерфейсы. В коде клиента не упоминаются имена изготавливаемых классов.
+2. *упрощает замену семейств продуктов*. Класс конкретной фабрики появляется в приложении только один раз: при создании экземпляра. 
