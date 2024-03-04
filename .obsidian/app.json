@@ -7,6 +7,7 @@
   "foldIndent": true,
   "smartIndentList": true,
   "showIndentGuide": true,
-  "propertiesInDocument": "visible",
-  "strictLineBreaks": false
+  "propertiesInDocument": "source",
+  "strictLineBreaks": false,
+  "livePreview": false
 }
