@@ -19,17 +19,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "7958bd7ed46bd2ef",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -177,7 +168,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "7958bd7ed46bd2ef",
+  "active": "d521ed10cf687d11",
   "lastOpenFiles": [
     "Builder (строитель).md",
     "Порождающие паттерны.md",
