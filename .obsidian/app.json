@@ -9,5 +9,6 @@
   "showIndentGuide": true,
   "propertiesInDocument": "visible",
   "strictLineBreaks": false,
-  "livePreview": true
+  "livePreview": true,
+  "defaultViewMode": "preview"
 }
