@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Abstract Factory (абстрактная фабрика).md",
+                "file": "Builder (строитель).md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Abstract Factory (абстрактная фабрика).md",
+                "file": "Builder (строитель).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Abstract Factory (абстрактная фабрика).md",
+                "file": "Builder (строитель).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Abstract Factory (абстрактная фабрика).md"
+                "file": "Builder (строитель).md"
               }
             }
           },
@@ -170,6 +170,8 @@
   },
   "active": "d521ed10cf687d11",
   "lastOpenFiles": [
+    "Порождающие паттерны.md",
+    "Паттерны ООП (Design Patterns).md",
     "Abstract Factory (абстрактная фабрика).md",
     "Pro Spring 5.md",
     "Kotlin.md",
@@ -178,9 +180,7 @@
     "Builder (строитель).md",
     "Adapter (адаптер).md",
     "ACID.md",
-    "Порождающие паттерны.md",
     "Структурные паттерны.md",
-    "Паттерны ООП (Design Patterns).md",
     "Практика НИР-1.md",
     "Composite (компоновщик).md",
     "Templates/ТУСУР/Лекция.md",
