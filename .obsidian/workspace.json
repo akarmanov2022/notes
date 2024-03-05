@@ -4,20 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "11b6c6575bf307f3",
+        "id": "a6fd49f124d5f873",
         "type": "tabs",
         "children": [
           {
-            "id": "927bba2df65edbd2",
+            "id": "d521ed10cf687d11",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Abstract Factory (абстрактная фабрика).md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -86,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Abstract Factory (абстрактная фабрика).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Abstract Factory (абстрактная фабрика).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Abstract Factory (абстрактная фабрика).md"
-              }
+              "state": {}
             }
           },
           {
@@ -168,8 +159,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "927bba2df65edbd2",
+  "active": "d521ed10cf687d11",
   "lastOpenFiles": [
+    "Abstract Factory (абстрактная фабрика).md",
     "Pro Spring 5.md",
     "Kotlin.md",
     "Java.md",
@@ -177,7 +169,6 @@
     "Builder (строитель).md",
     "Adapter (адаптер).md",
     "ACID.md",
-    "Abstract Factory (абстрактная фабрика).md",
     "Порождающие паттерны.md",
     "Структурные паттерны.md",
     "Паттерны ООП (Design Patterns).md",
