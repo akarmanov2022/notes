@@ -19,8 +19,17 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "7958bd7ed46bd2ef",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -168,8 +177,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "d521ed10cf687d11",
+  "active": "7958bd7ed46bd2ef",
   "lastOpenFiles": [
+    "Builder (строитель).md",
     "Порождающие паттерны.md",
     "Паттерны ООП (Design Patterns).md",
     "Abstract Factory (абстрактная фабрика).md",
@@ -177,7 +187,6 @@
     "Kotlin.md",
     "Java.md",
     "Chain of Responsibility (цепочка обязанностей).md",
-    "Builder (строитель).md",
     "Adapter (адаптер).md",
     "ACID.md",
     "Структурные паттерны.md",
