@@ -21,6 +21,19 @@
             }
           },
           {
+            "id": "b6df350db9a8d727",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ФП Лекция 2024-03-06.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
             "id": "636365092e4e9c21",
             "type": "leaf",
             "state": {
@@ -33,7 +46,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -99,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Функциональное программирование.md",
+                "file": "ФП Лекция 2024-03-06.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Функциональное программирование.md",
+                "file": "ФП Лекция 2024-03-06.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Функциональное программирование.md"
+                "file": "ФП Лекция 2024-03-06.md"
               }
             }
           },
@@ -181,10 +195,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "d521ed10cf687d11",
+  "active": "b6df350db9a8d727",
   "lastOpenFiles": [
-    "ФП Лекция 2024-03-06.md",
     "Функциональное программирование.md",
+    "ФП Лекция 2024-03-06.md",
     "Abstract Factory (абстрактная фабрика).md",
     "Builder (строитель).md",
     "Порождающие паттерны.md",
