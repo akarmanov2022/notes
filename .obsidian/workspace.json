@@ -13,7 +13,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Abstract Factory (абстрактная фабрика).md",
+                "file": "Функциональное программирование.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "636365092e4e9c21",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ФП Лекция 2024-03-06.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Abstract Factory (абстрактная фабрика).md",
+                "file": "Функциональное программирование.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Abstract Factory (абстрактная фабрика).md",
+                "file": "Функциональное программирование.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Abstract Factory (абстрактная фабрика).md"
+                "file": "Функциональное программирование.md"
               }
             }
           },
@@ -170,10 +183,12 @@
   },
   "active": "d521ed10cf687d11",
   "lastOpenFiles": [
+    "ФП Лекция 2024-03-06.md",
+    "Функциональное программирование.md",
+    "Abstract Factory (абстрактная фабрика).md",
     "Builder (строитель).md",
     "Порождающие паттерны.md",
     "Паттерны ООП (Design Patterns).md",
-    "Abstract Factory (абстрактная фабрика).md",
     "Pro Spring 5.md",
     "Kotlin.md",
     "Java.md",
@@ -196,8 +211,6 @@
     "Servlet Application.md",
     "Конфигурирование фабрик сеансов Hibernate.md",
     "Interpreter (интерпретатор).md",
-    "Singleton (одиночка).md",
-    "Flyweight (приспособленец).md",
     "Attachments/Pasted image 20240222120410.png",
     "Attachments",
     "Attachments",
