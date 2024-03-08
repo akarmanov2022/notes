@@ -46,8 +46,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -113,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ФП Лекция 2024-03-06.md",
+                "file": "Функциональное программирование.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ФП Лекция 2024-03-06.md",
+                "file": "Функциональное программирование.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ФП Лекция 2024-03-06.md"
+                "file": "Функциональное программирование.md"
               }
             }
           },
@@ -195,10 +194,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "b6df350db9a8d727",
+  "active": "d521ed10cf687d11",
   "lastOpenFiles": [
-    "Функциональное программирование.md",
     "ФП Лекция 2024-03-06.md",
+    "Функциональное программирование.md",
     "Abstract Factory (абстрактная фабрика).md",
     "Builder (строитель).md",
     "Порождающие паттерны.md",
