@@ -173,7 +173,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -195,9 +195,10 @@
   },
   "active": "d521ed10cf687d11",
   "lastOpenFiles": [
+    "Adapter (адаптер).md",
+    "Builder (строитель).md",
     "Attachments/Pasted image 20240308103220.png",
     "Excalidraw/Drawing 2024-03-08 10.14.30.excalidraw.md",
-    "Builder (строитель).md",
     "Excalidraw",
     "Функциональное программирование.md",
     "ФП Лекция 2024-03-06.md",
@@ -208,7 +209,6 @@
     "Kotlin.md",
     "Java.md",
     "Chain of Responsibility (цепочка обязанностей).md",
-    "Adapter (адаптер).md",
     "ACID.md",
     "Структурные паттерны.md",
     "Практика НИР-1.md",
