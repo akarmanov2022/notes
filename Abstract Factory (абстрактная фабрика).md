@@ -1,5 +1,6 @@
 ---
-tags:
+tags: 
+github: https://github.com/akarmanov2022/design-patterns-java/blob/c8c38d0f1a32add6b0a1014b76973f5e25740643/patterns/abstract-factory
 ---
 
 Абстрактная фабрика - паттерн, порождающий объекты

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Builder (строитель).md",
+                "file": "Abstract Factory (абстрактная фабрика).md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -96,7 +96,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 346.5
+    "width": 301.5
   },
   "right": {
     "id": "040412060455cf19",
@@ -112,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Builder (строитель).md",
+                "file": "Abstract Factory (абстрактная фабрика).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Builder (строитель).md",
+                "file": "Abstract Factory (абстрактная фабрика).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Builder (строитель).md"
+                "file": "Abstract Factory (абстрактная фабрика).md"
               }
             }
           },
@@ -195,8 +195,8 @@
   },
   "active": "d521ed10cf687d11",
   "lastOpenFiles": [
-    "Adapter (адаптер).md",
     "Builder (строитель).md",
+    "Adapter (адаптер).md",
     "Attachments/Pasted image 20240308103220.png",
     "Excalidraw/Drawing 2024-03-08 10.14.30.excalidraw.md",
     "Excalidraw",
