@@ -10,6 +10,8 @@
 ## Структура
 ```plantuml
 @startuml
-
+abstract A2
 @enduml
 ```
+
+

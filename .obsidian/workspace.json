@@ -96,7 +96,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 263.5
+    "width": 346.5
   },
   "right": {
     "id": "040412060455cf19",
@@ -195,6 +195,7 @@
   },
   "active": "d521ed10cf687d11",
   "lastOpenFiles": [
+    "Attachments/Pasted image 20240308103220.png",
     "Excalidraw/Drawing 2024-03-08 10.14.30.excalidraw.md",
     "Builder (строитель).md",
     "Excalidraw",
@@ -223,7 +224,6 @@
     "Decorator (декоратор).md",
     "Command (команда).md",
     "Servlet Application.md",
-    "Конфигурирование фабрик сеансов Hibernate.md",
     "Attachments/Pasted image 20240222120410.png",
     "Attachments",
     "Attachments",
