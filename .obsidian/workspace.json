@@ -177,8 +177,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -196,10 +195,12 @@
   },
   "active": "d521ed10cf687d11",
   "lastOpenFiles": [
+    "Excalidraw/Drawing 2024-03-08 10.14.30.excalidraw.md",
+    "Builder (строитель).md",
+    "Excalidraw",
     "Функциональное программирование.md",
     "ФП Лекция 2024-03-06.md",
     "Abstract Factory (абстрактная фабрика).md",
-    "Builder (строитель).md",
     "Порождающие паттерны.md",
     "Паттерны ООП (Design Patterns).md",
     "Pro Spring 5.md",
@@ -223,7 +224,6 @@
     "Command (команда).md",
     "Servlet Application.md",
     "Конфигурирование фабрик сеансов Hibernate.md",
-    "Interpreter (интерпретатор).md",
     "Attachments/Pasted image 20240222120410.png",
     "Attachments",
     "Attachments",
