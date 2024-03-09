@@ -8,4 +8,3 @@
 - алгоритм создания сложного объекта не должен зависеть от того, из каких частей состоит объект и как они стыкуются между собой
 - процесс конструирования должен обеспечивать различные представления конструируемого объекта.
 ## Структура
-![](https://github.com/akarmanov2022/design-patterns-java/blob/f5d879f610cb79ebf63773852118e6686c2ca6d3/patterns/abstract-factory/src/main/resources/abstract-factory.png?raw=true)

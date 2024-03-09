@@ -10,50 +10,10 @@ links:
 - система не должна зависеть от того, как создаются, компонуются и представляются входящие в нее объекты
 - система должна настраиваться одним из семейств объектов
 - входящие в семейство взаимосвязанные объекты спроектированы для совместной работы, и вы должны обеспечить выполнение этого ограничения
-- вы хотите предоставить библиотеку объектов, раскрывая только их интерфейсы, но не реализацию
+- вы хотите предоставить библиотеку объектов, раскрывая то[]()лько их интерфейсы, но не реализацию
 ## Структура
 
-```mermaid
-classDiagram  
-    class Client  
-    class Window  
-    class ScrollBar  
-  
-    class WidgetFactory {  
-        CreateScrollBar()*  
-        CreateWindow()*  
-    }  
-    class PMWidgetFactory {  
-        CreateScrollBar()  
-        CreateWindow()  
-    }  
-    class MotifWidgetFactory {  
-        CreateScrollBar()  
-        CreateWindow()  
-    }  
-    class MotifWindow  
-    class MotifScrollBar  
-    class PMWindow  
-    class PMScrollBar  
-  
-  
-    Window <-- Client  
-    Window <|-- PMWindow  
-    Window <|-- MotifWindow  
-    WidgetFactory <-- Client  
-    WidgetFactory <|-- MotifWidgetFactory  
-    WidgetFactory <|-- PMWidgetFactory  
-    ScrollBar <-- Client  
-    ScrollBar <|-- PMScrollBar  
-    ScrollBar <|-- MotifScrollBar  
-  
-  
-    PMScrollBar <.. PMWidgetFactory  
-    PMWindow <.. PMWidgetFactory  
-  
-    MotifScrollBar <.. MotifWidgetFactory  
-    MotifWindow <.. MotifWidgetFactory
-```
+![](https://github.com/akarmanov2022/design-patterns-java/blob/f5d879f610cb79ebf63773852118e6686c2ca6d3/patterns/abstract-factory/src/main/resources/abstract-factory.png?raw=true)
 
 # Участники
 
