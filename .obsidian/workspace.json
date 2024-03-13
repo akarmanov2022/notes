@@ -4,20 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "a6fd49f124d5f873",
+        "id": "dc7dab341c66168f",
         "type": "tabs",
         "children": [
           {
-            "id": "636365092e4e9c21",
+            "id": "34ee5a454c2aa7b0",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Builder (строитель).md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -86,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Builder (строитель).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Builder (строитель).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Builder (строитель).md"
-              }
+              "state": {}
             }
           },
           {
@@ -167,16 +158,19 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "636365092e4e9c21",
+  "active": "34ee5a454c2aa7b0",
   "lastOpenFiles": [
+    "Templates/ТУСУР/Лекция.md",
+    "Функциональное программирование.md",
+    "Untitled.md",
+    "ФП Лекция 2024-03-06.md",
+    "ФП Лекция 2024-03-13.md",
+    "Builder (строитель).md",
     "Abstract Factory (абстрактная фабрика).md",
     "Adapter (адаптер).md",
-    "Builder (строитель).md",
-    "ФП Лекция 2024-03-06.md",
     "Attachments/Pasted image 20240308103220.png",
     "Excalidraw/Drawing 2024-03-08 10.14.30.excalidraw.md",
     "Excalidraw",
-    "Функциональное программирование.md",
     "Порождающие паттерны.md",
     "Паттерны ООП (Design Patterns).md",
     "Pro Spring 5.md",
@@ -187,7 +181,6 @@
     "Структурные паттерны.md",
     "Практика НИР-1.md",
     "Composite (компоновщик).md",
-    "Templates/ТУСУР/Лекция.md",
     "Daily Notes/2024-03-01.md",
     "Templates/ТУСУР",
     "Паттерны поведения.md",
@@ -197,7 +190,6 @@
     "Factory Method (фабричный метод).md",
     "Decorator (декоратор).md",
     "Command (команда).md",
-    "Servlet Application.md",
     "Attachments/Pasted image 20240222120410.png",
     "Attachments",
     "Attachments",
