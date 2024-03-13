@@ -4,15 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "dc7dab341c66168f",
+        "id": "de341efa71a0d65c",
         "type": "tabs",
         "children": [
           {
-            "id": "34ee5a454c2aa7b0",
+            "id": "c305ee3ba3a784f1",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "ФП Лекция 2024-03-13.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "ФП Лекция 2024-03-13.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "ФП Лекция 2024-03-13.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "ФП Лекция 2024-03-13.md"
+              }
             }
           },
           {
@@ -158,13 +167,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "34ee5a454c2aa7b0",
+  "active": "c305ee3ba3a784f1",
   "lastOpenFiles": [
-    "Templates/ТУСУР/Лекция.md",
     "Функциональное программирование.md",
+    "ФП Лекция 2024-03-13.md",
+    "Templates/ТУСУР/Лекция.md",
+    "Untitled 1.md",
     "Untitled.md",
     "ФП Лекция 2024-03-06.md",
-    "ФП Лекция 2024-03-13.md",
     "Builder (строитель).md",
     "Abstract Factory (абстрактная фабрика).md",
     "Adapter (адаптер).md",
@@ -189,7 +199,6 @@
     "Design Patterns",
     "Factory Method (фабричный метод).md",
     "Decorator (декоратор).md",
-    "Command (команда).md",
     "Attachments/Pasted image 20240222120410.png",
     "Attachments",
     "Attachments",
