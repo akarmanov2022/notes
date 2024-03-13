@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ФП Лекция 2024-03-13.md",
+                "file": "Тестирование ПО.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ФП Лекция 2024-03-13.md",
+                "file": "Тестирование ПО.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ФП Лекция 2024-03-13.md",
+                "file": "Тестирование ПО.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ФП Лекция 2024-03-13.md"
+                "file": "Тестирование ПО.md"
               }
             }
           },
@@ -169,8 +169,9 @@
   },
   "active": "c305ee3ba3a784f1",
   "lastOpenFiles": [
-    "Функциональное программирование.md",
     "ФП Лекция 2024-03-13.md",
+    "Тестирование ПО.md",
+    "Функциональное программирование.md",
     "Templates/ТУСУР/Лекция.md",
     "Untitled 1.md",
     "Untitled.md",
@@ -198,7 +199,6 @@
     "Prototype (прототип).md",
     "Design Patterns",
     "Factory Method (фабричный метод).md",
-    "Decorator (декоратор).md",
     "Attachments/Pasted image 20240222120410.png",
     "Attachments",
     "Attachments",
