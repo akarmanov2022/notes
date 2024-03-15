@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "de341efa71a0d65c",
+        "id": "72ea03ed507648d9",
         "type": "tabs",
         "children": [
           {
-            "id": "c305ee3ba3a784f1",
+            "id": "2e2b667e4febfd9b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Тестирование ПО.md",
+                "file": "Управление проектами (УК).md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Тестирование ПО.md",
+                "file": "Управление проектами (УК).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Тестирование ПО.md",
+                "file": "Управление проектами (УК).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Тестирование ПО.md"
+                "file": "Управление проектами (УК).md"
               }
             }
           },
@@ -167,12 +167,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "c305ee3ba3a784f1",
+  "active": "2e2b667e4febfd9b",
   "lastOpenFiles": [
-    "ФП Лекция 2024-03-13.md",
+    "Управление проектами (УК).md",
+    "Templates/Лекция.md",
+    "Temp.md",
     "Тестирование ПО.md",
+    "ФП Лекция 2024-03-13.md",
     "Функциональное программирование.md",
-    "Templates/ТУСУР/Лекция.md",
     "Untitled 1.md",
     "Untitled.md",
     "ФП Лекция 2024-03-06.md",
@@ -196,9 +198,7 @@
     "Templates/ТУСУР",
     "Паттерны поведения.md",
     "Proxy (заместитель).md",
-    "Prototype (прототип).md",
     "Design Patterns",
-    "Factory Method (фабричный метод).md",
     "Attachments/Pasted image 20240222120410.png",
     "Attachments",
     "Attachments",
