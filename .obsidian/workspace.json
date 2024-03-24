@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bridge (мост).md",
-                "mode": "source",
+                "file": "Строительные блоки.md",
+                "mode": "preview",
                 "backlinks": true,
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Bridge (мост).md",
+                "file": "Строительные блоки.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Bridge (мост).md",
+                "file": "Строительные блоки.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Bridge (мост).md"
+                "file": "Строительные блоки.md"
               }
             }
           },
@@ -169,8 +169,12 @@
   },
   "active": "2e2b667e4febfd9b",
   "lastOpenFiles": [
-    "Adapter (адаптер).md",
+    "Java Concurrency.md",
+    "Строительные блоки.md",
+    "Книги.md",
+    "Java.md",
     "Bridge (мост).md",
+    "Adapter (адаптер).md",
     "Управление проектами (УК).md",
     "Templates/Лекция.md",
     "Temp.md",
@@ -189,15 +193,11 @@
     "Паттерны ООП (Design Patterns).md",
     "Pro Spring 5.md",
     "Kotlin.md",
-    "Java.md",
     "Chain of Responsibility (цепочка обязанностей).md",
     "ACID.md",
     "Структурные паттерны.md",
     "Практика НИР-1.md",
-    "Composite (компоновщик).md",
-    "Daily Notes/2024-03-01.md",
     "Templates/ТУСУР",
-    "Паттерны поведения.md",
     "Design Patterns",
     "Attachments/Pasted image 20240222120410.png",
     "Attachments",
