@@ -70,7 +70,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 301.5
+    "width": 301.5,
+    "collapsed": true
   },
   "right": {
     "id": "040412060455cf19",
@@ -147,7 +148,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -169,13 +170,21 @@
   },
   "active": "2e2b667e4febfd9b",
   "lastOpenFiles": [
+    "Adapter (адаптер).md",
+    "Паттерны поведения.md",
+    "Factory Method (фабричный метод).md",
+    "Decorator (декоратор).md",
+    "Cквозная функциональнсоть.md",
+    "Produces-Consumer (Производитель-Потребитель).md",
+    "Proxy (заместитель).md",
+    "Prototype (прототип).md",
+    "Строительные блоки.md",
+    "Архитектурные паттерны.md",
     "Java Concurrency.md",
     "Java]] [[Книги.md",
-    "Строительные блоки.md",
     "Книги.md",
     "Java.md",
     "Bridge (мост).md",
-    "Adapter (адаптер).md",
     "Управление проектами (УК).md",
     "Templates/Лекция.md",
     "Temp.md",
@@ -188,15 +197,7 @@
     "Builder (строитель).md",
     "Abstract Factory (абстрактная фабрика).md",
     "Attachments/Pasted image 20240308103220.png",
-    "Excalidraw/Drawing 2024-03-08 10.14.30.excalidraw.md",
     "Excalidraw",
-    "Порождающие паттерны.md",
-    "Паттерны ООП (Design Patterns).md",
-    "Pro Spring 5.md",
-    "Kotlin.md",
-    "Chain of Responsibility (цепочка обязанностей).md",
-    "ACID.md",
-    "Структурные паттерны.md",
     "Templates/ТУСУР",
     "Design Patterns",
     "Attachments/Pasted image 20240222120410.png",
