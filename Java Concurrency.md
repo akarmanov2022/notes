@@ -4,6 +4,7 @@ tags:
   - Книга
 aliases:
   - JCon
+links: "[[Java]]"
 ---
 ```dataview
 TABLE

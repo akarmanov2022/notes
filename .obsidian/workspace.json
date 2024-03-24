@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "Строительные блоки.md",
-                "mode": "preview",
+                "mode": "source",
                 "backlinks": true,
                 "source": false
               }
@@ -170,6 +170,7 @@
   "active": "2e2b667e4febfd9b",
   "lastOpenFiles": [
     "Java Concurrency.md",
+    "Java]] [[Книги.md",
     "Строительные блоки.md",
     "Книги.md",
     "Java.md",
@@ -196,7 +197,6 @@
     "Chain of Responsibility (цепочка обязанностей).md",
     "ACID.md",
     "Структурные паттерны.md",
-    "Практика НИР-1.md",
     "Templates/ТУСУР",
     "Design Patterns",
     "Attachments/Pasted image 20240222120410.png",
