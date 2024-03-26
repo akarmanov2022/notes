@@ -24,8 +24,13 @@
             "id": "dbab3a11bbd45fb4",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Abstract Factory (абстрактная фабрика).md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ],
@@ -95,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Строительные блоки.md",
+                "file": "Abstract Factory (абстрактная фабрика).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Строительные блоки.md",
+                "file": "Abstract Factory (абстрактная фабрика).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Строительные блоки.md"
+                "file": "Abstract Factory (абстрактная фабрика).md"
               }
             }
           },
@@ -178,6 +183,11 @@
   },
   "active": "dbab3a11bbd45fb4",
   "lastOpenFiles": [
+    "Порождающие паттерны.md",
+    "Паттерны ООП (Design Patterns).md",
+    "Abstract Factory (абстрактная фабрика).md",
+    "Архитектурные паттерны.md",
+    "Command (команда).md",
     "Adapter (адаптер).md",
     "Паттерны поведения.md",
     "Factory Method (фабричный метод).md",
@@ -187,7 +197,6 @@
     "Proxy (заместитель).md",
     "Prototype (прототип).md",
     "Строительные блоки.md",
-    "Архитектурные паттерны.md",
     "Java Concurrency.md",
     "Java]] [[Книги.md",
     "Книги.md",
@@ -200,10 +209,6 @@
     "ФП Лекция 2024-03-13.md",
     "Функциональное программирование.md",
     "Untitled 1.md",
-    "Untitled.md",
-    "ФП Лекция 2024-03-06.md",
-    "Builder (строитель).md",
-    "Abstract Factory (абстрактная фабрика).md",
     "Attachments/Pasted image 20240308103220.png",
     "Excalidraw",
     "Templates/ТУСУР",
