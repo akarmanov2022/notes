@@ -24,10 +24,8 @@
             "id": "dbab3a11bbd45fb4",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.5.11"
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ],
@@ -81,8 +79,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 301.5,
-    "collapsed": true
+    "width": 301.5
   },
   "right": {
     "id": "040412060455cf19",
