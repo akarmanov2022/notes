@@ -26,8 +26,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Abstract Factory (абстрактная фабрика).md",
-                "mode": "preview",
+                "file": "Строительные блоки.md",
+                "mode": "source",
                 "backlinks": true,
                 "source": false
               }
@@ -84,7 +84,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 301.5
+    "width": 301.5,
+    "collapsed": true
   },
   "right": {
     "id": "040412060455cf19",
@@ -100,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Abstract Factory (абстрактная фабрика).md",
+                "file": "Строительные блоки.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Abstract Factory (абстрактная фабрика).md",
+                "file": "Строительные блоки.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Abstract Factory (абстрактная фабрика).md"
+                "file": "Строительные блоки.md"
               }
             }
           },
@@ -183,9 +184,10 @@
   },
   "active": "dbab3a11bbd45fb4",
   "lastOpenFiles": [
+    "Java Concurrency.md",
+    "Abstract Factory (абстрактная фабрика).md",
     "Порождающие паттерны.md",
     "Паттерны ООП (Design Patterns).md",
-    "Abstract Factory (абстрактная фабрика).md",
     "Архитектурные паттерны.md",
     "Command (команда).md",
     "Adapter (адаптер).md",
@@ -197,7 +199,6 @@
     "Proxy (заместитель).md",
     "Prototype (прототип).md",
     "Строительные блоки.md",
-    "Java Concurrency.md",
     "Java]] [[Книги.md",
     "Книги.md",
     "Java.md",
