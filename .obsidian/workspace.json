@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Java Concurrency.md",
+                "file": "Строительные блоки.md",
                 "mode": "preview",
                 "backlinks": true,
                 "source": false
@@ -33,8 +33,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -101,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Produces-Consumer (Производитель-Потребитель).md",
+                "file": "Строительные блоки.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Produces-Consumer (Производитель-Потребитель).md",
+                "file": "Строительные блоки.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Produces-Consumer (Производитель-Потребитель).md"
+                "file": "Строительные блоки.md"
               }
             }
           },
@@ -182,14 +181,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "dbab3a11bbd45fb4",
+  "active": "2e2b667e4febfd9b",
   "lastOpenFiles": [
+    "Produces-Consumer (Производитель-Потребитель).md",
+    "Строительные блоки.md",
     "Java Concurrency.md",
     "Java.md",
     "Архитектурные паттерны.md",
     "Work stealing (Кража работы).md",
-    "Строительные блоки.md",
-    "Produces-Consumer (Производитель-Потребитель).md",
     "Abstract Factory (абстрактная фабрика).md",
     "Порождающие паттерны.md",
     "Паттерны ООП (Design Patterns).md",
