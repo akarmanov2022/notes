@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Строительные блоки.md",
-                "mode": "source",
+                "file": "Java Concurrency.md",
+                "mode": "preview",
                 "backlinks": true,
                 "source": false
               }
@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Строительные блоки.md",
+                "file": "Produces-Consumer (Производитель-Потребитель).md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Строительные блоки.md",
+                "file": "Produces-Consumer (Производитель-Потребитель).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Строительные блоки.md",
+                "file": "Produces-Consumer (Производитель-Потребитель).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Строительные блоки.md"
+                "file": "Produces-Consumer (Производитель-Потребитель).md"
               }
             }
           },
@@ -185,23 +185,24 @@
   "active": "dbab3a11bbd45fb4",
   "lastOpenFiles": [
     "Java Concurrency.md",
+    "Java.md",
+    "Архитектурные паттерны.md",
+    "Work stealing (Кража работы).md",
+    "Строительные блоки.md",
+    "Produces-Consumer (Производитель-Потребитель).md",
     "Abstract Factory (абстрактная фабрика).md",
     "Порождающие паттерны.md",
     "Паттерны ООП (Design Patterns).md",
-    "Архитектурные паттерны.md",
     "Command (команда).md",
     "Adapter (адаптер).md",
     "Паттерны поведения.md",
     "Factory Method (фабричный метод).md",
     "Decorator (декоратор).md",
     "Cквозная функциональнсоть.md",
-    "Produces-Consumer (Производитель-Потребитель).md",
     "Proxy (заместитель).md",
     "Prototype (прототип).md",
-    "Строительные блоки.md",
     "Java]] [[Книги.md",
     "Книги.md",
-    "Java.md",
     "Bridge (мост).md",
     "Управление проектами (УК).md",
     "Templates/Лекция.md",
@@ -209,7 +210,6 @@
     "Тестирование ПО.md",
     "ФП Лекция 2024-03-13.md",
     "Функциональное программирование.md",
-    "Untitled 1.md",
     "Attachments/Pasted image 20240308103220.png",
     "Excalidraw",
     "Templates/ТУСУР",
