@@ -13,7 +13,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Produces-Consumer (Производитель-Потребитель).md",
+                "file": "Выполнение задач.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e0cad632e299619c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Книги.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -87,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Produces-Consumer (Производитель-Потребитель).md",
+                "file": "Выполнение задач.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Produces-Consumer (Производитель-Потребитель).md",
+                "file": "Выполнение задач.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Produces-Consumer (Производитель-Потребитель).md"
+                "file": "Выполнение задач.md"
               }
             }
           },
@@ -170,11 +183,12 @@
   },
   "active": "dbab3a11bbd45fb4",
   "lastOpenFiles": [
-    "Выполнение задач.md",
     "Java Concurrency.md",
     "Строительные блоки.md",
-    "Produces-Consumer (Производитель-Потребитель).md",
+    "Книги.md",
+    "Выполнение задач.md",
     "Java.md",
+    "Produces-Consumer (Производитель-Потребитель).md",
     "Архитектурные паттерны.md",
     "Work stealing (Кража работы).md",
     "Abstract Factory (абстрактная фабрика).md",
@@ -189,7 +203,6 @@
     "Proxy (заместитель).md",
     "Prototype (прототип).md",
     "Java]] [[Книги.md",
-    "Книги.md",
     "Bridge (мост).md",
     "Управление проектами (УК).md",
     "Templates/Лекция.md",
