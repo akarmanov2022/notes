@@ -8,19 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "2e2b667e4febfd9b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Строительные блоки.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "dbab3a11bbd45fb4",
             "type": "leaf",
             "state": {
@@ -100,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Строительные блоки.md",
+                "file": "Produces-Consumer (Производитель-Потребитель).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Строительные блоки.md",
+                "file": "Produces-Consumer (Производитель-Потребитель).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Строительные блоки.md"
+                "file": "Produces-Consumer (Производитель-Потребитель).md"
               }
             }
           },
@@ -181,11 +168,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "2e2b667e4febfd9b",
+  "active": "dbab3a11bbd45fb4",
   "lastOpenFiles": [
-    "Produces-Consumer (Производитель-Потребитель).md",
-    "Строительные блоки.md",
+    "Выполнение задач.md",
     "Java Concurrency.md",
+    "Строительные блоки.md",
+    "Produces-Consumer (Производитель-Потребитель).md",
     "Java.md",
     "Архитектурные паттерны.md",
     "Work stealing (Кража работы).md",
@@ -208,7 +196,6 @@
     "Temp.md",
     "Тестирование ПО.md",
     "ФП Лекция 2024-03-13.md",
-    "Функциональное программирование.md",
     "Attachments/Pasted image 20240308103220.png",
     "Excalidraw",
     "Templates/ТУСУР",
