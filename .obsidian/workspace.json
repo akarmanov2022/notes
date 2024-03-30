@@ -26,7 +26,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Параллельные вычисления в Java.md",
+                "file": "Java.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4d0061b204cf7bda",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Лямбда-выражения и потоки.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -47,7 +60,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -114,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Параллельные вычисления в Java.md",
+                "file": "Лямбда-выражения и потоки.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Параллельные вычисления в Java.md",
+                "file": "Лямбда-выражения и потоки.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +167,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Параллельные вычисления в Java.md"
+                "file": "Лямбда-выражения и потоки.md"
               }
             }
           },
@@ -195,11 +208,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "3fcf22670f841b32",
+  "active": "4d0061b204cf7bda",
   "lastOpenFiles": [
-    "Строительные блоки.md",
-    "Параллельные вычисления в Java.md",
     "Java.md",
+    "Лямбда-выражения и потоки.md",
+    "Параллельные вычисления в Java.md",
+    "Строительные блоки.md",
     "Книги.md",
     "Основы языка Java.md",
     "Java Concurrency.md",
@@ -222,7 +236,6 @@
     "Bridge (мост).md",
     "Управление проектами (УК).md",
     "Templates/Лекция.md",
-    "Temp.md",
     "Attachments/Pasted image 20240308103220.png",
     "Excalidraw",
     "Templates/ТУСУР",
