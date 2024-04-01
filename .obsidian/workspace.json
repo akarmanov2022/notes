@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Лямбда-выражения и потоки.md",
+                "file": "Abstract Factory (абстрактная фабрика).md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -127,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Лямбда-выражения и потоки.md",
+                "file": "Abstract Factory (абстрактная фабрика).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,7 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Лямбда-выражения и потоки.md",
+                "file": "Abstract Factory (абстрактная фабрика).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -167,7 +167,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Лямбда-выражения и потоки.md"
+                "file": "Abstract Factory (абстрактная фабрика).md"
               }
             }
           },
@@ -210,8 +210,11 @@
   },
   "active": "4d0061b204cf7bda",
   "lastOpenFiles": [
-    "Java.md",
+    "Порождающие паттерны.md",
+    "Паттерны ООП (Design Patterns).md",
+    "Паттерны поведения.md",
     "Лямбда-выражения и потоки.md",
+    "Java.md",
     "Параллельные вычисления в Java.md",
     "Строительные блоки.md",
     "Книги.md",
@@ -222,11 +225,8 @@
     "Архитектурные паттерны.md",
     "Work stealing (Кража работы).md",
     "Abstract Factory (абстрактная фабрика).md",
-    "Порождающие паттерны.md",
-    "Паттерны ООП (Design Patterns).md",
     "Command (команда).md",
     "Adapter (адаптер).md",
-    "Паттерны поведения.md",
     "Factory Method (фабричный метод).md",
     "Decorator (декоратор).md",
     "Cквозная функциональнсоть.md",
