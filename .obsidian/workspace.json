@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Паттерны ООП (Design Patterns).md",
+                "file": "Bridge (мост).md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Паттерны ООП (Design Patterns).md",
+                "file": "Bridge (мост).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Паттерны ООП (Design Patterns).md",
+                "file": "Bridge (мост).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Паттерны ООП (Design Patterns).md"
+                "file": "Bridge (мост).md"
               }
             }
           },
@@ -184,10 +184,13 @@
   },
   "active": "4d0061b204cf7bda",
   "lastOpenFiles": [
-    "Порождающие паттерны.md",
+    "Структурные паттерны.md",
+    "Adapter (адаптер).md",
     "Паттерны ООП (Design Patterns).md",
-    "Паттерны поведения.md",
+    "Порождающие паттерны.md",
     "Abstract Factory (абстрактная фабрика).md",
+    "Decorator (декоратор).md",
+    "Паттерны поведения.md",
     "Лямбда-выражения и потоки.md",
     "Java.md",
     "Параллельные вычисления в Java.md",
@@ -200,16 +203,13 @@
     "Архитектурные паттерны.md",
     "Work stealing (Кража работы).md",
     "Command (команда).md",
-    "Adapter (адаптер).md",
     "Factory Method (фабричный метод).md",
-    "Decorator (декоратор).md",
     "Cквозная функциональнсоть.md",
     "Proxy (заместитель).md",
     "Prototype (прототип).md",
     "Java]] [[Книги.md",
     "Bridge (мост).md",
     "Управление проектами (УК).md",
-    "Templates/Лекция.md",
     "Attachments/Pasted image 20240308103220.png",
     "Excalidraw",
     "Templates/ТУСУР",
