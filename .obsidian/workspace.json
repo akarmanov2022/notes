@@ -21,6 +21,16 @@
             }
           },
           {
+            "id": "e51a75b10d9dbbe3",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.12"
+              }
+            }
+          },
+          {
             "id": "e0cad632e299619c",
             "type": "leaf",
             "state": {
@@ -33,7 +43,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -182,7 +193,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "4d0061b204cf7bda",
+  "active": "e51a75b10d9dbbe3",
   "lastOpenFiles": [
     "Структурные паттерны.md",
     "Adapter (адаптер).md",
