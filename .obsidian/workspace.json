@@ -39,8 +39,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Flux.md",
-                "mode": "source",
+                "file": "Архитектурные паттерны.md",
+                "mode": "preview",
                 "backlinks": true,
                 "source": false
               }
@@ -128,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Flux.md",
+                "file": "Архитектурные паттерны.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Flux.md",
+                "file": "Архитектурные паттерны.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Flux.md"
+                "file": "Архитектурные паттерны.md"
               }
             }
           },
@@ -211,9 +211,9 @@
   },
   "active": "5bca9403b829b9f3",
   "lastOpenFiles": [
+    "Flux.md",
     "Spring WebFlux.md",
     "Mono.md",
-    "Flux.md",
     "Attachments/Pasted image 20240408144254.png",
     "Bridge (мост).md",
     "АОП в Spring.md",
