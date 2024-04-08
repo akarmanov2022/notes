@@ -9,4 +9,4 @@ tags:
 - [[Основные принципы объектно-реляционного преобразование средствами Hibernate]]
 - Операции над данными
 
-[[Spring]] [[Pro Spring 5]]
+[[Spring Framework]] [[Pro Spring 5]]

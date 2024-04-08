@@ -34,12 +34,25 @@
             }
           },
           {
+            "id": "5bca9403b829b9f3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Mono.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
             "id": "ca08a97bf2c12407",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spring WebFlux.md",
+                "file": "АОП в Spring.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -115,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spring WebFlux.md",
+                "file": "Mono.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Spring WebFlux.md",
+                "file": "Mono.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spring WebFlux.md"
+                "file": "Mono.md"
               }
             }
           },
@@ -196,14 +209,17 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "ca08a97bf2c12407",
+  "active": "5bca9403b829b9f3",
   "lastOpenFiles": [
-    "Web on Reactive Stack.md",
+    "Attachments/Pasted image 20240408143343.png",
     "Spring WebFlux.md",
+    "Mono.md",
+    "Web on Reactive Stack.md",
     "Spring Security.md",
-    "Servlet Application.md",
     "Bridge (мост).md",
-    "Spring.md",
+    "АОП в Spring.md",
+    "Spring Framework.md",
+    "Servlet Application.md",
     "Книги.md",
     "Структурные паттерны.md",
     "Adapter (адаптер).md",
@@ -221,9 +237,6 @@
     "Выполнение задач.md",
     "Produces-Consumer (Производитель-Потребитель).md",
     "Архитектурные паттерны.md",
-    "Work stealing (Кража работы).md",
-    "Command (команда).md",
-    "Factory Method (фабричный метод).md",
     "Attachments/Pasted image 20240308103220.png",
     "Excalidraw",
     "Templates/ТУСУР",

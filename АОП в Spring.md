@@ -4,4 +4,4 @@ tags:
   - Spring
 ---
 [[АОП]]
-[[Spring]]
+[[Spring Framework]]
