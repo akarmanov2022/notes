@@ -21,22 +21,25 @@
             }
           },
           {
-            "id": "e51a75b10d9dbbe3",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.5.12"
-              }
-            }
-          },
-          {
             "id": "e0cad632e299619c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Книги.md",
+                "file": "Web on Reactive Stack.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ca08a97bf2c12407",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Spring WebFlux.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -44,7 +47,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -112,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Bridge (мост).md",
+                "file": "Spring WebFlux.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Bridge (мост).md",
+                "file": "Spring WebFlux.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Bridge (мост).md"
+                "file": "Spring WebFlux.md"
               }
             }
           },
@@ -193,8 +196,15 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "e51a75b10d9dbbe3",
+  "active": "ca08a97bf2c12407",
   "lastOpenFiles": [
+    "Web on Reactive Stack.md",
+    "Spring WebFlux.md",
+    "Spring Security.md",
+    "Servlet Application.md",
+    "Bridge (мост).md",
+    "Spring.md",
+    "Книги.md",
     "Структурные паттерны.md",
     "Adapter (адаптер).md",
     "Паттерны ООП (Design Patterns).md",
@@ -206,7 +216,6 @@
     "Java.md",
     "Параллельные вычисления в Java.md",
     "Строительные блоки.md",
-    "Книги.md",
     "Основы языка Java.md",
     "Java Concurrency.md",
     "Выполнение задач.md",
@@ -215,12 +224,6 @@
     "Work stealing (Кража работы).md",
     "Command (команда).md",
     "Factory Method (фабричный метод).md",
-    "Cквозная функциональнсоть.md",
-    "Proxy (заместитель).md",
-    "Prototype (прототип).md",
-    "Java]] [[Книги.md",
-    "Bridge (мост).md",
-    "Управление проектами (УК).md",
     "Attachments/Pasted image 20240308103220.png",
     "Excalidraw",
     "Templates/ТУСУР",
