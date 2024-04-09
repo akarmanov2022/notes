@@ -33,8 +33,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -102,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Полиморфизм.md",
+                "file": "Bridge (мост).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Полиморфизм.md",
+                "file": "Bridge (мост).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Полиморфизм.md"
+                "file": "Bridge (мост).md"
               }
             }
           },
@@ -183,14 +182,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "e0cad632e299619c",
+  "active": "4d0061b204cf7bda",
   "lastOpenFiles": [
-    "GRASP.md",
     "Полиморфизм.md",
+    "Bridge (мост).md",
+    "GRASP.md",
     "Принципы ООП.md",
     "SOLID.md",
     "Инкапсуляция.md",
-    "Bridge (мост).md",
     "Зацепление.md",
     "Facade (фасад).md",
     "Flux.md",
