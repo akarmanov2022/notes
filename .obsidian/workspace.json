@@ -26,14 +26,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Полиморфизм.md",
+                "file": "GRASP.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -101,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Bridge (мост).md",
+                "file": "GRASP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Bridge (мост).md",
+                "file": "GRASP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Bridge (мост).md"
+                "file": "GRASP.md"
               }
             }
           },
@@ -182,7 +183,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "4d0061b204cf7bda",
+  "active": "e0cad632e299619c",
   "lastOpenFiles": [
     "Полиморфизм.md",
     "Bridge (мост).md",
