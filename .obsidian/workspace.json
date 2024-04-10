@@ -24,8 +24,13 @@
             "id": "e0cad632e299619c",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Потокобезопасность.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ],
@@ -97,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Bridge (мост).md",
+                "file": "Потокобезопасность.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Bridge (мост).md",
+                "file": "Потокобезопасность.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Bridge (мост).md"
+                "file": "Потокобезопасность.md"
               }
             }
           },
@@ -178,11 +183,15 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "e0cad632e299619c",
+  "active": "9f17e8dd5ed40de7",
   "lastOpenFiles": [
-    "GRASP.md",
-    "Полиморфизм.md",
+    "Java Concurrency.md",
+    "Выполнение задач.md",
     "Bridge (мост).md",
+    "Потокобезопасность.md",
+    "GRASP.md",
+    "Строительные блоки.md",
+    "Полиморфизм.md",
     "Принципы ООП.md",
     "SOLID.md",
     "Инкапсуляция.md",
@@ -204,10 +213,6 @@
     "Adapter (адаптер).md",
     "Паттерны ООП (Design Patterns).md",
     "Порождающие паттерны.md",
-    "Abstract Factory (абстрактная фабрика).md",
-    "Decorator (декоратор).md",
-    "Паттерны поведения.md",
-    "Лямбда-выражения и потоки.md",
     "Attachments/Pasted image 20240308103220.png",
     "Excalidraw",
     "Templates/ТУСУР",
