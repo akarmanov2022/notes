@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Компоновка объектов.md",
+                "file": "Модель памяти Java.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -102,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Компоновка объектов.md",
+                "file": "Модель памяти Java.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Компоновка объектов.md",
+                "file": "Модель памяти Java.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Компоновка объектов.md"
+                "file": "Модель памяти Java.md"
               }
             }
           },
@@ -186,11 +186,13 @@
   },
   "active": "e0cad632e299619c",
   "lastOpenFiles": [
+    "Attachments/Pasted image 20240412223328.png",
+    "Java Concurrency.md",
+    "Модель памяти Java.md",
+    "Компоновка объектов.md",
     "Режимы распростанения.md",
     "ACID.md",
     "Уровни изоляции транзакции.md",
-    "Компоновка объектов.md",
-    "Java Concurrency.md",
     "Bridge (мост).md",
     "Совместное использования объектов.md",
     "Attachments/Pasted image 20240410171312.png",
@@ -213,8 +215,6 @@
     "Web on Reactive Stack.md",
     "Attachments/Pasted image 20240408143343.png",
     "Spring Security.md",
-    "Spring Framework.md",
-    "Servlet Application.md",
     "Attachments/Pasted image 20240308103220.png",
     "Excalidraw",
     "Templates/ТУСУР",
