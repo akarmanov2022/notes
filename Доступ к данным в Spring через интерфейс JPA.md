@@ -3,6 +3,8 @@ tags:
   - Pro-Spring-5
   - Java
   - Spring
+links:
+  - "[[Spring Framework]]"
 ---
 [[Основные понятия JPA]]
 [[Кофигурирование диспетчера сущностей JPA]]

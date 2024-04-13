@@ -11,30 +11,11 @@
             "id": "4d0061b204cf7bda",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Bridge (мост).md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e0cad632e299619c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Модель памяти Java.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -102,7 +83,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Модель памяти Java.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +99,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Модель памяти Java.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,9 +120,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Модель памяти Java.md"
-              }
+              "state": {}
             }
           },
           {
@@ -184,20 +161,25 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "e0cad632e299619c",
+  "active": "4d0061b204cf7bda",
   "lastOpenFiles": [
-    "Attachments/Pasted image 20240412223328.png",
-    "Java Concurrency.md",
-    "Модель памяти Java.md",
     "Компоновка объектов.md",
+    "Java Concurrency.md",
+    "Выполнение задач.md",
+    "Модель памяти Java.md",
+    "Spring Framework.md",
+    "АОП.md",
+    "Pro Spring 5.md",
+    "Excalidraw/Drawing 2024-04-12 22.50.52.excalidraw.md",
+    "Bridge (мост).md",
+    "Доступ к данным в Spring через интерфейс JPA.md",
+    "Attachments/Pasted image 20240412223328.png",
     "Режимы распростанения.md",
     "ACID.md",
     "Уровни изоляции транзакции.md",
-    "Bridge (мост).md",
     "Совместное использования объектов.md",
     "Attachments/Pasted image 20240410171312.png",
     "Потокобезопасность.md",
-    "Выполнение задач.md",
     "GRASP.md",
     "Строительные блоки.md",
     "Полиморфизм.md",
@@ -209,12 +191,8 @@
     "Flux.md",
     "Архитектурные паттерны.md",
     "Spring WebFlux.md",
-    "Mono.md",
     "Attachments/Pasted image 20240408144254.png",
-    "АОП в Spring.md",
-    "Web on Reactive Stack.md",
     "Attachments/Pasted image 20240408143343.png",
-    "Spring Security.md",
     "Attachments/Pasted image 20240308103220.png",
     "Excalidraw",
     "Templates/ТУСУР",
