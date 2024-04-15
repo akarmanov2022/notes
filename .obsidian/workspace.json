@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Строительные блоки.md",
-                "mode": "preview",
+                "file": "SQL.md",
+                "mode": "source",
                 "backlinks": true,
                 "source": false
               }
@@ -88,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Строительные блоки.md",
+                "file": "SQL.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Строительные блоки.md",
+                "file": "SQL.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Строительные блоки.md"
+                "file": "SQL.md"
               }
             }
           },
@@ -172,6 +172,8 @@
   },
   "active": "4d0061b204cf7bda",
   "lastOpenFiles": [
+    "Строительные блоки.md",
+    "SQL.md",
     "Java Concurrency.md",
     "Компоновка объектов.md",
     "Модель памяти Java.md",
@@ -194,13 +196,11 @@
     "Attachments/Pasted image 20240410171312.png",
     "Потокобезопасность.md",
     "GRASP.md",
-    "Строительные блоки.md",
     "Полиморфизм.md",
     "Принципы ООП.md",
     "SOLID.md",
     "Инкапсуляция.md",
     "Зацепление.md",
-    "Facade (фасад).md",
     "Attachments/Pasted image 20240408144254.png",
     "Attachments/Pasted image 20240408143343.png",
     "Attachments/Pasted image 20240308103220.png",
