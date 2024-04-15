@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Модель памяти Java.md",
+                "file": "Строительные блоки.md",
                 "mode": "preview",
                 "backlinks": true,
                 "source": false
@@ -88,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Модель памяти Java.md",
+                "file": "Строительные блоки.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Модель памяти Java.md",
+                "file": "Строительные блоки.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Модель памяти Java.md"
+                "file": "Строительные блоки.md"
               }
             }
           },
@@ -172,6 +172,9 @@
   },
   "active": "4d0061b204cf7bda",
   "lastOpenFiles": [
+    "Java Concurrency.md",
+    "Компоновка объектов.md",
+    "Модель памяти Java.md",
     "Hibernate в Spring.md",
     "Spring Framework.md",
     "Управление транзакциями.md",
@@ -179,10 +182,7 @@
     "СУБД.md",
     "Уровни изоляции транзакции.md",
     "Attachments/Pasted image 20240413190024.png",
-    "Компоновка объектов.md",
-    "Java Concurrency.md",
     "Выполнение задач.md",
-    "Модель памяти Java.md",
     "АОП.md",
     "Pro Spring 5.md",
     "Excalidraw/Drawing 2024-04-12 22.50.52.excalidraw.md",
