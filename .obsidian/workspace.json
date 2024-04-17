@@ -26,8 +26,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GRASP.md",
-                "mode": "preview",
+                "file": "Decorator (декоратор).md",
+                "mode": "source",
                 "backlinks": true,
                 "source": false
               }
@@ -63,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:ООП",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Visitor (посетитель).md",
+                "file": "Decorator (декоратор).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Visitor (посетитель).md",
+                "file": "Decorator (декоратор).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Visitor (посетитель).md"
+                "file": "Decorator (декоратор).md"
               }
             }
           },
@@ -154,7 +154,7 @@
             }
           },
           {
-            "id": "35c17eb8af957fcd",
+            "id": "bca19d5dfa445bfe",
             "type": "leaf",
             "state": {
               "type": "mermaid-toolbar-view",
@@ -166,7 +166,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
+    "width": 305.5,
     "collapsed": true
   },
   "left-ribbon": {
@@ -183,12 +183,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "9f17e8dd5ed40de7",
+  "active": "bca19d5dfa445bfe",
   "lastOpenFiles": [
+    "Composite (компоновщик).md",
+    "GRASP.md",
+    "Visitor (посетитель).md",
     "Untitled 1.canvas",
     "Untitled.canvas",
     "Daily Notes/2024-04-16.md",
-    "Visitor (посетитель).md",
     "Паттерны поведения.md",
     "Паттерны ООП (Design Patterns).md",
     "SQL.md",
@@ -214,7 +216,6 @@
     "Совместное использования объектов.md",
     "Attachments/Pasted image 20240410171312.png",
     "Потокобезопасность.md",
-    "GRASP.md",
     "Attachments/Pasted image 20240408144254.png",
     "Attachments/Pasted image 20240408143343.png",
     "Attachments/Pasted image 20240308103220.png",
