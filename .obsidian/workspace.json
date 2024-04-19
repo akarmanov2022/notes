@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Decorator (декоратор).md",
+                "file": "Daily Notes/Гибкие методологии управления проектами.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Decorator (декоратор).md",
+                "file": "Daily Notes/Гибкие методологии управления проектами.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Decorator (декоратор).md",
+                "file": "Daily Notes/Гибкие методологии управления проектами.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Decorator (декоратор).md"
+                "file": "Daily Notes/Гибкие методологии управления проектами.md"
               }
             }
           },
@@ -185,6 +185,8 @@
   },
   "active": "57362e81a0c6766a",
   "lastOpenFiles": [
+    "Decorator (декоратор).md",
+    "Daily Notes/Гибкие методологии управления проектами.md",
     "Visitor (посетитель).md",
     "Composite (компоновщик).md",
     "GRASP.md",
@@ -213,9 +215,7 @@
     "Доступ к данным в Spring через интерфейс JPA.md",
     "Attachments/Pasted image 20240412223328.png",
     "Режимы распростанения.md",
-    "Совместное использования объектов.md",
     "Attachments/Pasted image 20240410171312.png",
-    "Потокобезопасность.md",
     "Attachments/Pasted image 20240408144254.png",
     "Attachments/Pasted image 20240408143343.png",
     "Attachments/Pasted image 20240308103220.png",
