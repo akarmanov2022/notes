@@ -4,19 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "72ea03ed507648d9",
+        "id": "a0897f38074f0779",
         "type": "tabs",
         "children": [
           {
-            "id": "4d0061b204cf7bda",
+            "id": "00835d191d97325b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Visitor (посетитель).md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
+                "file": "Untitled 4.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": -26.04,
+                  "zoom": 0
+                }
               }
             }
           }
@@ -88,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Visitor (посетитель).md",
+                "file": "Untitled 4.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +107,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Visitor (посетитель).md",
+                "file": "Untitled 4.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +130,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Visitor (посетитель).md"
+                "file": "Untitled 4.canvas"
               }
             }
           },
@@ -170,14 +172,16 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "4d0061b204cf7bda",
+  "active": "00835d191d97325b",
   "lastOpenFiles": [
+    "Untitled 4.canvas",
+    "Untitled 3.canvas",
+    "Visitor (посетитель).md",
     "Untitled 2.canvas",
     "Spring Framework.md",
     "Excalidraw/Drawing 2024-04-21 22.27.26.excalidraw.md",
     "Daily Notes/Гибкие методологии управления проектами.md",
     "Decorator (декоратор).md",
-    "Visitor (посетитель).md",
     "Composite (компоновщик).md",
     "GRASP.md",
     "Untitled 1.canvas",
