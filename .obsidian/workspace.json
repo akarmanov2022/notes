@@ -19,22 +19,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "57362e81a0c6766a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Spring Framework.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -102,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spring Framework.md",
+                "file": "Visitor (посетитель).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Spring Framework.md",
+                "file": "Visitor (посетитель).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spring Framework.md"
+                "file": "Visitor (посетитель).md"
               }
             }
           },
@@ -184,8 +170,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "57362e81a0c6766a",
+  "active": "4d0061b204cf7bda",
   "lastOpenFiles": [
+    "Untitled 2.canvas",
+    "Spring Framework.md",
+    "Excalidraw/Drawing 2024-04-21 22.27.26.excalidraw.md",
     "Daily Notes/Гибкие методологии управления проектами.md",
     "Decorator (декоратор).md",
     "Visitor (посетитель).md",
@@ -202,7 +191,6 @@
     "Компоновка объектов.md",
     "Модель памяти Java.md",
     "Hibernate в Spring.md",
-    "Spring Framework.md",
     "Управление транзакциями.md",
     "ACID.md",
     "СУБД.md",
@@ -213,9 +201,7 @@
     "Pro Spring 5.md",
     "Excalidraw/Drawing 2024-04-12 22.50.52.excalidraw.md",
     "Bridge (мост).md",
-    "Доступ к данным в Spring через интерфейс JPA.md",
     "Attachments/Pasted image 20240412223328.png",
-    "Режимы распростанения.md",
     "Attachments/Pasted image 20240410171312.png",
     "Attachments/Pasted image 20240408144254.png",
     "Attachments/Pasted image 20240408143343.png",
