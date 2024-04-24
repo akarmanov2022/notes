@@ -11,14 +11,12 @@
             "id": "00835d191d97325b",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Untitled 4.canvas",
-                "viewState": {
-                  "x": 0,
-                  "y": -26.04,
-                  "zoom": 0
-                }
+                "file": "Abstract Factory (абстрактная фабрика).md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": false
               }
             }
           }
@@ -90,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled 4.canvas",
+                "file": "Abstract Factory (абстрактная фабрика).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled 4.canvas",
+                "file": "Abstract Factory (абстрактная фабрика).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled 4.canvas"
+                "file": "Abstract Factory (абстрактная фабрика).md"
               }
             }
           },
@@ -174,6 +172,8 @@
   },
   "active": "00835d191d97325b",
   "lastOpenFiles": [
+    "Порождающие паттерны.md",
+    "Factory Method (фабричный метод).md",
     "Untitled 4.canvas",
     "Untitled 3.canvas",
     "Visitor (посетитель).md",
@@ -204,7 +204,6 @@
     "АОП.md",
     "Pro Spring 5.md",
     "Excalidraw/Drawing 2024-04-12 22.50.52.excalidraw.md",
-    "Bridge (мост).md",
     "Attachments/Pasted image 20240412223328.png",
     "Attachments/Pasted image 20240410171312.png",
     "Attachments/Pasted image 20240408144254.png",
