@@ -19,8 +19,17 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "3a82ae4506d30572",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -169,8 +178,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "00835d191d97325b",
+  "active": "3a82ae4506d30572",
   "lastOpenFiles": [
+    "Builder (строитель).md",
     "Порождающие паттерны.md",
     "Singleton (одиночка).md",
     "Паттерны ООП (Design Patterns).md",
@@ -202,7 +212,6 @@
     "СУБД.md",
     "Уровни изоляции транзакции.md",
     "Attachments/Pasted image 20240413190024.png",
-    "Выполнение задач.md",
     "Attachments/Pasted image 20240412223328.png",
     "Attachments/Pasted image 20240410171312.png",
     "Attachments/Pasted image 20240408144254.png",
