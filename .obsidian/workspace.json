@@ -32,9 +32,35 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "5fd77cb4afe0c814",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Git.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7a57366f9127db97",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Системы Контроля Версий (VCS).md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -102,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "OAuth 2.0.md",
+                "file": "Системы Контроля Версий (VCS).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "OAuth 2.0.md",
+                "file": "Системы Контроля Версий (VCS).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "OAuth 2.0.md"
+                "file": "Системы Контроля Версий (VCS).md"
               }
             }
           },
@@ -185,8 +211,13 @@
       "obsidian-book-search-plugin:Create new book note": false
     }
   },
-  "active": "3a82ae4506d30572",
+  "active": "7a57366f9127db97",
   "lastOpenFiles": [
+    "Attachments/Pasted image 20240501211547.png",
+    "Attachments/Pasted image 20240501211519.png",
+    "Attachments/Pasted image 20240501211451.png",
+    "Git.md",
+    "Системы Контроля Версий (VCS).md",
     "Spring Security.md",
     "OAuth 2.0.md",
     "Авторизация.md",
@@ -215,9 +246,6 @@
     "Daily Notes/2024-04-16.md",
     "Паттерны поведения.md",
     "SQL.md",
-    "Строительные блоки.md",
-    "Java Concurrency.md",
-    "Компоновка объектов.md",
     "Attachments/Pasted image 20240413190024.png",
     "Attachments/Pasted image 20240412223328.png",
     "Attachments/Pasted image 20240410171312.png",
