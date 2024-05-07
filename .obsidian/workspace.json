@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Builder (строитель).md",
+                "file": "11. Производительность и масштабируемость.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Builder (строитель).md",
+                "file": "11. Производительность и масштабируемость.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Builder (строитель).md",
+                "file": "11. Производительность и масштабируемость.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Builder (строитель).md"
+                "file": "11. Производительность и масштабируемость.md"
               }
             }
           },
@@ -172,13 +172,16 @@
   },
   "active": "00835d191d97325b",
   "lastOpenFiles": [
+    "Java Concurrency.md",
+    "11. Производительность и масштабируемость.md",
+    "Строительные блоки.md",
+    "Builder (строитель).md",
     "Паттерны поведения.md",
     "OAuth 2.0.md",
     "Spring AOP.md",
     "Системы Контроля Версий (VCS).md",
     "Git.md",
     "Daily Notes/2024-05-02.md",
-    "Builder (строитель).md",
     "Attachments/Pasted image 20240501211547.png",
     "Attachments/Pasted image 20240501211519.png",
     "Attachments/Pasted image 20240501211451.png",
@@ -201,11 +204,8 @@
     "Excalidraw/Drawing 2024-04-21 22.27.26.excalidraw.md",
     "Daily Notes/Гибкие методологии управления проектами.md",
     "Decorator (декоратор).md",
-    "Composite (компоновщик).md",
-    "GRASP.md",
     "Untitled 1.canvas",
     "Untitled.canvas",
-    "Daily Notes/2024-04-16.md",
     "Attachments/Pasted image 20240413190024.png",
     "Attachments/Pasted image 20240412223328.png",
     "Attachments/Pasted image 20240410171312.png",
