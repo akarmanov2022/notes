@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "11. Производительность и масштабируемость.md",
+                "file": "Chain of Responsibility (цепочка обязанностей).md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "11. Производительность и масштабируемость.md",
+                "file": "Chain of Responsibility (цепочка обязанностей).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "11. Производительность и масштабируемость.md",
+                "file": "Chain of Responsibility (цепочка обязанностей).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "11. Производительность и масштабируемость.md"
+                "file": "Chain of Responsibility (цепочка обязанностей).md"
               }
             }
           },
@@ -148,12 +148,11 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 305.5,
-    "collapsed": true
+    "width": 305.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -172,12 +171,17 @@
   },
   "active": "00835d191d97325b",
   "lastOpenFiles": [
+    "Abstract Factory (абстрактная фабрика).md",
+    "Chain of Responsibility (цепочка обязанностей).md",
+    "Паттерны поведения.md",
+    "Наследование в ООП.md",
+    "Инкапсуляция.md",
+    "Принципы ООП.md",
+    "11. Производительность и масштабируемость.md",
     "Attachments/Pasted image 20240507213818.png",
     "Java Concurrency.md",
-    "11. Производительность и масштабируемость.md",
     "Строительные блоки.md",
     "Builder (строитель).md",
-    "Паттерны поведения.md",
     "OAuth 2.0.md",
     "Spring AOP.md",
     "Системы Контроля Версий (VCS).md",
@@ -195,15 +199,11 @@
     "Singleton (одиночка).md",
     "Паттерны ООП (Design Patterns).md",
     "Daily Notes/2024-04-25.md",
-    "Abstract Factory (абстрактная фабрика).md",
     "Factory Method (фабричный метод).md",
     "Untitled 4.canvas",
     "Untitled 3.canvas",
     "Visitor (посетитель).md",
     "Untitled 2.canvas",
-    "Spring Framework.md",
-    "Excalidraw/Drawing 2024-04-21 22.27.26.excalidraw.md",
-    "Daily Notes/Гибкие методологии управления проектами.md",
     "Untitled 1.canvas",
     "Untitled.canvas",
     "Attachments/Pasted image 20240413190024.png",
@@ -215,7 +215,6 @@
     "Excalidraw",
     "Templates/ТУСУР",
     "Design Patterns",
-    "Attachments/Pasted image 20240222120410.png",
     "Attachments",
     "Attachments",
     "Daily Notes",
