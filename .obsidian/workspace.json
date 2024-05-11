@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chain of Responsibility (цепочка обязанностей).md",
+                "file": "Daily Notes/2024-05-11.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Chain of Responsibility (цепочка обязанностей).md",
+                "file": "Daily Notes/2024-05-11.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Chain of Responsibility (цепочка обязанностей).md",
+                "file": "Daily Notes/2024-05-11.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Chain of Responsibility (цепочка обязанностей).md"
+                "file": "Daily Notes/2024-05-11.md"
               }
             }
           },
@@ -171,8 +171,9 @@
   },
   "active": "00835d191d97325b",
   "lastOpenFiles": [
-    "Abstract Factory (абстрактная фабрика).md",
     "Chain of Responsibility (цепочка обязанностей).md",
+    "Daily Notes/2024-05-11.md",
+    "Abstract Factory (абстрактная фабрика).md",
     "Паттерны поведения.md",
     "Наследование в ООП.md",
     "Инкапсуляция.md",
@@ -202,7 +203,6 @@
     "Factory Method (фабричный метод).md",
     "Untitled 4.canvas",
     "Untitled 3.canvas",
-    "Visitor (посетитель).md",
     "Untitled 2.canvas",
     "Untitled 1.canvas",
     "Untitled.canvas",
