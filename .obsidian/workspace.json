@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Модель памяти Java.md",
-                "mode": "preview",
+                "file": "11 Производительность и масштабируемость.md",
+                "mode": "source",
                 "backlinks": true,
                 "source": false
               }
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Модель памяти Java.md",
+                "file": "11 Производительность и масштабируемость.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Модель памяти Java.md",
+                "file": "11 Производительность и масштабируемость.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Модель памяти Java.md"
+                "file": "11 Производительность и масштабируемость.md"
               }
             }
           },
@@ -172,6 +172,9 @@
   },
   "active": "6d0b8cee242a0093",
   "lastOpenFiles": [
+    "Java Concurrency.md",
+    "Компоновка объектов.md",
+    "Модель памяти Java.md",
     "Паттерны ООП (Design Patterns).md",
     "Daily Notes/2024-05-11.md",
     "Chain of Responsibility (цепочка обязанностей).md",
@@ -180,9 +183,8 @@
     "Наследование в ООП.md",
     "Инкапсуляция.md",
     "Принципы ООП.md",
-    "11. Производительность и масштабируемость.md",
+    "11 Производительность и масштабируемость.md",
     "Attachments/Pasted image 20240507213818.png",
-    "Java Concurrency.md",
     "Строительные блоки.md",
     "Builder (строитель).md",
     "OAuth 2.0.md",
@@ -200,8 +202,6 @@
     "Daily Notes/2017-03-16.md",
     "Порождающие паттерны.md",
     "Singleton (одиночка).md",
-    "Daily Notes/2024-04-25.md",
-    "Factory Method (фабричный метод).md",
     "Untitled 4.canvas",
     "Untitled 3.canvas",
     "Untitled 2.canvas",
