@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "a0897f38074f0779",
+        "id": "6ef6abe65b7dfbc0",
         "type": "tabs",
         "children": [
           {
-            "id": "00835d191d97325b",
+            "id": "6d0b8cee242a0093",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily Notes/2024-05-11.md",
-                "mode": "source",
+                "file": "Модель памяти Java.md",
+                "mode": "preview",
                 "backlinks": true,
                 "source": false
               }
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily Notes/2024-05-11.md",
+                "file": "Модель памяти Java.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily Notes/2024-05-11.md",
+                "file": "Модель памяти Java.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily Notes/2024-05-11.md"
+                "file": "Модель памяти Java.md"
               }
             }
           },
@@ -170,10 +170,11 @@
       "obsidian-book-search-plugin:Create new book note": false
     }
   },
-  "active": "00835d191d97325b",
+  "active": "6d0b8cee242a0093",
   "lastOpenFiles": [
-    "Chain of Responsibility (цепочка обязанностей).md",
+    "Паттерны ООП (Design Patterns).md",
     "Daily Notes/2024-05-11.md",
+    "Chain of Responsibility (цепочка обязанностей).md",
     "Abstract Factory (абстрактная фабрика).md",
     "Паттерны поведения.md",
     "Наследование в ООП.md",
@@ -199,7 +200,6 @@
     "Daily Notes/2017-03-16.md",
     "Порождающие паттерны.md",
     "Singleton (одиночка).md",
-    "Паттерны ООП (Design Patterns).md",
     "Daily Notes/2024-04-25.md",
     "Factory Method (фабричный метод).md",
     "Untitled 4.canvas",
