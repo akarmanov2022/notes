@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "11 Производительность и масштабируемость.md",
+                "file": "Выполнение задач.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "11 Производительность и масштабируемость.md",
+                "file": "Выполнение задач.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "11 Производительность и масштабируемость.md",
+                "file": "Выполнение задач.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "11 Производительность и масштабируемость.md"
+                "file": "Выполнение задач.md"
               }
             }
           },
@@ -173,6 +173,7 @@
   "active": "6d0b8cee242a0093",
   "lastOpenFiles": [
     "Java Concurrency.md",
+    "11 Производительность и масштабируемость.md",
     "Компоновка объектов.md",
     "Модель памяти Java.md",
     "Паттерны ООП (Design Patterns).md",
@@ -183,7 +184,6 @@
     "Наследование в ООП.md",
     "Инкапсуляция.md",
     "Принципы ООП.md",
-    "11 Производительность и масштабируемость.md",
     "Attachments/Pasted image 20240507213818.png",
     "Строительные блоки.md",
     "Builder (строитель).md",

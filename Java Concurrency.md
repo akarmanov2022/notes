@@ -9,7 +9,6 @@ links:
 ---
 ```dataview
 TABLE
-	file.name as Name
 FROM #JavaConcurrency
 SORT file.name
 ```
