@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Выполнение задач.md",
-                "mode": "source",
+                "file": "Daily Notes/2024-05-11.md",
+                "mode": "preview",
                 "backlinks": true,
                 "source": false
               }
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Выполнение задач.md",
+                "file": "Daily Notes/2024-05-11.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Выполнение задач.md",
+                "file": "Daily Notes/2024-05-11.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Выполнение задач.md"
+                "file": "Daily Notes/2024-05-11.md"
               }
             }
           },
@@ -172,11 +172,12 @@
   },
   "active": "6d0b8cee242a0093",
   "lastOpenFiles": [
+    "Паттерны ООП (Design Patterns).md",
+    "Модель памяти Java.md",
     "Java Concurrency.md",
+    "Выполнение задач.md",
     "11 Производительность и масштабируемость.md",
     "Компоновка объектов.md",
-    "Модель памяти Java.md",
-    "Паттерны ООП (Design Patterns).md",
     "Daily Notes/2024-05-11.md",
     "Chain of Responsibility (цепочка обязанностей).md",
     "Abstract Factory (абстрактная фабрика).md",
@@ -201,7 +202,6 @@
     "Designing Data-Intensive Applications - Martin Kleppmann.md",
     "Daily Notes/2017-03-16.md",
     "Порождающие паттерны.md",
-    "Singleton (одиночка).md",
     "Untitled 4.canvas",
     "Untitled 3.canvas",
     "Untitled 2.canvas",
