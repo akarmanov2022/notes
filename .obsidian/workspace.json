@@ -13,14 +13,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily Notes/2024-05-11.md",
-                "mode": "preview",
+                "file": "Сортировка Шелла.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "87204d155301bcb0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Сортировка Шелла.md",
+                "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -87,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily Notes/2024-05-11.md",
+                "file": "Сортировка Шелла.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily Notes/2024-05-11.md",
+                "file": "Сортировка Шелла.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily Notes/2024-05-11.md"
+                "file": "Сортировка Шелла.md"
               }
             }
           },
@@ -170,15 +184,18 @@
       "obsidian-book-search-plugin:Create new book note": false
     }
   },
-  "active": "6d0b8cee242a0093",
+  "active": "87204d155301bcb0",
   "lastOpenFiles": [
+    "Структуры данных и алгоритмы.md",
+    "Сортировка методом вставок.md",
+    "Сортировка Шелла.md",
+    "Daily Notes/2024-05-11.md",
     "Паттерны ООП (Design Patterns).md",
     "Модель памяти Java.md",
     "Java Concurrency.md",
     "Выполнение задач.md",
     "11 Производительность и масштабируемость.md",
     "Компоновка объектов.md",
-    "Daily Notes/2024-05-11.md",
     "Chain of Responsibility (цепочка обязанностей).md",
     "Abstract Factory (абстрактная фабрика).md",
     "Паттерны поведения.md",
@@ -199,9 +216,6 @@
     "Spring Security.md",
     "Авторизация.md",
     "Аутентификация.md",
-    "Designing Data-Intensive Applications - Martin Kleppmann.md",
-    "Daily Notes/2017-03-16.md",
-    "Порождающие паттерны.md",
     "Untitled 4.canvas",
     "Untitled 3.canvas",
     "Untitled 2.canvas",
