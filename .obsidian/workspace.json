@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Алгоритмы.md",
+                "file": "Сортировка методом вставок.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Алгоритмы.md",
+                "file": "Сортировка методом вставок.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Алгоритмы.md",
+                "file": "Сортировка методом вставок.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Алгоритмы.md"
+                "file": "Сортировка методом вставок.md"
               }
             }
           },
@@ -186,11 +186,13 @@
   },
   "active": "87204d155301bcb0",
   "lastOpenFiles": [
+    "Attachments/Pasted image 20240514123016.png",
+    "Алгоритмы.md",
+    "Г1. Роль алгоритмов в вычислении.md",
     "Java Concurrency.md",
     "11 Производительность и масштабируемость.md",
     "Структуры данных и алгоритмы.md",
     "Сортировка Шелла.md",
-    "Алгоритмы.md",
     "Сортировка методом вставок.md",
     "Daily Notes/2024-05-11.md",
     "Паттерны ООП (Design Patterns).md",
@@ -214,8 +216,6 @@
     "Attachments/Pasted image 20240501211547.png",
     "Attachments/Pasted image 20240501211519.png",
     "Attachments/Pasted image 20240501211451.png",
-    "Spring Security.md",
-    "Авторизация.md",
     "Untitled 4.canvas",
     "Untitled 3.canvas",
     "Untitled 2.canvas",
