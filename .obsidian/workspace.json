@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Сортировка методом вставок.md",
+                "file": "Асимптотические обозначения.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Сортировка методом вставок.md",
+                "file": "Асимптотические обозначения.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Сортировка методом вставок.md",
+                "file": "Асимптотические обозначения.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Сортировка методом вставок.md"
+                "file": "Асимптотические обозначения.md"
               }
             }
           },
@@ -186,14 +186,16 @@
   },
   "active": "87204d155301bcb0",
   "lastOpenFiles": [
-    "Attachments/Pasted image 20240514123016.png",
+    "Attachments/Pasted image 20240514125108.png",
     "Алгоритмы.md",
+    "Асимптотические обозначения.md",
+    "Сортировка методом вставок.md",
+    "Attachments/Pasted image 20240514123016.png",
     "Г1. Роль алгоритмов в вычислении.md",
     "Java Concurrency.md",
     "11 Производительность и масштабируемость.md",
     "Структуры данных и алгоритмы.md",
     "Сортировка Шелла.md",
-    "Сортировка методом вставок.md",
     "Daily Notes/2024-05-11.md",
     "Паттерны ООП (Design Patterns).md",
     "Модель памяти Java.md",
@@ -212,7 +214,6 @@
     "Spring AOP.md",
     "Системы Контроля Версий (VCS).md",
     "Git.md",
-    "Daily Notes/2024-05-02.md",
     "Attachments/Pasted image 20240501211547.png",
     "Attachments/Pasted image 20240501211519.png",
     "Attachments/Pasted image 20240501211451.png",
@@ -226,7 +227,6 @@
     "Attachments/Pasted image 20240410171312.png",
     "Attachments/Pasted image 20240408144254.png",
     "Attachments/Pasted image 20240408143343.png",
-    "Attachments/Pasted image 20240308103220.png",
     "Excalidraw",
     "Templates/ТУСУР",
     "Design Patterns",
