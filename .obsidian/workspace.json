@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Сортировка Шелла.md",
+                "file": "Структуры данных и алгоритмы.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Сортировка Шелла.md",
+                "file": "Структуры данных и алгоритмы.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Сортировка Шелла.md",
+                "file": "Структуры данных и алгоритмы.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Сортировка Шелла.md"
+                "file": "Структуры данных и алгоритмы.md"
               }
             }
           },
@@ -186,9 +186,9 @@
   },
   "active": "87204d155301bcb0",
   "lastOpenFiles": [
+    "Сортировка Шелла.md",
     "Структуры данных и алгоритмы.md",
     "Сортировка методом вставок.md",
-    "Сортировка Шелла.md",
     "Daily Notes/2024-05-11.md",
     "Паттерны ООП (Design Patterns).md",
     "Модель памяти Java.md",
