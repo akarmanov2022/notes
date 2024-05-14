@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Сортировка Шелла.md",
+                "file": "Java Concurrency.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Структуры данных и алгоритмы.md",
+                "file": "Алгоритмы.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Структуры данных и алгоритмы.md",
+                "file": "Алгоритмы.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Структуры данных и алгоритмы.md",
+                "file": "Алгоритмы.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Структуры данных и алгоритмы.md"
+                "file": "Алгоритмы.md"
               }
             }
           },
@@ -186,15 +186,16 @@
   },
   "active": "87204d155301bcb0",
   "lastOpenFiles": [
-    "Сортировка Шелла.md",
+    "Java Concurrency.md",
+    "11 Производительность и масштабируемость.md",
     "Структуры данных и алгоритмы.md",
+    "Сортировка Шелла.md",
+    "Алгоритмы.md",
     "Сортировка методом вставок.md",
     "Daily Notes/2024-05-11.md",
     "Паттерны ООП (Design Patterns).md",
     "Модель памяти Java.md",
-    "Java Concurrency.md",
     "Выполнение задач.md",
-    "11 Производительность и масштабируемость.md",
     "Компоновка объектов.md",
     "Chain of Responsibility (цепочка обязанностей).md",
     "Abstract Factory (абстрактная фабрика).md",
@@ -215,7 +216,6 @@
     "Attachments/Pasted image 20240501211451.png",
     "Spring Security.md",
     "Авторизация.md",
-    "Аутентификация.md",
     "Untitled 4.canvas",
     "Untitled 3.canvas",
     "Untitled 2.canvas",
