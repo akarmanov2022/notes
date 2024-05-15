@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Асимптотические обозначения.md",
+                "file": "Г1. Основы.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Асимптотические обозначения.md",
+                "file": "Г1. Основы.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Асимптотические обозначения.md",
+                "file": "Г1. Основы.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Асимптотические обозначения.md"
+                "file": "Г1. Основы.md"
               }
             }
           },
@@ -186,12 +186,12 @@
   },
   "active": "87204d155301bcb0",
   "lastOpenFiles": [
-    "Attachments/Pasted image 20240514125108.png",
     "Алгоритмы.md",
     "Асимптотические обозначения.md",
+    "Attachments/Pasted image 20240514125108.png",
     "Сортировка методом вставок.md",
     "Attachments/Pasted image 20240514123016.png",
-    "Г1. Роль алгоритмов в вычислении.md",
+    "Г1. Основы.md",
     "Java Concurrency.md",
     "11 Производительность и масштабируемость.md",
     "Структуры данных и алгоритмы.md",
@@ -226,7 +226,6 @@
     "Attachments/Pasted image 20240412223328.png",
     "Attachments/Pasted image 20240410171312.png",
     "Attachments/Pasted image 20240408144254.png",
-    "Attachments/Pasted image 20240408143343.png",
     "Excalidraw",
     "Templates/ТУСУР",
     "Design Patterns",
