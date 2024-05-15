@@ -26,15 +26,23 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Г1. Основы.md",
+                "file": "Daily Notes/2024-05-15.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
+          },
+          {
+            "id": "76040ba9916dd693",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -101,7 +109,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Г1. Основы.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +125,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Г1. Основы.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,9 +146,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Г1. Основы.md"
-              }
+              "state": {}
             }
           },
           {
@@ -184,14 +188,15 @@
       "obsidian-book-search-plugin:Create new book note": false
     }
   },
-  "active": "87204d155301bcb0",
+  "active": "76040ba9916dd693",
   "lastOpenFiles": [
+    "Daily Notes/2024-05-15.md",
+    "Г1. Основы.md",
     "Алгоритмы.md",
     "Асимптотические обозначения.md",
     "Attachments/Pasted image 20240514125108.png",
     "Сортировка методом вставок.md",
     "Attachments/Pasted image 20240514123016.png",
-    "Г1. Основы.md",
     "Java Concurrency.md",
     "11 Производительность и масштабируемость.md",
     "Структуры данных и алгоритмы.md",
