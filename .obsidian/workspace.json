@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Java Concurrency.md",
+                "file": "Г1. Основы.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -41,8 +41,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -109,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Java Concurrency.md",
+                "file": "Г1. Основы.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Java Concurrency.md",
+                "file": "Г1. Основы.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Java Concurrency.md"
+                "file": "Г1. Основы.md"
               }
             }
           },
@@ -192,16 +191,16 @@
       "obsidian-book-search-plugin:Create new book note": false
     }
   },
-  "active": "76040ba9916dd693",
+  "active": "6d0b8cee242a0093",
   "lastOpenFiles": [
-    "Daily Notes/2024-05-15.md",
-    "Г1. Основы.md",
     "Алгоритмы.md",
+    "Г1. Основы.md",
+    "Java Concurrency.md",
+    "Daily Notes/2024-05-15.md",
     "Асимптотические обозначения.md",
     "Attachments/Pasted image 20240514125108.png",
     "Сортировка методом вставок.md",
     "Attachments/Pasted image 20240514123016.png",
-    "Java Concurrency.md",
     "11 Производительность и масштабируемость.md",
     "Структуры данных и алгоритмы.md",
     "Сортировка Шелла.md",
