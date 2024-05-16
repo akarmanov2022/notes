@@ -41,7 +41,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -108,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Г1. Основы.md",
+                "file": "Daily Notes/2024-05-15.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Г1. Основы.md",
+                "file": "Daily Notes/2024-05-15.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Г1. Основы.md"
+                "file": "Daily Notes/2024-05-15.md"
               }
             }
           },
@@ -191,10 +192,10 @@
       "obsidian-book-search-plugin:Create new book note": false
     }
   },
-  "active": "6d0b8cee242a0093",
+  "active": "87204d155301bcb0",
   "lastOpenFiles": [
-    "Алгоритмы.md",
     "Г1. Основы.md",
+    "Алгоритмы.md",
     "Java Concurrency.md",
     "Daily Notes/2024-05-15.md",
     "Асимптотические обозначения.md",
