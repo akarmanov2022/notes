@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily Notes/2024-05-15.md",
+                "file": "Daily Notes/2024-05-18.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily Notes/2024-05-15.md",
+                "file": "Daily Notes/2024-05-18.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily Notes/2024-05-15.md",
+                "file": "Daily Notes/2024-05-18.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily Notes/2024-05-15.md"
+                "file": "Daily Notes/2024-05-18.md"
               }
             }
           },
@@ -194,10 +194,11 @@
   },
   "active": "87204d155301bcb0",
   "lastOpenFiles": [
+    "Daily Notes/2024-05-15.md",
+    "Daily Notes/2024-05-18.md",
     "Г1. Основы.md",
     "Алгоритмы.md",
     "Java Concurrency.md",
-    "Daily Notes/2024-05-15.md",
     "Асимптотические обозначения.md",
     "Attachments/Pasted image 20240514125108.png",
     "Сортировка методом вставок.md",
@@ -222,7 +223,6 @@
     "OAuth 2.0.md",
     "Spring AOP.md",
     "Системы Контроля Версий (VCS).md",
-    "Git.md",
     "Attachments/Pasted image 20240501211547.png",
     "Attachments/Pasted image 20240501211519.png",
     "Attachments/Pasted image 20240501211451.png",
