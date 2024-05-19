@@ -21,25 +21,12 @@
             }
           },
           {
-            "id": "87204d155301bcb0",
+            "id": "66d545454077d60f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily Notes/2024-05-18.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "bb5ddf13209749ac",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Untitled 2.md",
+                "file": "ТП-1. ЛР-5. Техники тест-дизайна.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -55,7 +42,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -105,8 +92,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 301.5,
-    "collapsed": true
+    "width": 301.5
   },
   "right": {
     "id": "040412060455cf19",
@@ -122,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled 2.md",
+                "file": "ТП-1. ЛР-5. Техники тест-дизайна.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled 2.md",
+                "file": "ТП-1. ЛР-5. Техники тест-дизайна.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled 2.md"
+                "file": "ТП-1. ЛР-5. Техники тест-дизайна.md"
               }
             }
           },
@@ -205,11 +191,14 @@
       "obsidian-book-search-plugin:Create new book note": false
     }
   },
-  "active": "bb5ddf13209749ac",
+  "active": "66d545454077d60f",
   "lastOpenFiles": [
-    "Daily Notes/2024-05-18.md",
-    "Untitled 2.md",
+    "ТП-1. ЛР-5. Техники тест-дизайна.md",
     "Г1. Основы.md",
+    "Untitled 2.md",
+    "Untitled 2.canvas",
+    "Untitled.canvas",
+    "Daily Notes/2024-05-18.md",
     "Daily Notes/2024-05-15.md",
     "Алгоритмы.md",
     "Java Concurrency.md",
@@ -234,16 +223,12 @@
     "Attachments/Pasted image 20240507213818.png",
     "Строительные блоки.md",
     "Builder (строитель).md",
-    "OAuth 2.0.md",
-    "Spring AOP.md",
     "Attachments/Pasted image 20240501211547.png",
     "Attachments/Pasted image 20240501211519.png",
     "Attachments/Pasted image 20240501211451.png",
     "Untitled 4.canvas",
     "Untitled 3.canvas",
-    "Untitled 2.canvas",
     "Untitled 1.canvas",
-    "Untitled.canvas",
     "Attachments/Pasted image 20240413190024.png",
     "Attachments/Pasted image 20240412223328.png",
     "Attachments/Pasted image 20240410171312.png",
