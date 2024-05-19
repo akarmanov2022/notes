@@ -34,6 +34,19 @@
             }
           },
           {
+            "id": "bb5ddf13209749ac",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled 2.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
             "id": "76040ba9916dd693",
             "type": "leaf",
             "state": {
@@ -42,7 +55,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -109,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily Notes/2024-05-18.md",
+                "file": "Untitled 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily Notes/2024-05-18.md",
+                "file": "Untitled 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily Notes/2024-05-18.md"
+                "file": "Untitled 2.md"
               }
             }
           },
@@ -192,10 +205,11 @@
       "obsidian-book-search-plugin:Create new book note": false
     }
   },
-  "active": "87204d155301bcb0",
+  "active": "bb5ddf13209749ac",
   "lastOpenFiles": [
-    "Г1. Основы.md",
     "Daily Notes/2024-05-18.md",
+    "Untitled 2.md",
+    "Г1. Основы.md",
     "Daily Notes/2024-05-15.md",
     "Алгоритмы.md",
     "Java Concurrency.md",
@@ -222,7 +236,6 @@
     "Builder (строитель).md",
     "OAuth 2.0.md",
     "Spring AOP.md",
-    "Системы Контроля Версий (VCS).md",
     "Attachments/Pasted image 20240501211547.png",
     "Attachments/Pasted image 20240501211519.png",
     "Attachments/Pasted image 20240501211451.png",
