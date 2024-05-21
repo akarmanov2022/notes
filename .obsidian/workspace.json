@@ -26,19 +26,11 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ТП-1. ЛР-5. Техники тест-дизайна.md",
+                "file": "УП Игра.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
-            }
-          },
-          {
-            "id": "76040ba9916dd693",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
             }
           }
         ],
@@ -108,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ТП-1. ЛР-5. Техники тест-дизайна.md",
+                "file": "УП Игра.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ТП-1. ЛР-5. Техники тест-дизайна.md",
+                "file": "УП Игра.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ТП-1. ЛР-5. Техники тест-дизайна.md"
+                "file": "УП Игра.md"
               }
             }
           },
@@ -193,6 +185,8 @@
   },
   "active": "66d545454077d60f",
   "lastOpenFiles": [
+    "Управление проектами (УК).md",
+    "УП Игра.md",
     "ТП-1. ЛР-5. Техники тест-дизайна.md",
     "Г1. Основы.md",
     "Untitled 2.md",
@@ -222,7 +216,6 @@
     "Принципы ООП.md",
     "Attachments/Pasted image 20240507213818.png",
     "Строительные блоки.md",
-    "Builder (строитель).md",
     "Attachments/Pasted image 20240501211547.png",
     "Attachments/Pasted image 20240501211519.png",
     "Attachments/Pasted image 20240501211451.png",
