@@ -32,9 +32,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "e207e759d7f685ab",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -101,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "УП Игра.md",
+                "file": "Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "УП Игра.md",
+                "file": "Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "УП Игра.md"
+                "file": "Untitled.md"
               }
             }
           },
@@ -184,10 +197,11 @@
       "obsidian-book-search-plugin:Create new book note": false
     }
   },
-  "active": "66d545454077d60f",
+  "active": "e207e759d7f685ab",
   "lastOpenFiles": [
-    "Управление проектами (УК).md",
     "УП Игра.md",
+    "Untitled.md",
+    "Управление проектами (УК).md",
     "ТП-1. ЛР-5. Техники тест-дизайна.md",
     "Г1. Основы.md",
     "Untitled 2.md",
@@ -216,7 +230,6 @@
     "Инкапсуляция.md",
     "Принципы ООП.md",
     "Attachments/Pasted image 20240507213818.png",
-    "Строительные блоки.md",
     "Attachments/Pasted image 20240501211547.png",
     "Attachments/Pasted image 20240501211519.png",
     "Attachments/Pasted image 20240501211451.png",
