@@ -13,41 +13,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Г1. Основы.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "66d545454077d60f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "УП Игра.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e207e759d7f685ab",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Untitled.md",
+                "file": "Индексы и Ограничения в SQL.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -114,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.md",
+                "file": "Индексы и Ограничения в SQL.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.md",
+                "file": "Индексы и Ограничения в SQL.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.md"
+                "file": "Индексы и Ограничения в SQL.md"
               }
             }
           },
@@ -197,13 +170,17 @@
       "obsidian-book-search-plugin:Create new book note": false
     }
   },
-  "active": "e207e759d7f685ab",
+  "active": "6d0b8cee242a0093",
   "lastOpenFiles": [
+    "Attachments/Pasted image 20240530221046.png",
+    "SQL.md",
+    "Индексы и Ограничения в SQL.md",
+    "СУБД.md",
+    "Г1. Основы.md",
     "УП Игра.md",
     "Untitled.md",
     "Управление проектами (УК).md",
     "ТП-1. ЛР-5. Техники тест-дизайна.md",
-    "Г1. Основы.md",
     "Untitled 2.md",
     "Untitled 2.canvas",
     "Untitled.canvas",
@@ -225,10 +202,6 @@
     "Компоновка объектов.md",
     "Chain of Responsibility (цепочка обязанностей).md",
     "Abstract Factory (абстрактная фабрика).md",
-    "Паттерны поведения.md",
-    "Наследование в ООП.md",
-    "Инкапсуляция.md",
-    "Принципы ООП.md",
     "Attachments/Pasted image 20240507213818.png",
     "Attachments/Pasted image 20240501211547.png",
     "Attachments/Pasted image 20240501211519.png",
