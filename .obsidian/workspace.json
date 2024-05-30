@@ -19,6 +19,14 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "84a0f8ba8bb1d818",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
         ]
       }
@@ -152,8 +160,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 305.5,
-    "collapsed": true
+    "width": 305.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -172,9 +179,9 @@
   },
   "active": "6d0b8cee242a0093",
   "lastOpenFiles": [
+    "Индексы и Ограничения в SQL.md",
     "Attachments/Pasted image 20240530221046.png",
     "SQL.md",
-    "Индексы и Ограничения в SQL.md",
     "СУБД.md",
     "Г1. Основы.md",
     "УП Игра.md",
@@ -212,7 +219,6 @@
     "Attachments/Pasted image 20240413190024.png",
     "Attachments/Pasted image 20240412223328.png",
     "Attachments/Pasted image 20240410171312.png",
-    "Attachments/Pasted image 20240408144254.png",
     "Excalidraw",
     "Templates/ТУСУР",
     "Design Patterns",
