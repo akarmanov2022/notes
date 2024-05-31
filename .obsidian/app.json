@@ -7,8 +7,8 @@
   "foldIndent": true,
   "smartIndentList": true,
   "showIndentGuide": true,
-  "propertiesInDocument": "visible",
-  "strictLineBreaks": false,
+  "propertiesInDocument": "source",
+  "strictLineBreaks": true,
   "livePreview": true,
   "defaultViewMode": "preview",
   "pdfExportSettings": {
