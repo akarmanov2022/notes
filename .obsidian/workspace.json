@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Системы Контроля Версий (VCS).md",
-                "mode": "preview",
+                "file": "WebSocket.md",
+                "mode": "source",
                 "backlinks": true,
                 "source": false
               }
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Системы Контроля Версий (VCS).md",
+                "file": "WebSocket.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Системы Контроля Версий (VCS).md",
+                "file": "WebSocket.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Системы Контроля Версий (VCS).md"
+                "file": "WebSocket.md"
               }
             }
           },
@@ -172,6 +172,10 @@
   },
   "active": "6d0b8cee242a0093",
   "lastOpenFiles": [
+    "Web on Reactive Stack.md",
+    "WebSocket.md",
+    "Spring WebFlux.md",
+    "Системы Контроля Версий (VCS).md",
     "Режимы распростанения.md",
     "ACID.md",
     "Уровни изоляции транзакции.md",
@@ -199,10 +203,6 @@
     "Сортировка методом вставок.md",
     "Attachments/Pasted image 20240514123016.png",
     "11 Производительность и масштабируемость.md",
-    "Структуры данных и алгоритмы.md",
-    "Сортировка Шелла.md",
-    "Daily Notes/2024-05-11.md",
-    "Паттерны ООП (Design Patterns).md",
     "Attachments/Pasted image 20240507213818.png",
     "Attachments/Pasted image 20240501211547.png",
     "Attachments/Pasted image 20240501211519.png",
