@@ -5,5 +5,6 @@
   "baseFontSizeAction": false,
   "translucency": false,
   "textFontFamily": "Charter",
-  "interfaceFontFamily": "Charter"
+  "interfaceFontFamily": "Charter",
+  "monospaceFontFamily": "Andale Mono"
 }
