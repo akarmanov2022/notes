@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "WebSocket.md",
+                "file": "Web on Reactive Stack.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "WebSocket.md",
+                "file": "Web on Reactive Stack.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "WebSocket.md",
+                "file": "Web on Reactive Stack.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "WebSocket.md"
+                "file": "Web on Reactive Stack.md"
               }
             }
           },
@@ -172,8 +172,9 @@
   },
   "active": "6d0b8cee242a0093",
   "lastOpenFiles": [
-    "Web on Reactive Stack.md",
+    "Attachments/Pasted image 20240603190144.png",
     "WebSocket.md",
+    "Web on Reactive Stack.md",
     "Spring WebFlux.md",
     "Системы Контроля Версий (VCS).md",
     "Режимы распростанения.md",
@@ -202,7 +203,6 @@
     "Attachments/Pasted image 20240514125108.png",
     "Сортировка методом вставок.md",
     "Attachments/Pasted image 20240514123016.png",
-    "11 Производительность и масштабируемость.md",
     "Attachments/Pasted image 20240507213818.png",
     "Attachments/Pasted image 20240501211547.png",
     "Attachments/Pasted image 20240501211519.png",
