@@ -4,5 +4,6 @@
   "cssTheme": "Typomagical",
   "baseFontSizeAction": false,
   "translucency": false,
-  "textFontFamily": "Charter"
+  "textFontFamily": "Charter",
+  "interfaceFontFamily": "Charter"
 }

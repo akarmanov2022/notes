@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Web on Reactive Stack.md",
+                "file": "Представления (Views).md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Web on Reactive Stack.md",
+                "file": "Представления (Views).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Web on Reactive Stack.md",
+                "file": "Представления (Views).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Web on Reactive Stack.md"
+                "file": "Представления (Views).md"
               }
             }
           },
@@ -172,9 +172,11 @@
   },
   "active": "6d0b8cee242a0093",
   "lastOpenFiles": [
+    "Индексы и Ограничения в SQL.md",
+    "Представления (Views).md",
+    "Web on Reactive Stack.md",
     "Attachments/Pasted image 20240603190144.png",
     "WebSocket.md",
-    "Web on Reactive Stack.md",
     "Spring WebFlux.md",
     "Системы Контроля Версий (VCS).md",
     "Режимы распростанения.md",
@@ -183,7 +185,6 @@
     "Daily Notes/2024-06-01.md",
     "ИИ-1. Лекция 6.md",
     "ИИ-1 Лекции.md",
-    "Индексы и Ограничения в SQL.md",
     "Attachments/Pasted image 20240530221046.png",
     "SQL.md",
     "СУБД.md",
@@ -212,7 +213,6 @@
     "Untitled 1.canvas",
     "Attachments/Pasted image 20240413190024.png",
     "Attachments/Pasted image 20240412223328.png",
-    "Attachments/Pasted image 20240410171312.png",
     "Excalidraw",
     "Templates/ТУСУР",
     "Design Patterns",
