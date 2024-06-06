@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Аналитические функции SQL.md",
-                "mode": "source",
+                "file": "ACID.md",
+                "mode": "preview",
                 "backlinks": true,
                 "source": false
               }
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Аналитические функции SQL.md",
+                "file": "ACID.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Аналитические функции SQL.md",
+                "file": "ACID.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Аналитические функции SQL.md"
+                "file": "ACID.md"
               }
             }
           },
@@ -172,8 +172,8 @@
   },
   "active": "6d0b8cee242a0093",
   "lastOpenFiles": [
-    "Представления (Views).md",
     "Аналитические функции SQL.md",
+    "Представления (Views).md",
     "Индексы и Ограничения в SQL.md",
     "Web on Reactive Stack.md",
     "Attachments/Pasted image 20240603190144.png",
