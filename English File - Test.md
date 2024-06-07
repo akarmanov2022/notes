@@ -1,3 +1,7 @@
+---
+author: Arseniy Karmanov
+---
+
 1)
 1. speak
 2. study
@@ -83,5 +87,19 @@ I work on IT-company from Monday to Friday.
 My family contains four people:my mother is Kristina, my young brother is Fillip and my grandmother is Galina.
 My mother is a teacher, she works in a university.
 My young brother is a students. He is a future actor.
-My grandmother doesn't work. She has a four aquariuum. She likes her fishs.
+My grandmother doesn't work. She has a four aquarium. She likes her fish.
 In my free time I prepare for my exams.
+
+# Listening
+1)
+1. B 
+2. A
+3. B
+4. C
+5. A
+2)
+1. E
+2. A
+3. D
+4. B
+5. C

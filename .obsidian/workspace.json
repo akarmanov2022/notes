@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "English.md",
+                "file": "English File - Test.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "English.md",
+                "file": "English File - Test.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "English.md",
+                "file": "English File - Test.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "English.md"
+                "file": "English File - Test.md"
               }
             }
           },
@@ -188,7 +188,7 @@
   "lastOpenFiles": [
     "Attachments/Pasted image 20240606191357.png",
     "ACID.md",
-    "English.md",
+    "English File - Test.md",
     "Аналитические функции SQL.md",
     "Представления (Views).md",
     "Индексы и Ограничения в SQL.md",
