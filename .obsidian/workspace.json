@@ -26,20 +26,10 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ИИ-1. Введение.md",
+                "file": "ИИ-1. Продукционные системы.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "2394ed336eca20ff",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.6.3"
               }
             }
           },
@@ -52,7 +42,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -119,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ИИ-1. Введение.md",
+                "file": "ИИ-1. Продукционные системы.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ИИ-1. Введение.md",
+                "file": "ИИ-1. Продукционные системы.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ИИ-1. Введение.md"
+                "file": "ИИ-1. Продукционные системы.md"
               }
             }
           },
@@ -194,10 +184,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "2394ed336eca20ff",
+  "active": "7cdd4437081e0f37",
   "lastOpenFiles": [
-    "ИИ-1 Лекции.md",
     "ИИ-1. Введение.md",
+    "ИИ-1. Продукционные системы.md",
+    "Attachments/Pasted image 20240614173042.png",
+    "Attachments/Pasted image 20240614172942.png",
+    "Attachments/Pasted image 20240614172910.png",
+    "ИИ-1 Лекции.md",
     "English File - Test.md",
     "Attachments/Pasted image 20240606191357.png",
     "ACID.md",
@@ -226,17 +220,13 @@
     "Untitled.canvas",
     "Daily Notes/2024-05-18.md",
     "Daily Notes/2024-05-15.md",
-    "Алгоритмы.md",
     "Attachments/Pasted image 20240514125108.png",
     "Attachments/Pasted image 20240514123016.png",
     "Attachments/Pasted image 20240507213818.png",
     "Attachments/Pasted image 20240501211547.png",
-    "Attachments/Pasted image 20240501211519.png",
-    "Attachments/Pasted image 20240501211451.png",
     "Untitled 4.canvas",
     "Untitled 3.canvas",
     "Untitled 1.canvas",
-    "Attachments/Pasted image 20240413190024.png",
     "Excalidraw",
     "Templates/ТУСУР",
     "Design Patterns",
