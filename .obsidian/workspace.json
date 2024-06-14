@@ -26,10 +26,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "English File - Test.md",
+                "file": "ИИ-1. Введение.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
+              }
+            }
+          },
+          {
+            "id": "2394ed336eca20ff",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.6.3"
               }
             }
           },
@@ -42,7 +52,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -109,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "English File - Test.md",
+                "file": "ИИ-1. Введение.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "English File - Test.md",
+                "file": "ИИ-1. Введение.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "English File - Test.md"
+                "file": "ИИ-1. Введение.md"
               }
             }
           },
@@ -184,11 +194,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "7cdd4437081e0f37",
+  "active": "2394ed336eca20ff",
   "lastOpenFiles": [
+    "ИИ-1 Лекции.md",
+    "ИИ-1. Введение.md",
+    "English File - Test.md",
     "Attachments/Pasted image 20240606191357.png",
     "ACID.md",
-    "English File - Test.md",
     "Аналитические функции SQL.md",
     "Представления (Views).md",
     "Индексы и Ограничения в SQL.md",
@@ -201,7 +213,6 @@
     "Уровни изоляции транзакции.md",
     "Daily Notes/2024-06-01.md",
     "ИИ-1. Лекция 6.md",
-    "ИИ-1 Лекции.md",
     "Attachments/Pasted image 20240530221046.png",
     "SQL.md",
     "СУБД.md",
@@ -226,7 +237,6 @@
     "Untitled 3.canvas",
     "Untitled 1.canvas",
     "Attachments/Pasted image 20240413190024.png",
-    "Attachments/Pasted image 20240412223328.png",
     "Excalidraw",
     "Templates/ТУСУР",
     "Design Patterns",
