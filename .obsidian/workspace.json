@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ИИ-1. Семантические сети.md",
-                "mode": "preview",
+                "file": "ИИ-1. Фреймовая модель представления знаний.md",
+                "mode": "source",
                 "backlinks": true,
                 "source": false
               }
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ИИ-1. Семантические сети.md",
+                "file": "ИИ-1. Фреймовая модель представления знаний.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ИИ-1. Семантические сети.md",
+                "file": "ИИ-1. Фреймовая модель представления знаний.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ИИ-1. Семантические сети.md"
+                "file": "ИИ-1. Фреймовая модель представления знаний.md"
               }
             }
           },
@@ -164,8 +164,8 @@
   },
   "active": "6d0b8cee242a0093",
   "lastOpenFiles": [
-    "Attachments/Pasted image 20240615164955.png",
     "ИИ-1. Семантические сети.md",
+    "Attachments/Pasted image 20240615164955.png",
     "ИИ-1 Лекции.md",
     "ИИ-1. Фреймовая модель представления знаний.md",
     "ИИ-1. Введение.md",
