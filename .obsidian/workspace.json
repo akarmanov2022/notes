@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ИИ-1. Фреймовая модель представления знаний.md",
+                "file": "ИИ-1. Семантические сети.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ИИ-1. Фреймовая модель представления знаний.md",
+                "file": "ИИ-1. Семантические сети.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ИИ-1. Фреймовая модель представления знаний.md",
+                "file": "ИИ-1. Семантические сети.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ИИ-1. Фреймовая модель представления знаний.md"
+                "file": "ИИ-1. Семантические сети.md"
               }
             }
           },
@@ -164,11 +164,11 @@
   },
   "active": "6d0b8cee242a0093",
   "lastOpenFiles": [
+    "ИИ-1. Фреймовая модель представления знаний.md",
     "Attachments/Pasted image 20240616183111.png",
     "ИИ-1. Семантические сети.md",
     "Attachments/Pasted image 20240615164955.png",
     "ИИ-1 Лекции.md",
-    "ИИ-1. Фреймовая модель представления знаний.md",
     "ИИ-1. Введение.md",
     "Attachments/Pasted image 20240615193921.png",
     "Attachments/Pasted image 20240615172409.png",
@@ -179,7 +179,6 @@
     "Attachments/Pasted image 20240615164402.png",
     "Attachments/Pasted image 20240615163813.png",
     "Attachments/Pasted image 20240615162005.png",
-    "Attachments/Pasted image 20240615160120.png",
     "ACID.md",
     "English File - Test.md",
     "Аналитические функции SQL.md",
