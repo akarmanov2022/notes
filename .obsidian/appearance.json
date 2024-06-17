@@ -1,10 +1,10 @@
 {
   "accentColor": "#b22e2e",
   "theme": "moonstone",
-  "cssTheme": "Minimal",
+  "cssTheme": "",
   "baseFontSizeAction": false,
   "translucency": false,
-  "textFontFamily": "Damascus",
+  "textFontFamily": "",
   "interfaceFontFamily": "",
   "monospaceFontFamily": "Andale Mono"
 }
