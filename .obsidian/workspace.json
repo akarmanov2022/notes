@@ -140,12 +140,11 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 305.5,
-    "collapsed": true
+    "width": 305.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -162,7 +161,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "6d0b8cee242a0093",
+  "active": "3367f324f0a9acf8",
   "lastOpenFiles": [
     "ИИ-1. Фреймовая модель представления знаний.md",
     "ИИ-1. Логическая модель представления знаний.md",
