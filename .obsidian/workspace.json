@@ -32,6 +32,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "01b64032c98be447",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ИИ-1. Введение.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
         ],
         "currentTab": 1
@@ -180,13 +193,13 @@
   "lastOpenFiles": [
     "ИИ-1. Семантические сети.md",
     "ИИ-1. Логическая модель представления знаний.md",
+    "ИИ-1. Введение.md",
     "Attachments/Pasted image 20240617153604.png",
     "ИИ-1. Фреймовая модель представления знаний.md",
     "ИИ-1 Лекции.md",
     "ИИ-1. Продукционные системы.md",
     "Attachments/Pasted image 20240616183111.png",
     "Attachments/Pasted image 20240615164955.png",
-    "ИИ-1. Введение.md",
     "Attachments/Pasted image 20240615193921.png",
     "Attachments/Pasted image 20240615172409.png",
     "Attachments/Pasted image 20240615171007.png",
