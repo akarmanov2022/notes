@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ИИ-1. Введение.md",
+                "file": "ИИ-1. Продукционные системы.md",
                 "mode": "preview",
                 "backlinks": true,
                 "source": false
@@ -47,7 +47,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -114,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ИИ-1. Логическая модель представления знаний.md",
+                "file": "ИИ-1. Продукционные системы.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ИИ-1. Логическая модель представления знаний.md",
+                "file": "ИИ-1. Продукционные системы.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ИИ-1. Логическая модель представления знаний.md"
+                "file": "ИИ-1. Продукционные системы.md"
               }
             }
           },
@@ -167,12 +167,11 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 305.5,
-    "collapsed": true
+    "width": 305.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -189,15 +188,15 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "1363a3f18b1004c7",
+  "active": "01b64032c98be447",
   "lastOpenFiles": [
     "ИИ-1. Семантические сети.md",
-    "ИИ-1. Логическая модель представления знаний.md",
     "ИИ-1. Введение.md",
+    "ИИ-1. Продукционные системы.md",
+    "ИИ-1. Логическая модель представления знаний.md",
     "Attachments/Pasted image 20240617153604.png",
     "ИИ-1. Фреймовая модель представления знаний.md",
     "ИИ-1 Лекции.md",
-    "ИИ-1. Продукционные системы.md",
     "Attachments/Pasted image 20240616183111.png",
     "Attachments/Pasted image 20240615164955.png",
     "Attachments/Pasted image 20240615193921.png",
