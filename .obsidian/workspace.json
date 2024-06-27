@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "English File - Test.md",
+                "file": "Daily Notes/2024-06-27.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -34,20 +34,15 @@
             }
           },
           {
-            "id": "01b64032c98be447",
+            "id": "d468c9b48e9a7fbe",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ИИ-1. Продукционные системы.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -114,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "English File - Test.md",
+                "file": "ИИ-1. Семантические сети.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "English File - Test.md",
+                "file": "ИИ-1. Семантические сети.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "English File - Test.md"
+                "file": "ИИ-1. Семантические сети.md"
               }
             }
           },
@@ -189,10 +184,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "1363a3f18b1004c7",
+  "active": "d468c9b48e9a7fbe",
   "lastOpenFiles": [
-    "ИИ-1. Логическая модель представления знаний.md",
     "ИИ-1. Продукционные системы.md",
+    "Daily Notes/2024-06-27.md",
+    "English File - Test.md",
+    "ИИ-1. Логическая модель представления знаний.md",
     "ИИ-1. Семантические сети.md",
     "ИИ-1. Введение.md",
     "Attachments/Pasted image 20240617153604.png",
@@ -208,7 +205,6 @@
     "Attachments/Pasted image 20240615164402.png",
     "Attachments/Pasted image 20240615163813.png",
     "ACID.md",
-    "English File - Test.md",
     "Аналитические функции SQL.md",
     "Представления (Views).md",
     "Индексы и Ограничения в SQL.md",
