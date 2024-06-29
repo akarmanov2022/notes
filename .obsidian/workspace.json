@@ -34,21 +34,16 @@
             }
           },
           {
-            "id": "596c515afc8e0c26",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.6.5"
-              }
-            }
-          },
-          {
             "id": "d468c9b48e9a7fbe",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Daily Notes/2024-06-29.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ],
@@ -119,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily Notes/2024-06-27.md",
+                "file": "Daily Notes/2024-06-29.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily Notes/2024-06-27.md",
+                "file": "Daily Notes/2024-06-29.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily Notes/2024-06-27.md"
+                "file": "Daily Notes/2024-06-29.md"
               }
             }
           },
@@ -194,10 +189,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "596c515afc8e0c26",
+  "active": "d468c9b48e9a7fbe",
   "lastOpenFiles": [
-    "ИИ-1. Продукционные системы.md",
+    "Daily Notes/2024-06-29.md",
     "Daily Notes/2024-06-27.md",
+    "ИИ-1. Продукционные системы.md",
     "English File - Test.md",
     "ИИ-1. Логическая модель представления знаний.md",
     "ИИ-1. Семантические сети.md",
@@ -231,7 +227,6 @@
     "Г1. Основы.md",
     "УП Игра.md",
     "Untitled.md",
-    "Управление проектами (УК).md",
     "Untitled 2.canvas",
     "Untitled.canvas",
     "Untitled 4.canvas",
