@@ -34,6 +34,16 @@
             }
           },
           {
+            "id": "596c515afc8e0c26",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.6.5"
+              }
+            }
+          },
+          {
             "id": "d468c9b48e9a7fbe",
             "type": "leaf",
             "state": {
@@ -109,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ИИ-1. Семантические сети.md",
+                "file": "Daily Notes/2024-06-27.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ИИ-1. Семантические сети.md",
+                "file": "Daily Notes/2024-06-27.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ИИ-1. Семантические сети.md"
+                "file": "Daily Notes/2024-06-27.md"
               }
             }
           },
@@ -184,7 +194,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "d468c9b48e9a7fbe",
+  "active": "596c515afc8e0c26",
   "lastOpenFiles": [
     "ИИ-1. Продукционные системы.md",
     "Daily Notes/2024-06-27.md",
