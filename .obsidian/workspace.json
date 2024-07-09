@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Validation, Formatting и Type Conversion.md",
+                "file": "Validation in Spring.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Validation, Formatting и Type Conversion.md",
+                "file": "Validation in Spring.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Validation, Formatting и Type Conversion.md",
+                "file": "Validation in Spring.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Validation, Formatting и Type Conversion.md"
+                "file": "Validation in Spring.md"
               }
             }
           },
@@ -138,9 +138,17 @@
               "type": "advanced-tables-toolbar",
               "state": {}
             }
+          },
+          {
+            "id": "2c90fcb7e8ba328b",
+            "type": "leaf",
+            "state": {
+              "type": "mermaid-toolbar-view",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -164,11 +172,13 @@
   },
   "active": "6d0b8cee242a0093",
   "lastOpenFiles": [
-    "Spring Framework.md",
     "Validation, Formatting и Type Conversion.md",
+    "Validation in Spring.md",
+    "Untitled 1.md",
+    "Spring Framework.md",
+    "Excalidraw/Drawing 2024-07-09 22.01.30.excalidraw.md",
     "Daily Notes/2024-07-06.md",
     "ИИ-1. Семантические сети.md",
-    "Untitled 1.md",
     "Daily Notes/2024-06-29.md",
     "Daily Notes/2024-06-27.md",
     "ИИ-1. Продукционные системы.md",
@@ -198,8 +208,6 @@
     "Режимы распростанения.md",
     "Уровни изоляции транзакции.md",
     "Daily Notes/2024-06-01.md",
-    "ИИ-1. Лекция 6.md",
-    "SQL.md",
     "Untitled 2.canvas",
     "Untitled.canvas",
     "Untitled 4.canvas",
