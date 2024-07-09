@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily Notes/2024-07-06.md",
+                "file": "Validation, Formatting и Type Conversion.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily Notes/2024-07-06.md",
+                "file": "Validation, Formatting и Type Conversion.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily Notes/2024-07-06.md",
+                "file": "Validation, Formatting и Type Conversion.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily Notes/2024-07-06.md"
+                "file": "Validation, Formatting и Type Conversion.md"
               }
             }
           },
@@ -164,8 +164,10 @@
   },
   "active": "6d0b8cee242a0093",
   "lastOpenFiles": [
-    "ИИ-1. Семантические сети.md",
+    "Spring Framework.md",
+    "Validation, Formatting и Type Conversion.md",
     "Daily Notes/2024-07-06.md",
+    "ИИ-1. Семантические сети.md",
     "Untitled 1.md",
     "Daily Notes/2024-06-29.md",
     "Daily Notes/2024-06-27.md",
@@ -198,8 +200,6 @@
     "Daily Notes/2024-06-01.md",
     "ИИ-1. Лекция 6.md",
     "SQL.md",
-    "СУБД.md",
-    "Г1. Основы.md",
     "Untitled 2.canvas",
     "Untitled.canvas",
     "Untitled 4.canvas",
