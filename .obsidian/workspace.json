@@ -19,8 +19,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "27f4d943aafe7548",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.6.7"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -170,7 +181,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "6d0b8cee242a0093",
+  "active": "27f4d943aafe7548",
   "lastOpenFiles": [
     "Daily Notes/2024-07-13.md",
     "Daily Notes/2024-07-25.md",
