@@ -13,25 +13,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily Notes/2024-07-25.md",
+                "file": "Паттерны ООП (Design Patterns).md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
-          },
-          {
-            "id": "27f4d943aafe7548",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.6.7"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily Notes/2024-07-25.md",
+                "file": "Паттерны ООП (Design Patterns).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily Notes/2024-07-25.md",
+                "file": "Паттерны ООП (Design Patterns).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily Notes/2024-07-25.md"
+                "file": "Паттерны ООП (Design Patterns).md"
               }
             }
           },
@@ -181,10 +170,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "27f4d943aafe7548",
+  "active": "6d0b8cee242a0093",
   "lastOpenFiles": [
-    "Daily Notes/2024-07-13.md",
+    "Designing Data-Intensive Applications - Martin Kleppmann.md",
     "Daily Notes/2024-07-25.md",
+    "Daily Notes/2024-07-13.md",
     "Алгоритмы.md",
     "Сортировка методом вставок.md",
     "Daily Notes/2024-07-11.md",
@@ -218,7 +208,6 @@
     "Аналитические функции SQL.md",
     "Представления (Views).md",
     "Индексы и Ограничения в SQL.md",
-    "Web on Reactive Stack.md",
     "Untitled 2.canvas",
     "Untitled.canvas",
     "Untitled 4.canvas",
