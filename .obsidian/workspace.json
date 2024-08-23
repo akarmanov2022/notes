@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Designing Data-Intensive Applications - Martin Kleppmann.md",
-                "mode": "preview",
+                "file": "Подсистемы хранения и извлечения данных.md",
+                "mode": "source",
                 "backlinks": true,
                 "source": false
               }
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Designing Data-Intensive Applications - Martin Kleppmann.md",
+                "file": "Подсистемы хранения и извлечения данных.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Designing Data-Intensive Applications - Martin Kleppmann.md",
+                "file": "Подсистемы хранения и извлечения данных.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Designing Data-Intensive Applications - Martin Kleppmann.md"
+                "file": "Подсистемы хранения и извлечения данных.md"
               }
             }
           },
@@ -172,10 +172,12 @@
   },
   "active": "f1dcbe8721038643",
   "lastOpenFiles": [
+    "Основы информационных систем.md",
+    "Подсистемы хранения и извлечения данных.md",
+    "Designing Data-Intensive Applications - Martin Kleppmann.md",
     "Daily Notes/2024-08-22.md",
     "Индексы и Ограничения в SQL.md",
     "Паттерны ООП (Design Patterns).md",
-    "Designing Data-Intensive Applications - Martin Kleppmann.md",
     "Daily Notes/2024-07-25.md",
     "Daily Notes/2024-07-13.md",
     "Алгоритмы.md",
@@ -197,7 +199,6 @@
     "ИИ-1. Введение.md",
     "Attachments/Pasted image 20240617153604.png",
     "ИИ-1. Фреймовая модель представления знаний.md",
-    "ИИ-1 Лекции.md",
     "Attachments/Pasted image 20240616183111.png",
     "Attachments/Pasted image 20240615164955.png",
     "Attachments/Pasted image 20240615193921.png",
@@ -207,7 +208,6 @@
     "Attachments/Pasted image 20240615165543.png",
     "Attachments/Pasted image 20240615164402.png",
     "Attachments/Pasted image 20240615163813.png",
-    "ACID.md",
     "Untitled 2.canvas",
     "Untitled.canvas",
     "Untitled 4.canvas",
