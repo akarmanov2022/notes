@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Основы информационных систем.md",
+                "file": "Репликация.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -33,8 +33,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -101,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Лекция 1. История ОПД.md",
+                "file": "Репликация.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Лекция 1. История ОПД.md",
+                "file": "Репликация.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Лекция 1. История ОПД.md"
+                "file": "Репликация.md"
               }
             }
           },
@@ -184,10 +183,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "bbafaab061c69b08",
+  "active": "f1dcbe8721038643",
   "lastOpenFiles": [
-    "Основы предпринимательской деятельности (ОПД).md",
+    "Распределенные данные.md",
+    "Репликация.md",
+    "Designing Data-Intensive Applications - Martin Kleppmann.md",
+    "Основы информационных систем.md",
     "Лекция 1. История ОПД.md",
+    "Основы предпринимательской деятельности (ОПД).md",
     "Подсистемы хранения и извлечения данных.md",
     "Attachments/Pasted image 20240827214713.png",
     "Attachments/Pasted image 20240827214054.png",
@@ -195,8 +198,6 @@
     "Attachments/Pasted image 20240827103045.png",
     "Attachments/Pasted image 20240823163055.png",
     "Attachments/Pasted image 20240823161721.png",
-    "Основы информационных систем.md",
-    "Designing Data-Intensive Applications - Martin Kleppmann.md",
     "Daily Notes/2024-08-22.md",
     "Индексы и Ограничения в SQL.md",
     "Паттерны ООП (Design Patterns).md",
@@ -216,8 +217,6 @@
     "Daily Notes/2024-06-29.md",
     "Daily Notes/2024-06-27.md",
     "ИИ-1. Продукционные системы.md",
-    "English File - Test.md",
-    "ИИ-1. Логическая модель представления знаний.md",
     "Attachments/Pasted image 20240617153604.png",
     "Attachments/Pasted image 20240616183111.png",
     "Attachments/Pasted image 20240615164955.png",
