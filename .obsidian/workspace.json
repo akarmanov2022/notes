@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Репликация.md",
+                "file": "CI и CD.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -83,8 +83,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "040412060455cf19",
@@ -100,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Репликация.md",
+                "file": "CI и CD.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Репликация.md",
+                "file": "CI и CD.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Репликация.md"
+                "file": "CI и CD.md"
               }
             }
           },
@@ -185,8 +184,11 @@
   },
   "active": "f1dcbe8721038643",
   "lastOpenFiles": [
-    "Распределенные данные.md",
     "Репликация.md",
+    "CI и CD.md",
+    "CI/CD.md",
+    "CI",
+    "Распределенные данные.md",
     "Designing Data-Intensive Applications - Martin Kleppmann.md",
     "Основы информационных систем.md",
     "Лекция 1. История ОПД.md",
@@ -215,8 +217,6 @@
     "Daily Notes/2024-07-06.md",
     "ИИ-1. Семантические сети.md",
     "Daily Notes/2024-06-29.md",
-    "Daily Notes/2024-06-27.md",
-    "ИИ-1. Продукционные системы.md",
     "Attachments/Pasted image 20240617153604.png",
     "Attachments/Pasted image 20240616183111.png",
     "Attachments/Pasted image 20240615164955.png",
