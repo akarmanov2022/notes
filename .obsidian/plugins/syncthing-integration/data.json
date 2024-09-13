@@ -1,0 +1,11 @@
+{
+  "configuration": {
+    "url": {
+      "protocol": "http",
+      "ip_address": "185.94.165.213",
+      "port": 8384
+    }
+  },
+  "devMode": false,
+  "api_key": "a6N7ucdP9rhGPCNdi3xdDvWukuGrgYgF"
+}
