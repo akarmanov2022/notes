@@ -28,7 +28,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ИСиТ Лекция 1.md",
+                "file": "Дипломная работа.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -103,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ИСиТ Лекция 1.md",
+                "file": "Дипломная работа.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ИСиТ Лекция 1.md",
+                "file": "Дипломная работа.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ИСиТ Лекция 1.md"
+                "file": "Дипломная работа.md"
               }
             }
           },
@@ -173,7 +173,6 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "syncthing-integration:Open Syncthing conflict manager modal": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -189,8 +188,9 @@
   },
   "active": "bbafaab061c69b08",
   "lastOpenFiles": [
-    "Информационные системы и Технологии.md",
     "ИСиТ Лекция 1.md",
+    "Дипломная работа.md",
+    "Информационные системы и Технологии.md",
     "Лекция 1. История ОПД.md",
     "Untitled.canvas",
     "CI и CD.md",
@@ -222,7 +222,6 @@
     "Untitled 1.md",
     "Spring Framework.md",
     "Excalidraw/Drawing 2024-07-09 22.01.30.excalidraw.md",
-    "Daily Notes/2024-07-06.md",
     "Attachments/Pasted image 20240617153604.png",
     "Attachments/Pasted image 20240616183111.png",
     "Attachments/Pasted image 20240615164955.png",
