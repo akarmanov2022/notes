@@ -34,6 +34,14 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "3dd3ab43f7d60a81",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
         ],
         "currentTab": 1
@@ -86,8 +94,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "040412060455cf19",
@@ -173,6 +180,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "syncthing-integration:Open Syncthing conflict manager modal": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -188,8 +196,8 @@
   },
   "active": "bbafaab061c69b08",
   "lastOpenFiles": [
-    "ИСиТ Лекция 1.md",
     "Дипломная работа.md",
+    "ИСиТ Лекция 1.md",
     "Информационные системы и Технологии.md",
     "Лекция 1. История ОПД.md",
     "Untitled.canvas",
