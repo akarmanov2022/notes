@@ -70,7 +70,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 498.5
+    "width": 255.5,
+    "collapsed": true
   },
   "right": {
     "id": "040412060455cf19",
@@ -159,7 +160,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 633.5
+    "width": 633.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -179,14 +181,14 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "3dd3ab43f7d60a81",
+  "active": "954cf5349d9835cf",
   "lastOpenFiles": [
+    "Temp.md",
     "Templates/Лекция.md",
     "Лекция.md",
     "VCS",
     "Лекция 1. История ОПД.md",
     "Untitled.canvas",
-    "Temp.md",
     "Spring WebFlux.md",
     "Mono.md",
     "Chain of Responsibility (цепочка обязанностей).md",
