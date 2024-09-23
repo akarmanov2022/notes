@@ -1,10 +1,10 @@
 {
   "accentColor": "#b22e2e",
-  "theme": "system",
-  "cssTheme": "",
+  "theme": "moonstone",
+  "cssTheme": "Typomagical",
   "baseFontSizeAction": false,
   "translucency": false,
-  "textFontFamily": "",
-  "interfaceFontFamily": "",
+  "textFontFamily": "American Typewriter",
+  "interfaceFontFamily": "Bahnschrift",
   "monospaceFontFamily": "Andale Mono"
 }
