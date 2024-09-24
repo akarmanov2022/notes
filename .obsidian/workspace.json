@@ -13,10 +13,10 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Репликация.md",
-                "mode": "preview",
+                "file": "Daily Notes/2024-09-26.md",
+                "mode": "source",
                 "backlinks": true,
-                "source": true
+                "source": false
               }
             }
           }
@@ -33,6 +33,14 @@
         "id": "189fca2f69460972",
         "type": "tabs",
         "children": [
+          {
+            "id": "068da8ead30cb3b0",
+            "type": "leaf",
+            "state": {
+              "type": "file-tree-view",
+              "state": {}
+            }
+          },
           {
             "id": "21056d9121618ad3",
             "type": "leaf",
@@ -57,21 +65,13 @@
                 "sortOrder": "alphabetical"
               }
             }
-          },
-          {
-            "id": "ba66557c471b408c",
-            "type": "leaf",
-            "state": {
-              "type": "bookmarks",
-              "state": {}
-            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 255.5,
-    "collapsed": true
+    "width": 255.5
   },
   "right": {
     "id": "040412060455cf19",
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Репликация.md",
+                "file": "Daily Notes/2024-09-26.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Репликация.md",
+                "file": "Daily Notes/2024-09-26.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Репликация.md"
+                "file": "Daily Notes/2024-09-26.md"
               }
             }
           },
@@ -154,14 +154,21 @@
               "type": "git-view",
               "state": {}
             }
+          },
+          {
+            "id": "b710213c6efeec84",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "horizontal",
-    "width": 633.5,
-    "collapsed": true
+    "width": 479.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -177,60 +184,62 @@
       "mermaid-tools:Open Mermaid Toolbar": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
       "obsidian-git:Open Git source control": false,
-      "templater-obsidian:Templater": false
+      "templater-obsidian:Templater": false,
+      "file-tree-alternative:File Tree Alternative Plugin": false
     }
   },
   "active": "c79cc366b2c35f6e",
   "lastOpenFiles": [
+    "Daily Notes/2024-09-26.md",
+    "Учеба/ТУСУР/ГПО/Вопросы к ГПО.md",
+    "Java Concurrency.md",
+    "Temp.md",
+    "Untitled 1.md",
     "Untitled.canvas",
+    "Учеба/ТУСУР/ГПО",
+    "Учеба/ТУСУР/Untitled.md",
+    "Учеба/ТУСУР",
+    "Учеба",
+    "Programming/Java/Java.md",
+    "Programming/GRASP/GRASP.md",
+    "Programming/Design Patterns/Composite (компоновщик).md",
+    "Books",
+    "Programming/Design Patterns/Command (команда).md",
+    "Programming/Design Patterns/Adapter (адаптер).md",
+    "Programming/Design Patterns",
+    "ACID.md",
+    "Programming/Java/Java Concurrency/11 Chapter/11 Производительность и масштабируемость.md",
+    "Programming/GRASP",
+    "Programming/Java/Java Concurrency/11 Chapter",
+    "Programming/Java/Java Concurrency",
+    "Репликация.md",
+    "Programming/Java",
+    "Programming",
     "Распределенные данные.md",
-    "Designing Data-Intensive Applications - Martin Kleppmann.md",
+    "Books/Designing Data-Intensive Applications - Martin Kleppmann.md",
     "Untitled.md",
     "Лекция.md",
-    "Temp.md",
     "Templates/Лекция.md",
-    "VCS",
     "Лекция 1. История ОПД.md",
     "Spring WebFlux.md",
     "Mono.md",
-    "Chain of Responsibility (цепочка обязанностей).md",
+    "Programming/Design Patterns/Chain of Responsibility (цепочка обязанностей).md",
     "CI и CD.md",
     "Untitled 2.canvas",
     "Untitled 1.canvas",
     "Дипломная работа.md",
     "ИСиТ Лекция 1.md",
-    "Информационные системы и Технологии.md",
-    "Репликация.md",
-    "CI/CD.md",
-    "CI",
-    "Основы информационных систем.md",
-    "Основы предпринимательской деятельности (ОПД).md",
-    "Подсистемы хранения и извлечения данных.md",
     "Attachments/Pasted image 20240827214713.png",
     "Attachments/Pasted image 20240827214054.png",
     "Attachments/Pasted image 20240827103703.png",
     "Attachments/Pasted image 20240827103045.png",
     "Attachments/Pasted image 20240823163055.png",
     "Attachments/Pasted image 20240823161721.png",
-    "Daily Notes/2024-08-22.md",
-    "Индексы и Ограничения в SQL.md",
-    "Паттерны ООП (Design Patterns).md",
-    "Daily Notes/2024-07-25.md",
-    "Daily Notes/2024-07-13.md",
-    "Алгоритмы.md",
     "Attachments/Pasted image 20240617153604.png",
     "Attachments/Pasted image 20240616183111.png",
     "Attachments/Pasted image 20240615164955.png",
     "Attachments/Pasted image 20240615193921.png",
     "Untitled 4.canvas",
-    "Untitled 3.canvas",
-    "Excalidraw",
-    "Templates/ТУСУР",
-    "Design Patterns",
-    "Attachments",
-    "Attachments",
-    "Daily Notes",
-    "Templates",
-    "files"
+    "Untitled 3.canvas"
   ]
 }

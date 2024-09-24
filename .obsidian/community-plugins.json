@@ -6,5 +6,7 @@
   "link-with-alias",
   "mermaid-tools",
   "templater-obsidian",
-  "obsidian-icon-folder"
+  "obsidian-icon-folder",
+  "file-tree-alternative",
+  "calendar"
 ]
