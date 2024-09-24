@@ -4,7 +4,8 @@
   "cssTheme": "Typomagical",
   "baseFontSizeAction": false,
   "translucency": false,
-  "textFontFamily": "American Typewriter",
-  "interfaceFontFamily": "Bahnschrift",
-  "monospaceFontFamily": "Andale Mono"
+  "textFontFamily": "Calibri",
+  "interfaceFontFamily": "Calibri",
+  "monospaceFontFamily": "Andale Mono",
+  "showViewHeader": true
 }
