@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Учеба/ТУСУР/ГПО/2024-09-26.md",
+                "file": "Daily Notes/2024-09-25.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -65,9 +65,16 @@
                 "sortOrder": "alphabetical"
               }
             }
+          },
+          {
+            "id": "7121c5738b24e89b",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -87,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Учеба/ТУСУР/ГПО/2024-09-26.md",
+                "file": "Daily Notes/2024-09-25.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Учеба/ТУСУР/ГПО/2024-09-26.md",
+                "file": "Daily Notes/2024-09-25.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Учеба/ТУСУР/ГПО/2024-09-26.md"
+                "file": "Daily Notes/2024-09-25.md"
               }
             }
           },
@@ -190,8 +197,9 @@
   },
   "active": "c79cc366b2c35f6e",
   "lastOpenFiles": [
-    "Учеба/ТУСУР/ГПО/Untitled.canvas",
     "Учеба/ТУСУР/ГПО/2024-09-26.md",
+    "Daily Notes/2024-09-25.md",
+    "Учеба/ТУСУР/ГПО/Untitled.canvas",
     "Учеба/ТУСУР/ГПО/Вопросы к ГПО.md",
     "Java Concurrency.md",
     "Temp.md",
