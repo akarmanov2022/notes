@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily Notes/2024-09-25.md",
+                "file": "Programming/Java/Chapter 3. Tools of the Trade/Инструменты Java.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily Notes/2024-09-25.md",
+                "file": "Programming/Java/Chapter 3. Tools of the Trade/Инструменты Java.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily Notes/2024-09-25.md",
+                "file": "Programming/Java/Chapter 3. Tools of the Trade/Инструменты Java.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily Notes/2024-09-25.md"
+                "file": "Programming/Java/Chapter 3. Tools of the Trade/Инструменты Java.md"
               }
             }
           },
@@ -175,7 +175,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 479.5
+    "width": 225.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -197,8 +198,10 @@
   },
   "active": "c79cc366b2c35f6e",
   "lastOpenFiles": [
-    "Учеба/ТУСУР/ГПО/2024-09-26.md",
     "Daily Notes/2024-09-25.md",
+    "Programming/Java/Chapter 3. Tools of the Trade/Инструменты Java.md",
+    "Programming/Java/Chapter 3. Tools of the Trade",
+    "Учеба/ТУСУР/ГПО/2024-09-26.md",
     "Учеба/ТУСУР/ГПО/Untitled.canvas",
     "Учеба/ТУСУР/ГПО/Вопросы к ГПО.md",
     "Java Concurrency.md",
@@ -217,13 +220,12 @@
     "Programming/Design Patterns/Adapter (адаптер).md",
     "Programming/Design Patterns",
     "ACID.md",
-    "Programming/Java/Java Concurrency/11 Chapter/11 Производительность и масштабируемость.md",
+    "Programming/Java Concurrency/11 Chapter/11 Производительность и масштабируемость.md",
     "Programming/GRASP",
-    "Programming/Java/Java Concurrency/11 Chapter",
-    "Programming/Java/Java Concurrency",
+    "Programming/Java Concurrency/11 Chapter",
+    "Programming/Java Concurrency",
     "Репликация.md",
     "Programming/Java",
-    "Programming",
     "Распределенные данные.md",
     "Books/Designing Data-Intensive Applications - Martin Kleppmann.md",
     "Untitled.md",
@@ -236,7 +238,6 @@
     "CI и CD.md",
     "Untitled 2.canvas",
     "Untitled 1.canvas",
-    "Дипломная работа.md",
     "Attachments/Pasted image 20240827214713.png",
     "Attachments/Pasted image 20240827214054.png",
     "Attachments/Pasted image 20240827103703.png",
