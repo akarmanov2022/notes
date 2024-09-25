@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily Notes/2024-09-26.md",
+                "file": "Учеба/ТУСУР/ГПО/2024-09-26.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily Notes/2024-09-26.md",
+                "file": "Учеба/ТУСУР/ГПО/2024-09-26.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily Notes/2024-09-26.md",
+                "file": "Учеба/ТУСУР/ГПО/2024-09-26.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily Notes/2024-09-26.md"
+                "file": "Учеба/ТУСУР/ГПО/2024-09-26.md"
               }
             }
           },
@@ -136,14 +136,6 @@
             "type": "leaf",
             "state": {
               "type": "advanced-tables-toolbar",
-              "state": {}
-            }
-          },
-          {
-            "id": "2c90fcb7e8ba328b",
-            "type": "leaf",
-            "state": {
-              "type": "mermaid-toolbar-view",
               "state": {}
             }
           },
@@ -162,9 +154,17 @@
               "type": "calendar",
               "state": {}
             }
+          },
+          {
+            "id": "71f79bc3c9c50116",
+            "type": "leaf",
+            "state": {
+              "type": "mermaid-toolbar-view",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 7
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -190,7 +190,8 @@
   },
   "active": "c79cc366b2c35f6e",
   "lastOpenFiles": [
-    "Daily Notes/2024-09-26.md",
+    "Учеба/ТУСУР/ГПО/Untitled.canvas",
+    "Учеба/ТУСУР/ГПО/2024-09-26.md",
     "Учеба/ТУСУР/ГПО/Вопросы к ГПО.md",
     "Java Concurrency.md",
     "Temp.md",
@@ -228,7 +229,6 @@
     "Untitled 2.canvas",
     "Untitled 1.canvas",
     "Дипломная работа.md",
-    "ИСиТ Лекция 1.md",
     "Attachments/Pasted image 20240827214713.png",
     "Attachments/Pasted image 20240827214054.png",
     "Attachments/Pasted image 20240827103703.png",
