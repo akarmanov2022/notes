@@ -11,13 +11,8 @@
             "id": "c79cc366b2c35f6e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Учеба/ТУСУР/ОПрД/Заметки по лекции 1.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -49,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:СУБД",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -70,7 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 310.5
+    "width": 512.5
   },
   "right": {
     "id": "040412060455cf19",
@@ -86,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Учеба/ТУСУР/ОПрД/Заметки по лекции 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Учеба/ТУСУР/ОПрД/Заметки по лекции 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Учеба/ТУСУР/ОПрД/Заметки по лекции 1.md"
-              }
+              "state": {}
             }
           },
           {
@@ -174,37 +165,45 @@
   },
   "active": "c79cc366b2c35f6e",
   "lastOpenFiles": [
-    "Учеба/ТУСУР/ОПрД/Лекция 1.md",
+    "Управление транзакциями.md",
+    "Abstract Factory (абстрактная фабрика).md",
+    "Spring Framework.md",
+    "Spring AOP.md",
+    "Уровни изоляции транзакции.md",
+    "Уровень абстракции транзакций в Spring.md",
+    "Функциональное программирование.md",
+    "Programming/Design Patterns/Структурные паттерны.md",
+    "ТП-1. ЛР-5. Техники тест-дизайна.md",
+    "Programming/Design Patterns/Порождающие паттерны.md",
+    "Programming/Design Patterns/Паттерны поведения.md",
+    "Programming/Design Patterns/Builder (строитель).md",
+    "Programming/Design Patterns/Bridge (мост).md",
+    "Programming/Design Patterns/Adapter (адаптер).md",
+    "ACID.md",
+    "Attachments/Pasted image 20240615164955.png",
+    "Attachments/Pasted image 20240615172409.png",
+    "Attachments/Pasted image 20240615155657.png",
+    "Attachments/Pasted image 20240615150641.png",
+    "Attachments/Pasted image 20240514123016.png",
+    "Attachments/Pasted image 20240412223328.png",
+    "Attachments/Pasted image 20240308103220.png",
+    "Attachments/Pasted image 20240222120410.png",
+    "Books/Designing Data-Intensive Applications - Martin Kleppmann.md",
+    "Excalidraw/Drawing 2024-07-09 22.01.30.excalidraw.md",
+    "Excalidraw/Drawing 2024-04-21 22.27.26.excalidraw.md",
+    "Excalidraw/Drawing 2024-04-12 22.50.52.excalidraw.md",
+    "Excalidraw/Drawing 2024-03-08 10.14.30.excalidraw.md",
     "Учеба/ТУСУР/ОПрД/Заметки по лекции 1.md",
+    "Учеба/ТУСУР/ОПрД/Лекция 1.md",
     "Templates/ТУСУР Лекция.md",
     "Учеба/ТУСУР/ОПрД/Untitled.md",
     "Untitled.md",
     "Учеба/ТУСУР/ОПрД/Лекция 2.md",
-    "Принципы ООП.md",
-    "ИСиТ Лекция 1.md",
-    "Г1. Основы.md",
-    "SQL.md",
-    "SOLID.md",
-    "ТП-1. ЛР-5. Техники тест-дизайна.md",
-    "Практика НИР-1.md",
-    "Уровни изоляции транзакции.md",
-    "УП Игра.md",
-    "ИИ-1 Лекции.md",
-    "Языки программирования.md",
-    "ИИ-1. Введение.md",
-    "ИИ-1. Семантические сети.md",
-    "ИИ-1. Фреймовая модель представления знаний.md",
-    "ИИ-1. Логическая модель представления знаний.md",
-    "ИИ-1. Лекция 6.md",
     "Books/Designing  Data-Intensive Application/Часть 6. Секционирование",
     "Books/Designing  Data-Intensive Application",
     "Учеба/ТУСУР/ОПрД",
-    "Учеба/ТУСУР/ГПО/2024-09-26.md",
-    "Programming/Java/Chapter 3. Tools of the Trade/Инструменты Java.md",
-    "Daily Notes/2024-09-25.md",
     "Programming/Java/Chapter 3. Tools of the Trade",
     "Учеба/ТУСУР/ГПО/Untitled.canvas",
-    "Учеба/ТУСУР/ГПО/Вопросы к ГПО.md",
     "Untitled.canvas",
     "Учеба/ТУСУР/ГПО",
     "Учеба/ТУСУР",
@@ -216,14 +215,6 @@
     "Untitled 1.canvas",
     "Attachments/Pasted image 20240827214713.png",
     "Attachments/Pasted image 20240827214054.png",
-    "Attachments/Pasted image 20240827103703.png",
-    "Attachments/Pasted image 20240827103045.png",
-    "Attachments/Pasted image 20240823163055.png",
-    "Attachments/Pasted image 20240823161721.png",
-    "Attachments/Pasted image 20240617153604.png",
-    "Attachments/Pasted image 20240616183111.png",
-    "Attachments/Pasted image 20240615164955.png",
-    "Attachments/Pasted image 20240615193921.png",
     "Untitled 4.canvas",
     "Untitled 3.canvas"
   ]
