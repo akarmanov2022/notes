@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Учеба/ТУСУР/ОПрД/Лекция 2.md",
+                "file": "Принципы ООП.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -33,14 +33,6 @@
         "id": "189fca2f69460972",
         "type": "tabs",
         "children": [
-          {
-            "id": "068da8ead30cb3b0",
-            "type": "leaf",
-            "state": {
-              "type": "file-tree-view",
-              "state": {}
-            }
-          },
           {
             "id": "21056d9121618ad3",
             "type": "leaf",
@@ -78,7 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 255.5
+    "width": 724.5
   },
   "right": {
     "id": "040412060455cf19",
@@ -94,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Учеба/ТУСУР/ОПрД/Лекция 2.md",
+                "file": "Принципы ООП.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Учеба/ТУСУР/ОПрД/Лекция 2.md",
+                "file": "Принципы ООП.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Учеба/ТУСУР/ОПрД/Лекция 2.md"
+                "file": "Принципы ООП.md"
               }
             }
           },
@@ -196,13 +188,30 @@
       "file-tree-alternative:File Tree Alternative Plugin": false
     }
   },
-  "active": "068da8ead30cb3b0",
+  "active": "21056d9121618ad3",
   "lastOpenFiles": [
+    "ИСиТ Лекция 1.md",
+    "Принципы ООП.md",
+    "Г1. Основы.md",
+    "SQL.md",
+    "SOLID.md",
+    "ТП-1. ЛР-5. Техники тест-дизайна.md",
+    "Практика НИР-1.md",
+    "Уровни изоляции транзакции.md",
+    "УП Игра.md",
+    "ИИ-1 Лекции.md",
+    "Языки программирования.md",
+    "ИИ-1. Введение.md",
+    "ИИ-1. Семантические сети.md",
+    "ИИ-1. Фреймовая модель представления знаний.md",
+    "ИИ-1. Логическая модель представления знаний.md",
+    "ИИ-1. Лекция 6.md",
+    "Учеба/ТУСУР/ОПрД/Лекция 2.md",
+    "Templates/Лекция.md",
     "Books/Designing  Data-Intensive Application/Часть 6. Секционирование",
     "Books/Designing  Data-Intensive Application",
     "Учеба/ТУСУР/ОПрД",
     "Учеба/ТУСУР/ГПО/2024-09-26.md",
-    "Учеба/ТУСУР/ОПрД/Лекция 2.md",
     "Programming/Java/Chapter 3. Tools of the Trade/Инструменты Java.md",
     "Daily Notes/2024-09-25.md",
     "Programming/Java/Chapter 3. Tools of the Trade",
@@ -216,26 +225,9 @@
     "Учеба/ТУСУР/Untitled.md",
     "Учеба/ТУСУР",
     "Учеба",
-    "Programming/Java/Java.md",
-    "Programming/GRASP/GRASP.md",
-    "Programming/Design Patterns/Composite (компоновщик).md",
     "Books",
-    "Programming/Design Patterns/Command (команда).md",
-    "Programming/Design Patterns/Adapter (адаптер).md",
     "Programming/Design Patterns",
-    "ACID.md",
-    "Programming/Java Concurrency/11 Chapter/11 Производительность и масштабируемость.md",
     "Programming/GRASP",
-    "Programming/Java Concurrency/11 Chapter",
-    "Репликация.md",
-    "Распределенные данные.md",
-    "Books/Designing Data-Intensive Applications - Martin Kleppmann.md",
-    "Untitled.md",
-    "Лекция.md",
-    "Templates/Лекция.md",
-    "Лекция 1. История ОПД.md",
-    "Spring WebFlux.md",
-    "Mono.md",
     "Untitled 2.canvas",
     "Untitled 1.canvas",
     "Attachments/Pasted image 20240827214713.png",
