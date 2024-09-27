@@ -11,8 +11,13 @@
             "id": "c79cc366b2c35f6e",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "README.md"
+              }
             }
           },
           {
@@ -165,6 +174,7 @@
   },
   "active": "c79cc366b2c35f6e",
   "lastOpenFiles": [
+    "README.md",
     "Управление транзакциями.md",
     "Abstract Factory (абстрактная фабрика).md",
     "Spring Framework.md",
@@ -197,7 +207,6 @@
     "Учеба/ТУСУР/ОПрД/Лекция 1.md",
     "Templates/ТУСУР Лекция.md",
     "Учеба/ТУСУР/ОПрД/Untitled.md",
-    "Untitled.md",
     "Учеба/ТУСУР/ОПрД/Лекция 2.md",
     "Books/Designing  Data-Intensive Application/Часть 6. Секционирование",
     "Books/Designing  Data-Intensive Application",
