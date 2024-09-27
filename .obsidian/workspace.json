@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Учеба/ТУСУР/ГПО/2024-09-26.md",
+                "file": "Учеба/ТУСУР/ОПрД/Лекция 2.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Учеба/ТУСУР/ГПО/2024-09-26.md",
+                "file": "Учеба/ТУСУР/ОПрД/Лекция 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Учеба/ТУСУР/ГПО/2024-09-26.md",
+                "file": "Учеба/ТУСУР/ОПрД/Лекция 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Учеба/ТУСУР/ГПО/2024-09-26.md"
+                "file": "Учеба/ТУСУР/ОПрД/Лекция 2.md"
               }
             }
           },
@@ -198,10 +198,12 @@
   },
   "active": "c79cc366b2c35f6e",
   "lastOpenFiles": [
+    "Учеба/ТУСУР/ОПрД",
+    "Учеба/ТУСУР/ГПО/2024-09-26.md",
+    "Учеба/ТУСУР/ОПрД/Лекция 2.md",
     "Programming/Java/Chapter 3. Tools of the Trade/Инструменты Java.md",
     "Daily Notes/2024-09-25.md",
     "Programming/Java/Chapter 3. Tools of the Trade",
-    "Учеба/ТУСУР/ГПО/2024-09-26.md",
     "Учеба/ТУСУР/ГПО/Untitled.canvas",
     "Учеба/ТУСУР/ГПО/Вопросы к ГПО.md",
     "Java Concurrency.md",
@@ -234,8 +236,6 @@
     "Лекция 1. История ОПД.md",
     "Spring WebFlux.md",
     "Mono.md",
-    "Programming/Design Patterns/Chain of Responsibility (цепочка обязанностей).md",
-    "CI и CD.md",
     "Untitled 2.canvas",
     "Untitled 1.canvas",
     "Attachments/Pasted image 20240827214713.png",
