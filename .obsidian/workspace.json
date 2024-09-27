@@ -131,14 +131,6 @@
             }
           },
           {
-            "id": "3367f324f0a9acf8",
-            "type": "leaf",
-            "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {}
-            }
-          },
-          {
             "id": "954cf5349d9835cf",
             "type": "leaf",
             "state": {
@@ -180,7 +172,7 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "954cf5349d9835cf",
+  "active": "bac4ce99edb8f516",
   "lastOpenFiles": [
     "README.md",
     "Уровни изоляции транзакции.md",
