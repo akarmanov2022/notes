@@ -1,10 +1,4 @@
 [
   "obsidian-git",
-  "dataview",
-  "table-editor-obsidian",
-  "obsidian-excalidraw-plugin",
-  "link-with-alias",
-  "mermaid-tools",
-  "templater-obsidian",
-  "calendar"
+  "link-with-alias"
 ]

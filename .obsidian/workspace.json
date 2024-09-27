@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Принципы ООП.md",
+                "file": "Учеба/ТУСУР/ОПрД/Заметки по лекции 1.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -70,7 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 724.5
+    "width": 310.5
   },
   "right": {
     "id": "040412060455cf19",
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Принципы ООП.md",
+                "file": "Учеба/ТУСУР/ОПрД/Заметки по лекции 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Принципы ООП.md",
+                "file": "Учеба/ТУСУР/ОПрД/Заметки по лекции 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Принципы ООП.md"
+                "file": "Учеба/ТУСУР/ОПрД/Заметки по лекции 1.md"
               }
             }
           },
@@ -145,29 +145,14 @@
               "type": "git-view",
               "state": {}
             }
-          },
-          {
-            "id": "b710213c6efeec84",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {}
-            }
-          },
-          {
-            "id": "71f79bc3c9c50116",
-            "type": "leaf",
-            "state": {
-              "type": "mermaid-toolbar-view",
-              "state": {}
-            }
           }
         ],
         "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 371.5
+    "width": 371.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -187,10 +172,16 @@
       "file-tree-alternative:File Tree Alternative Plugin": false
     }
   },
-  "active": "954cf5349d9835cf",
+  "active": "c79cc366b2c35f6e",
   "lastOpenFiles": [
-    "ИСиТ Лекция 1.md",
+    "Учеба/ТУСУР/ОПрД/Лекция 1.md",
+    "Учеба/ТУСУР/ОПрД/Заметки по лекции 1.md",
+    "Templates/ТУСУР Лекция.md",
+    "Учеба/ТУСУР/ОПрД/Untitled.md",
+    "Untitled.md",
+    "Учеба/ТУСУР/ОПрД/Лекция 2.md",
     "Принципы ООП.md",
+    "ИСиТ Лекция 1.md",
     "Г1. Основы.md",
     "SQL.md",
     "SOLID.md",
@@ -205,8 +196,6 @@
     "ИИ-1. Фреймовая модель представления знаний.md",
     "ИИ-1. Логическая модель представления знаний.md",
     "ИИ-1. Лекция 6.md",
-    "Учеба/ТУСУР/ОПрД/Лекция 2.md",
-    "Templates/Лекция.md",
     "Books/Designing  Data-Intensive Application/Часть 6. Секционирование",
     "Books/Designing  Data-Intensive Application",
     "Учеба/ТУСУР/ОПрД",
@@ -216,12 +205,8 @@
     "Programming/Java/Chapter 3. Tools of the Trade",
     "Учеба/ТУСУР/ГПО/Untitled.canvas",
     "Учеба/ТУСУР/ГПО/Вопросы к ГПО.md",
-    "Java Concurrency.md",
-    "Temp.md",
-    "Untitled 1.md",
     "Untitled.canvas",
     "Учеба/ТУСУР/ГПО",
-    "Учеба/ТУСУР/Untitled.md",
     "Учеба/ТУСУР",
     "Учеба",
     "Books",
