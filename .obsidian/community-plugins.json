@@ -1,4 +1,8 @@
 [
   "obsidian-git",
-  "link-with-alias"
+  "link-with-alias",
+  "dataview",
+  "calendar",
+  "periodic-notes",
+  "templater-obsidian"
 ]

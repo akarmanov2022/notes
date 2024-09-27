@@ -70,7 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 512.5
+    "width": 276.5
   },
   "right": {
     "id": "040412060455cf19",
@@ -145,14 +145,21 @@
               "type": "git-view",
               "state": {}
             }
+          },
+          {
+            "id": "bac4ce99edb8f516",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
-    "width": 371.5,
-    "collapsed": true
+    "width": 371.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -169,11 +176,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false,
       "obsidian-git:Open Git source control": false,
       "templater-obsidian:Templater": false,
-      "file-tree-alternative:File Tree Alternative Plugin": false
+      "file-tree-alternative:File Tree Alternative Plugin": false,
+      "periodic-notes:Open today": false
     }
   },
-  "active": "c79cc366b2c35f6e",
+  "active": "bac4ce99edb8f516",
   "lastOpenFiles": [
+    "Daily Notes",
     "README.md",
     "Управление транзакциями.md",
     "Abstract Factory (абстрактная фабрика).md",
@@ -207,7 +216,6 @@
     "Учеба/ТУСУР/ОПрД/Лекция 1.md",
     "Templates/ТУСУР Лекция.md",
     "Учеба/ТУСУР/ОПрД/Untitled.md",
-    "Учеба/ТУСУР/ОПрД/Лекция 2.md",
     "Books/Designing  Data-Intensive Application/Часть 6. Секционирование",
     "Books/Designing  Data-Intensive Application",
     "Учеба/ТУСУР/ОПрД",
