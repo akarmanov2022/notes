@@ -196,8 +196,10 @@
       "file-tree-alternative:File Tree Alternative Plugin": false
     }
   },
-  "active": "c79cc366b2c35f6e",
+  "active": "068da8ead30cb3b0",
   "lastOpenFiles": [
+    "Books/Designing  Data-Intensive Application/Часть 6. Секционирование",
+    "Books/Designing  Data-Intensive Application",
     "Учеба/ТУСУР/ОПрД",
     "Учеба/ТУСУР/ГПО/2024-09-26.md",
     "Учеба/ТУСУР/ОПрД/Лекция 2.md",
@@ -225,9 +227,7 @@
     "Programming/Java Concurrency/11 Chapter/11 Производительность и масштабируемость.md",
     "Programming/GRASP",
     "Programming/Java Concurrency/11 Chapter",
-    "Programming/Java Concurrency",
     "Репликация.md",
-    "Programming/Java",
     "Распределенные данные.md",
     "Books/Designing Data-Intensive Applications - Martin Kleppmann.md",
     "Untitled.md",
