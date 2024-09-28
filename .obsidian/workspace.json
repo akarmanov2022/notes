@@ -24,8 +24,13 @@
             "id": "19f9ac79e949240b",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "лабораторные работы по ОНИ.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ],
@@ -76,45 +81,6 @@
             }
           }
         ]
-      },
-      {
-        "id": "309b4bf0017a15dc",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "340f5c077a44846e",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "collapseAll": true,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "6df465ec4f802691",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "2641e1aee85983f8",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          }
-        ]
       }
     ],
     "direction": "horizontal",
@@ -144,7 +110,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "лабораторные работы по ОНИ.md"
+              }
             }
           },
           {
@@ -170,9 +138,38 @@
               "type": "review-queue-list-view",
               "state": {}
             }
+          },
+          {
+            "id": "340f5c077a44846e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "лабораторные работы по ОНИ.md",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "2641e1aee85983f8",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "лабораторные работы по ОНИ.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
@@ -195,17 +192,19 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "19f9ac79e949240b",
+  "active": "21056d9121618ad3",
   "lastOpenFiles": [
-    "лабораторные работы по ОНИ.md",
+    "templates",
+    "periodic",
     "Обеспечение непрерывной интеграции.md",
+    "лабораторные работы по ОНИ.md",
     "ОНИ-2.md",
-    "Attachments/Pasted image 20240928175214.png",
-    "Attachments/Pasted image 20240928175138.png",
-    "Attachments/Pasted image 20240928172958.png",
-    "Attachments",
-    "Attachments/Pasted image 20240928174953.png",
-    "Attachments/Pasted image 20240928174930.png",
+    "files/Pasted image 20240928175214.png",
+    "files/Pasted image 20240928175138.png",
+    "files/Pasted image 20240928172958.png",
+    "files",
+    "files/Pasted image 20240928174953.png",
+    "files/Pasted image 20240928174930.png",
     "README.md",
     "ТУСУР",
     "Уровни изоляции транзакции.md",
@@ -229,7 +228,6 @@
     "Системы Контроля Версий (VCS).md",
     "СУБД.md",
     "Репликация.md",
-    "Режимы распростанения.md",
     "Untitled.canvas",
     "Templates",
     "Excalidraw",
@@ -238,12 +236,11 @@
     "Attachments/Pasted image 20240827103703.png",
     "Attachments/Pasted image 20240827103045.png",
     "Attachments/Pasted image 20240823163055.png",
-    "Attachments",
+    "files",
     "Daily Notes",
     "Books/Designing  Data-Intensive Application/Часть 6. Секционирование",
     "Books/Designing  Data-Intensive Application",
     "Учеба/ТУСУР/ОПрД",
-    "Programming/Java/Chapter 3. Tools of the Trade",
     "Учеба/ТУСУР/ГПО/Untitled.canvas",
     "Untitled 2.canvas",
     "Untitled 1.canvas",
