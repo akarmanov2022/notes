@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "4d6d731feaf3df74",
+        "id": "ba4d137e70524a17",
         "type": "tabs",
         "children": [
           {
-            "id": "646eb95509352fe8",
+            "id": "73c96f21e30ce0ef",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -23,20 +23,32 @@
             }
           },
           {
-            "id": "74ed3d7eaa388150",
+            "id": "f220a5de1ad7a80e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "▶️ index.md",
+                "file": "справка.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5d5742f1e4390cb8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Алгоритм работы с источниками.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -136,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "▶️ index.md"
+                "file": "home/homepage.md"
               }
             }
           }
@@ -145,7 +157,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 407.5
+    "width": 407.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -166,16 +179,17 @@
       "obsidian-book-search-plugin:Create new book note": false
     }
   },
-  "active": "74ed3d7eaa388150",
+  "active": "73c96f21e30ce0ef",
   "lastOpenFiles": [
-    "templates/inbox template.md",
-    "▶️ index.md",
+    "справка.md",
+    "Алгоритм работы с источниками.md",
     "home/homepage.md",
+    "▶️ index.md",
+    "templates/inbox template.md",
     "periodic/templates/weekly.md",
     "templates/books template.md",
     "templates/book template.md",
     "Формат aliases для разных источников.md",
-    "справка.md",
     "лабораторная работа ОНИ-2.md",
     "periodic/daily/2024-09-28.md",
     "🗓️ сводка по неделям.md",
@@ -208,7 +222,6 @@
     "README.md",
     "Уровни изоляции транзакции.md",
     "Spring AOP.md",
-    "Языки программирования.md",
     "Untitled.canvas",
     "Attachments/Pasted image 20240827214713.png",
     "Attachments/Pasted image 20240827214054.png",
