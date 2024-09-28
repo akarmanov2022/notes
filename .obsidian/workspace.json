@@ -54,7 +54,33 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "▶️ index.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "bdf9529e897d4149",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "periodic/templates/weekly.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ee2f542546ad424b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "periodic/daily/2024-09-28.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -62,7 +88,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -125,9 +151,17 @@
               "type": "graph",
               "state": {}
             }
+          },
+          {
+            "id": "a6a7f8d62073ba27",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       },
       {
         "id": "4166578bf79763d2",
@@ -154,7 +188,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "periodic/templates/weekly.md"
+                "file": "periodic/daily/2024-09-28.md"
               }
             }
           }
@@ -183,17 +217,20 @@
       "daily-notes:Open today's daily note": true
     }
   },
-  "active": "cd6b9220c83d4547",
+  "active": "ee2f542546ad424b",
   "lastOpenFiles": [
-    "periodic/templates/daily.md",
-    "periodic/templates/weekly.md",
-    "templates/_inbox_template.md",
+    "🗓️ сводка по неделям.md",
+    "periodic/daily/2024-09-28.md",
     "home/homepage.md",
+    "periodic/templates/weekly.md",
+    "📅 сводка по дням.md",
+    "▶️ index.md",
+    "periodic/templates/daily.md",
+    "templates/_inbox_template.md",
     "справка.md",
     "Формат aliases для разных источников.md",
     "periodic/сводка по дням.md",
     "лабораторная работа ОНИ-2.md",
-    "▶️ index.md",
     "index.md",
     "periodic/сводка по неделям.md",
     "заметка о тегах.md",
@@ -223,9 +260,6 @@
     "Функциональное программирование.md",
     "ФП Лекция 2024-03-13.md",
     "ФП Лекция 2024-03-06.md",
-    "Уровень абстракции транзакций в Spring.md",
-    "Управление транзакциями.md",
-    "Управление проектами (УК).md",
     "Untitled.canvas",
     "Attachments/Pasted image 20240827214713.png",
     "Attachments/Pasted image 20240827214054.png",
