@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "ОНИ-1.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -66,8 +66,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -87,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "ОНИ-1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "ОНИ-1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "ОНИ-1.md"
               }
             }
           },
@@ -179,12 +178,13 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "9f17e8dd5ed40de7",
+  "active": "c79cc366b2c35f6e",
   "lastOpenFiles": [
     "README.md",
+    "ОНИ-1.md",
+    "ТУСУР",
     "Уровни изоляции транзакции.md",
     "Spring AOP.md",
-    "README.md",
     "Языки программирования.md",
     "Функциональное программирование.md",
     "ФП Лекция 2024-03-13.md",
@@ -206,7 +206,6 @@
     "Репликация.md",
     "Режимы распростанения.md",
     "Распределенные данные.md",
-    "Принципы ООП.md",
     "Untitled.canvas",
     "Templates",
     "Excalidraw",
@@ -228,7 +227,6 @@
     "Programming/Java/Chapter 3. Tools of the Trade",
     "Учеба/ТУСУР/ГПО/Untitled.canvas",
     "Учеба/ТУСУР/ГПО",
-    "Учеба/ТУСУР",
     "Untitled 2.canvas",
     "Untitled 1.canvas",
     "Untitled 4.canvas",
