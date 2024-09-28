@@ -23,32 +23,6 @@
             }
           },
           {
-            "id": "628121eae68e8b3d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "справка.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "87ae017695572238",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Формат aliases для разных источников.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "3f081157f7da4705",
             "type": "leaf",
             "state": {
@@ -73,9 +47,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "cd6b9220c83d4547",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "templates/_inbox_template.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -130,8 +117,17 @@
                 "useHierarchy": true
               }
             }
+          },
+          {
+            "id": "87ae017695572238",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "4166578bf79763d2",
@@ -151,8 +147,19 @@
                 "sortOrder": "alphabetical"
               }
             }
+          },
+          {
+            "id": "154b4c490c03dcc5",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "templates/_inbox_template.md"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -176,11 +183,12 @@
       "daily-notes:Open today's daily note": true
     }
   },
-  "active": "f001b63bf2cda163",
+  "active": "21056d9121618ad3",
   "lastOpenFiles": [
+    "home/homepage.md",
+    "templates/_inbox_template.md",
     "справка.md",
     "Формат aliases для разных источников.md",
-    "home/homepage.md",
     "periodic/сводка по дням.md",
     "лабораторная работа ОНИ-2.md",
     "▶️ index.md",
@@ -218,7 +226,6 @@
     "Управление проектами (УК).md",
     "УП Игра.md",
     "Тестирование ПО.md",
-    "ТП-1. ЛР-5. Техники тест-дизайна.md",
     "Untitled.canvas",
     "Attachments/Pasted image 20240827214713.png",
     "Attachments/Pasted image 20240827214054.png",
