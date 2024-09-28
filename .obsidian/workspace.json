@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ОНИ-2.md",
-                "mode": "source",
+                "file": "Обеспечение непрерывной интеграции.md",
+                "mode": "preview",
                 "backlinks": true,
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ОНИ-2.md",
+                "file": "Обеспечение непрерывной интеграции.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ОНИ-2.md",
+                "file": "Обеспечение непрерывной интеграции.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ОНИ-2.md"
+                "file": "Обеспечение непрерывной интеграции.md"
               }
             }
           },
@@ -159,13 +159,12 @@
       }
     ],
     "direction": "horizontal",
-    "width": 371.5,
-    "collapsed": true
+    "width": 371.5
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
+      "switcher:Open quick switcher": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
@@ -181,10 +180,11 @@
   },
   "active": "c79cc366b2c35f6e",
   "lastOpenFiles": [
+    "Обеспечение непрерывной интеграции.md",
+    "ОНИ-2.md",
     "Attachments/Pasted image 20240928175214.png",
     "Attachments/Pasted image 20240928175138.png",
     "Attachments/Pasted image 20240928172958.png",
-    "ОНИ-2.md",
     "Attachments",
     "Attachments/Pasted image 20240928174953.png",
     "Attachments/Pasted image 20240928174930.png",
@@ -221,7 +221,6 @@
     "Attachments/Pasted image 20240827103703.png",
     "Attachments/Pasted image 20240827103045.png",
     "Attachments/Pasted image 20240823163055.png",
-    "Attachments/Pasted image 20240823161721.png",
     "Attachments",
     "Daily Notes",
     "Books/Designing  Data-Intensive Application/Часть 6. Секционирование",
