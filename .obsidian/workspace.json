@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ОНИ-1.md",
+                "file": "ОНИ-2.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -70,7 +70,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 276.5
+    "width": 276.5,
+    "collapsed": true
   },
   "right": {
     "id": "040412060455cf19",
@@ -86,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ОНИ-1.md",
+                "file": "ОНИ-2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ОНИ-1.md",
+                "file": "ОНИ-2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ОНИ-1.md"
+                "file": "ОНИ-2.md"
               }
             }
           },
@@ -159,7 +160,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 371.5
+    "width": 371.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -182,7 +184,7 @@
   "lastOpenFiles": [
     "Pasted image 20240928172958.png",
     "README.md",
-    "ОНИ-1.md",
+    "ОНИ-2.md",
     "ТУСУР",
     "Уровни изоляции транзакции.md",
     "Spring AOP.md",
