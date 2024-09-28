@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "6b771de5fcd08ec2",
+        "id": "4d6d731feaf3df74",
         "type": "tabs",
         "children": [
           {
-            "id": "c79cc366b2c35f6e",
+            "id": "646eb95509352fe8",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -23,20 +23,7 @@
             }
           },
           {
-            "id": "3f081157f7da4705",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "templates/book template.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "6d543aad250e403f",
+            "id": "74ed3d7eaa388150",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -45,45 +32,6 @@
                 "mode": "source",
                 "backlinks": true,
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "cd6b9220c83d4547",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "▶️ index.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "bdf9529e897d4149",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "periodic/templates/weekly.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ee2f542546ad424b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "templates/books template.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": true
               }
             }
           }
@@ -188,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "templates/book template.md"
+                "file": "▶️ index.md"
               }
             }
           }
@@ -214,22 +162,24 @@
       "templater-obsidian:Templater": true,
       "obsidian-spaced-repetition:Review flashcards": true,
       "periodic-notes:Open today": true,
-      "daily-notes:Open today's daily note": true
+      "daily-notes:Open today's daily note": true,
+      "obsidian-book-search-plugin:Create new book note": false
     }
   },
-  "active": "3f081157f7da4705",
+  "active": "74ed3d7eaa388150",
   "lastOpenFiles": [
+    "templates/inbox template.md",
+    "▶️ index.md",
+    "home/homepage.md",
+    "periodic/templates/weekly.md",
+    "templates/books template.md",
+    "templates/book template.md",
     "Формат aliases для разных источников.md",
     "справка.md",
-    "templates/book template.md",
-    "templates/books template.md",
     "лабораторная работа ОНИ-2.md",
-    "home/homepage.md",
     "periodic/daily/2024-09-28.md",
     "🗓️ сводка по неделям.md",
-    "periodic/templates/weekly.md",
     "📅 сводка по дням.md",
-    "▶️ index.md",
     "periodic/templates/daily.md",
     "templates/_inbox_template.md",
     "periodic/сводка по дням.md",
@@ -259,7 +209,6 @@
     "Уровни изоляции транзакции.md",
     "Spring AOP.md",
     "Языки программирования.md",
-    "Функциональное программирование.md",
     "Untitled.canvas",
     "Attachments/Pasted image 20240827214713.png",
     "Attachments/Pasted image 20240827214054.png",
