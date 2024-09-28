@@ -4,5 +4,8 @@
   "dataview",
   "calendar",
   "periodic-notes",
-  "templater-obsidian"
+  "templater-obsidian",
+  "obsidian-excalidraw-plugin",
+  "obsidian-zotero-desktop-connector",
+  "obsidian-spaced-repetition"
 ]

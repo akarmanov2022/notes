@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:СУБД",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -66,7 +66,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -145,9 +146,17 @@
               "type": "calendar",
               "state": {}
             }
+          },
+          {
+            "id": "4ca9827f1221d2e4",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
@@ -169,10 +178,11 @@
       "obsidian-git:Open Git source control": false,
       "templater-obsidian:Templater": false,
       "file-tree-alternative:File Tree Alternative Plugin": false,
-      "periodic-notes:Open today": false
+      "periodic-notes:Open today": false,
+      "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "bac4ce99edb8f516",
+  "active": "9f17e8dd5ed40de7",
   "lastOpenFiles": [
     "README.md",
     "Уровни изоляции транзакции.md",
