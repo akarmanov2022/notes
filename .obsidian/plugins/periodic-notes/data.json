@@ -3,13 +3,15 @@
   "hasMigratedDailyNoteSettings": true,
   "hasMigratedWeeklyNoteSettings": false,
   "daily": {
-    "folder": "Daily Notes",
-    "enabled": true
+    "folder": "periodic/daily",
+    "enabled": true,
+    "template": "periodic/templates/daily.md"
   },
   "weekly": {
     "format": "",
-    "template": "",
-    "folder": ""
+    "template": "periodic/templates/weekly.md",
+    "folder": "periodic/weekly",
+    "enabled": true
   },
   "monthly": {
     "format": "",

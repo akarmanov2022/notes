@@ -54,7 +54,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "templates/_inbox_template.md",
+                "file": "periodic/templates/weekly.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -154,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "templates/_inbox_template.md"
+                "file": "periodic/templates/weekly.md"
               }
             }
           }
@@ -183,10 +183,12 @@
       "daily-notes:Open today's daily note": true
     }
   },
-  "active": "21056d9121618ad3",
+  "active": "cd6b9220c83d4547",
   "lastOpenFiles": [
-    "home/homepage.md",
+    "periodic/templates/daily.md",
+    "periodic/templates/weekly.md",
     "templates/_inbox_template.md",
+    "home/homepage.md",
     "справка.md",
     "Формат aliases для разных источников.md",
     "periodic/сводка по дням.md",
@@ -224,8 +226,6 @@
     "Уровень абстракции транзакций в Spring.md",
     "Управление транзакциями.md",
     "Управление проектами (УК).md",
-    "УП Игра.md",
-    "Тестирование ПО.md",
     "Untitled.canvas",
     "Attachments/Pasted image 20240827214713.png",
     "Attachments/Pasted image 20240827214054.png",

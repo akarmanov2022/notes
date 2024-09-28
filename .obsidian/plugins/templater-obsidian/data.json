@@ -17,6 +17,14 @@
     {
       "folder": "templates",
       "template": ""
+    },
+    {
+      "folder": "periodic/daily",
+      "template": "periodic/templates/daily.md"
+    },
+    {
+      "folder": "periodic/weekly",
+      "template": "periodic/templates/weekly.md"
     }
   ],
   "syntax_highlighting": true,
