@@ -172,14 +172,11 @@
       "command-palette:Open command palette": false,
       "workspaces:Manage workspace layouts": false,
       "markdown-importer:Open format converter": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "mermaid-tools:Open Mermaid Toolbar": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
       "obsidian-git:Open Git source control": false,
       "templater-obsidian:Templater": false,
-      "file-tree-alternative:File Tree Alternative Plugin": false,
-      "periodic-notes:Open today": false,
-      "obsidian-spaced-repetition:Review flashcards": false
+      "obsidian-spaced-repetition:Review flashcards": false,
+      "periodic-notes:Open today": false
     }
   },
   "active": "9f17e8dd5ed40de7",
