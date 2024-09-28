@@ -14,13 +14,22 @@
               "type": "markdown",
               "state": {
                 "file": "Обеспечение непрерывной интеграции.md",
-                "mode": "preview",
+                "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
+          },
+          {
+            "id": "19f9ac79e949240b",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -67,6 +76,45 @@
             }
           }
         ]
+      },
+      {
+        "id": "309b4bf0017a15dc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "340f5c077a44846e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "6df465ec4f802691",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2641e1aee85983f8",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
@@ -80,35 +128,6 @@
         "id": "eb71fc3da614ac2b",
         "type": "tabs",
         "children": [
-          {
-            "id": "340f5c077a44846e",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "Обеспечение непрерывной интеграции.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "2641e1aee85983f8",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "Обеспечение непрерывной интеграции.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
           {
             "id": "f001b63bf2cda163",
             "type": "leaf",
@@ -125,9 +144,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Обеспечение непрерывной интеграции.md"
-              }
+              "state": {}
             }
           },
           {
@@ -155,7 +172,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -178,8 +195,9 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "c79cc366b2c35f6e",
+  "active": "19f9ac79e949240b",
   "lastOpenFiles": [
+    "лабораторные работы по ОНИ.md",
     "Обеспечение непрерывной интеграции.md",
     "ОНИ-2.md",
     "Attachments/Pasted image 20240928175214.png",
@@ -212,7 +230,6 @@
     "СУБД.md",
     "Репликация.md",
     "Режимы распростанения.md",
-    "Распределенные данные.md",
     "Untitled.canvas",
     "Templates",
     "Excalidraw",

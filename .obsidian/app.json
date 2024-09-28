@@ -10,7 +10,7 @@
   "propertiesInDocument": "visible",
   "strictLineBreaks": true,
   "livePreview": true,
-  "defaultViewMode": "preview",
+  "defaultViewMode": "source",
   "pdfExportSettings": {
     "includeName": true,
     "pageSize": "A4",
