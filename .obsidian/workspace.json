@@ -4,18 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "ba4d137e70524a17",
+        "id": "7b4bbb8427745a5f",
         "type": "tabs",
         "children": [
           {
-            "id": "73c96f21e30ce0ef",
+            "id": "c5e31229e4b1d508",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
                 "file": "home/homepage.md",
-                "mode": "source",
+                "mode": "preview",
                 "backlinks": true,
                 "source": false
               },
@@ -23,20 +23,32 @@
             }
           },
           {
-            "id": "deb8c968599093fd",
+            "id": "e595d21b52bc9bf2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "📥 входящие прочие и исходящие заметки.md",
+                "file": "справка.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0f3260c830f6e034",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "лайнеры для конспектов.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -93,23 +105,23 @@
             }
           },
           {
-            "id": "87ae017695572238",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
             "id": "a6a7f8d62073ba27",
             "type": "leaf",
             "state": {
               "type": "calendar",
               "state": {}
             }
+          },
+          {
+            "id": "2ec2f33a2a4abc8d",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       },
       {
         "id": "4166578bf79763d2",
@@ -136,16 +148,15 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "📥 входящие прочие и исходящие заметки.md"
+                "file": "home/homepage.md"
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 761.5
+    "width": 352.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -166,16 +177,31 @@
       "obsidian-book-search-plugin:Create new book note": false
     }
   },
-  "active": "deb8c968599093fd",
+  "active": "c5e31229e4b1d508",
   "lastOpenFiles": [
-    "📥 входящие прочие и исходящие заметки.md",
-    "home/homepage.md",
-    "▶️ index.md",
+    "лайнеры для конспектов.md",
     "справка.md",
+    "home/homepage.md",
+    "книги.md",
+    "конспекты по книге DDIA.md",
+    "Часть 2. Распределенные данные.md",
+    "Глава 6. Секционирование.md",
+    "Designing Data-Intensive Applications.md",
+    "books.md",
+    "templates/books template.md",
+    "{{coverUrl}}.md",
+    "📥 входящие прочие и исходящие заметки.md",
+    "ОНИ-2.md",
+    "Attachments/Pasted image 20240928175214.png",
+    "Attachments/Pasted image 20240928175138.png",
+    "Attachments/Pasted image 20240928174953.png",
+    "Attachments/Pasted image 20240928174930.png",
+    "Attachments/Pasted image 20240928172958.png",
+    "Attachments",
+    "▶️ index.md",
     "Алгоритм работы с источниками.md",
     "templates/inbox template.md",
     "periodic/templates/weekly.md",
-    "templates/books template.md",
     "templates/book template.md",
     "Формат aliases для разных источников.md",
     "лабораторная работа ОНИ-2.md",
@@ -185,36 +211,21 @@
     "periodic/templates/daily.md",
     "templates/_inbox_template.md",
     "periodic/сводка по дням.md",
-    "index.md",
-    "periodic/сводка по неделям.md",
-    "заметка о тегах.md",
-    "home/Drawing 2024-09-28 21.40.31.excalidraw.md",
-    "лабораторные работы по ОНИ.md",
     "projects/учеба",
-    "projects/Untitled.md",
     "projects/работа",
     "projects",
     "periodic/templates",
     "periodic/weekly",
     "periodic/daily",
     "home",
-    "Обеспечение непрерывной интеграции.md",
     "templates",
     "periodic",
     "files/Pasted image 20240928175214.png",
     "files/Pasted image 20240928175138.png",
     "files/Pasted image 20240928172958.png",
-    "files",
     "files/Pasted image 20240928174953.png",
     "files/Pasted image 20240928174930.png",
-    "README.md",
-    "Уровни изоляции транзакции.md",
     "Untitled.canvas",
-    "Attachments/Pasted image 20240827214713.png",
-    "Attachments/Pasted image 20240827214054.png",
-    "Attachments/Pasted image 20240827103703.png",
-    "Attachments/Pasted image 20240827103045.png",
-    "Attachments/Pasted image 20240823163055.png",
     "Учеба/ТУСУР/ГПО/Untitled.canvas",
     "Untitled 2.canvas",
     "Untitled 1.canvas",
