@@ -1,10 +1,11 @@
 ---
-cssclass: dashboard
+cssclasses:
+  - dashboard
 aliases:
-- "дом"
-- "д"
-- "home"
-- "h"
+  - дом
+  - д
+  - home
+  - h
 ---
 # 🏠 Точка входа
 
