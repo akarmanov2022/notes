@@ -23,32 +23,20 @@
             }
           },
           {
-            "id": "f220a5de1ad7a80e",
+            "id": "deb8c968599093fd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "справка.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5d5742f1e4390cb8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Алгоритм работы с источниками.md",
+                "file": "📥 входящие прочие и исходящие заметки.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -121,7 +109,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       },
       {
         "id": "4166578bf79763d2",
@@ -148,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "home/homepage.md"
+                "file": "📥 входящие прочие и исходящие заметки.md"
               }
             }
           }
@@ -157,8 +145,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 407.5,
-    "collapsed": true
+    "width": 761.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -179,12 +166,13 @@
       "obsidian-book-search-plugin:Create new book note": false
     }
   },
-  "active": "73c96f21e30ce0ef",
+  "active": "deb8c968599093fd",
   "lastOpenFiles": [
-    "справка.md",
-    "Алгоритм работы с источниками.md",
+    "📥 входящие прочие и исходящие заметки.md",
     "home/homepage.md",
     "▶️ index.md",
+    "справка.md",
+    "Алгоритм работы с источниками.md",
     "templates/inbox template.md",
     "periodic/templates/weekly.md",
     "templates/books template.md",
@@ -221,7 +209,6 @@
     "files/Pasted image 20240928174930.png",
     "README.md",
     "Уровни изоляции транзакции.md",
-    "Spring AOP.md",
     "Untitled.canvas",
     "Attachments/Pasted image 20240827214713.png",
     "Attachments/Pasted image 20240827214054.png",
