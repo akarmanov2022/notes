@@ -7,5 +7,9 @@
   "textFontFamily": "Calibri",
   "interfaceFontFamily": "Calibri",
   "monospaceFontFamily": "Andale Mono",
-  "showViewHeader": true
+  "showViewHeader": true,
+  "enabledCssSnippets": [
+    "dashboard",
+    "dashboard-ReadLineLength"
+  ]
 }

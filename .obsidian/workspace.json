@@ -10,14 +10,16 @@
           {
             "id": "c79cc366b2c35f6e",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
                 "file": "home/homepage.md",
                 "mode": "source",
                 "backlinks": true,
-                "source": false
-              }
+                "source": true
+              },
+              "pinned": true
             }
           },
           {
@@ -146,8 +148,13 @@
             "id": "19f9ac79e949240b",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "заметка о тегах.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ],
@@ -192,6 +199,7 @@
   "left-ribbon": {
     "hiddenItems": {
       "graph:Open graph view": true,
+      "homepage:Open homepage": false,
       "switcher:Open quick switcher": false,
       "canvas:Create new canvas": false,
       "templates:Insert template": false,
@@ -208,9 +216,9 @@
   },
   "active": "c79cc366b2c35f6e",
   "lastOpenFiles": [
-    "home/Drawing 2024-09-28 21.40.31.excalidraw.md",
-    "home/homepage.md",
     "заметка о тегах.md",
+    "home/homepage.md",
+    "home/Drawing 2024-09-28 21.40.31.excalidraw.md",
     "лабораторные работы по ОНИ.md",
     "projects/учеба",
     "projects/Untitled.md",
