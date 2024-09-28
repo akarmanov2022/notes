@@ -70,8 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 276.5,
-    "collapsed": true
+    "width": 276.5
   },
   "right": {
     "id": "040412060455cf19",
@@ -182,9 +181,14 @@
   },
   "active": "c79cc366b2c35f6e",
   "lastOpenFiles": [
-    "Pasted image 20240928172958.png",
-    "README.md",
+    "Attachments/Pasted image 20240928175214.png",
+    "Attachments/Pasted image 20240928175138.png",
+    "Attachments/Pasted image 20240928172958.png",
     "ОНИ-2.md",
+    "Attachments",
+    "Attachments/Pasted image 20240928174953.png",
+    "Attachments/Pasted image 20240928174930.png",
+    "README.md",
     "ТУСУР",
     "Уровни изоляции транзакции.md",
     "Spring AOP.md",
@@ -218,10 +222,6 @@
     "Attachments/Pasted image 20240827103045.png",
     "Attachments/Pasted image 20240823163055.png",
     "Attachments/Pasted image 20240823161721.png",
-    "Attachments/Pasted image 20240617153604.png",
-    "Attachments/Pasted image 20240616183111.png",
-    "Attachments/Pasted image 20240615193921.png",
-    "Attachments/Pasted image 20240615170933.png",
     "Attachments",
     "Daily Notes",
     "Books/Designing  Data-Intensive Application/Часть 6. Секционирование",
@@ -229,7 +229,6 @@
     "Учеба/ТУСУР/ОПрД",
     "Programming/Java/Chapter 3. Tools of the Trade",
     "Учеба/ТУСУР/ГПО/Untitled.canvas",
-    "Учеба/ТУСУР/ГПО",
     "Untitled 2.canvas",
     "Untitled 1.canvas",
     "Untitled 4.canvas",
