@@ -8,44 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "c5e31229e4b1d508",
+            "id": "9b77a05ac2616ea5",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
                 "file": "home/homepage.md",
-                "mode": "preview",
+                "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "pinned": true
-            }
-          },
-          {
-            "id": "e595d21b52bc9bf2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "справка.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0f3260c830f6e034",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "лайнеры для конспектов.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
             }
           }
         ]
@@ -119,9 +93,46 @@
               "type": "graph",
               "state": {}
             }
+          },
+          {
+            "id": "fba831673c1b98d5",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "home/homepage.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f8697680b1c7eff2",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "home/homepage.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "5bd9c6d73a38290c",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 5
       },
       {
         "id": "4166578bf79763d2",
@@ -133,7 +144,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "home",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -172,16 +183,21 @@
       "obsidian-git:Open Git source control": true,
       "templater-obsidian:Templater": true,
       "obsidian-spaced-repetition:Review flashcards": true,
-      "periodic-notes:Open today": true,
       "daily-notes:Open today's daily note": true,
-      "obsidian-book-search-plugin:Create new book note": false
+      "obsidian-book-search-plugin:Create new book note": false,
+      "periodic-notes:Open today": false
     }
   },
-  "active": "c5e31229e4b1d508",
+  "active": "9b77a05ac2616ea5",
   "lastOpenFiles": [
-    "лайнеры для конспектов.md",
-    "справка.md",
+    "курсы.md",
     "home/homepage.md",
+    "справка.md",
+    "лайнеры для конспектов.md",
+    "Теги.md",
+    "Spaced repetition.md",
+    "Дополнительные теги.md",
+    "Основные теги.md",
     "книги.md",
     "конспекты по книге DDIA.md",
     "Часть 2. Распределенные данные.md",
@@ -206,11 +222,6 @@
     "Формат aliases для разных источников.md",
     "лабораторная работа ОНИ-2.md",
     "periodic/daily/2024-09-28.md",
-    "🗓️ сводка по неделям.md",
-    "📅 сводка по дням.md",
-    "periodic/templates/daily.md",
-    "templates/_inbox_template.md",
-    "periodic/сводка по дням.md",
     "projects/учеба",
     "projects/работа",
     "projects",
