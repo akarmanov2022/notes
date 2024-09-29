@@ -8,21 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "9affccbfb8c14856",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "home/homepage.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": false
-              },
-              "pinned": true
-            }
-          },
-          {
             "id": "ba0db67c6d5baa3b",
             "type": "leaf",
             "state": {
@@ -36,28 +21,22 @@
             }
           },
           {
-            "id": "b7a4f22c8da6c44d",
+            "id": "d7b5453139250740",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "конспекты.md",
-                "mode": "source",
+                "file": "home/homepage.md",
+                "mode": "preview",
                 "backlinks": true,
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "d7b5453139250740",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
+              },
+              "pinned": true
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -127,6 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "home/homepage.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,6 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "home/homepage.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -183,7 +164,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "home/homepage.md"
+              }
             }
           }
         ]
@@ -208,10 +191,10 @@
       "obsidian-spaced-repetition:Review flashcards": true,
       "daily-notes:Open today's daily note": true,
       "obsidian-book-search-plugin:Create new book note": true,
-      "periodic-notes:Open today": true,
       "table-editor-obsidian:Advanced Tables Toolbar": true,
       "obsidian-projects:Open projects": true,
-      "obsidian-kanban:Create new board": true
+      "obsidian-kanban:Create new board": true,
+      "periodic-notes:Open today": false
     }
   },
   "active": "d7b5453139250740",
