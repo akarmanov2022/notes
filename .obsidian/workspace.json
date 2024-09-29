@@ -73,9 +73,35 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "69f85f066f5e6728",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Грейс Мюррей Хоппер.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f8e8ae3c57a870b4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Глава 6. Секционирование.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -110,7 +136,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 229.5
+    "width": 229.5,
+    "collapsed": true
   },
   "right": {
     "id": "040412060455cf19",
@@ -235,23 +262,25 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "600cab998e32f941",
+  "active": "f8e8ae3c57a870b4",
   "lastOpenFiles": [
     "конспекты по книге DDIA.md",
-    "Часть 2. Распределенные данные.md",
     "Designing Data-Intensive Applications.md",
+    "Марк Келпман.md",
+    "книги.md",
+    "home/homepage.md",
+    "Грейс Мюррей Хоппер.md",
+    "Глава 6. Секционирование.md",
+    "Часть 2. Распределенные данные.md",
     "templates/book template.md",
     "лайнеры для конспектов.md",
     "справка.md",
-    "Глава 6. Секционирование.md",
     "conflict-files-obsidian-git.md",
-    "home/homepage.md",
     "курсы.md",
     "Теги.md",
     "Spaced repetition.md",
     "Дополнительные теги.md",
     "Основные теги.md",
-    "книги.md",
     "books.md",
     "templates/books template.md",
     "{{coverUrl}}.md",
@@ -267,8 +296,6 @@
     "Алгоритм работы с источниками.md",
     "templates/inbox template.md",
     "periodic/templates/weekly.md",
-    "Формат aliases для разных источников.md",
-    "лабораторная работа ОНИ-2.md",
     "projects/учеба",
     "projects/работа",
     "projects",
