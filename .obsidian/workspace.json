@@ -41,28 +41,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "справка.md",
+                "file": "лайнеры для конспектов.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
-          },
-          {
-            "id": "efd917fba0a4c6c4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "лайнеры для конспектов.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": true
-              }
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -97,7 +84,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 276.5
+    "width": 229.5
   },
   "right": {
     "id": "040412060455cf19",
@@ -123,14 +110,6 @@
             "type": "leaf",
             "state": {
               "type": "calendar",
-              "state": {}
-            }
-          },
-          {
-            "id": "2ec2f33a2a4abc8d",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
               "state": {}
             }
           },
@@ -172,7 +151,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 1
       },
       {
         "id": "4166578bf79763d2",
@@ -225,14 +204,16 @@
       "obsidian-spaced-repetition:Review flashcards": true,
       "daily-notes:Open today's daily note": true,
       "obsidian-book-search-plugin:Create new book note": false,
-      "periodic-notes:Open today": false
+      "periodic-notes:Open today": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "efd917fba0a4c6c4",
+  "active": "ae5daa66a5d34f26",
   "lastOpenFiles": [
     "справка.md",
-    "conflict-files-obsidian-git.md",
     "лайнеры для конспектов.md",
+    "Глава 6. Секционирование.md",
+    "conflict-files-obsidian-git.md",
     "home/homepage.md",
     "курсы.md",
     "Теги.md",
@@ -242,7 +223,6 @@
     "книги.md",
     "конспекты по книге DDIA.md",
     "Часть 2. Распределенные данные.md",
-    "Глава 6. Секционирование.md",
     "Designing Data-Intensive Applications.md",
     "books.md",
     "templates/books template.md",
