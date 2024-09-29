@@ -80,7 +80,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "конспекты по книге DDIA.md",
+                "file": "Секционирование.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -123,8 +123,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 229.5,
-    "collapsed": true
+    "width": 229.5
   },
   "right": {
     "id": "040412060455cf19",
@@ -159,7 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "конспекты по книге DDIA.md",
+                "file": "Секционирование.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -176,7 +175,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "конспекты по книге DDIA.md",
+                "file": "Секционирование.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -218,7 +217,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "конспекты по книге DDIA.md"
+                "file": "Секционирование.md"
               }
             }
           }
@@ -248,11 +247,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "f8e8ae3c57a870b4",
+  "active": "21056d9121618ad3",
   "lastOpenFiles": [
+    "Excalidraw/Секционирование 2024-09-29 13.20.27.excalidraw.md",
     "Секционирование.md",
-    "Репликация.md",
+    "Excalidraw",
     "конспекты по книге DDIA.md",
+    "Репликация.md",
     "Designing Data-Intensive Applications.md",
     "Марк Келпман.md",
     "книги.md",
@@ -281,7 +282,6 @@
     "Attachments",
     "▶️ index.md",
     "Алгоритм работы с источниками.md",
-    "templates/inbox template.md",
     "projects/учеба",
     "projects/работа",
     "projects",
@@ -290,7 +290,6 @@
     "periodic/daily",
     "home",
     "templates",
-    "periodic",
     "files/Pasted image 20240928175214.png",
     "files/Pasted image 20240928175138.png",
     "files/Pasted image 20240928172958.png",

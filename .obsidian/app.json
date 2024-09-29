@@ -25,5 +25,6 @@
     "periodic/weekly/",
     "templates/"
   ],
-  "readableLineLength": true
+  "readableLineLength": true,
+  "spellcheck": false
 }
