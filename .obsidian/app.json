@@ -26,5 +26,10 @@
     "templates/"
   ],
   "readableLineLength": true,
-  "spellcheck": false
+  "spellcheck": false,
+  "spellcheckDictionary": [
+    "хеш-функцию",
+    "хеш-функция",
+    "хеш-функции"
+  ]
 }

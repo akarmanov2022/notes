@@ -67,7 +67,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Секционирование данных типа «ключ — значение».md",
+                "file": "SS-таблицы и LSM-деревья.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -93,10 +93,10 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Секционирование.md",
+                "file": "Составные индексы.md",
                 "mode": "source",
                 "backlinks": true,
-                "source": true
+                "source": false
               }
             }
           },
@@ -106,7 +106,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Секционирование данных типа «ключ — значение».md",
+                "file": "Секционирование.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -122,7 +122,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -157,7 +157,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 229.5
+    "width": 229.5,
+    "collapsed": true
   },
   "right": {
     "id": "040412060455cf19",
@@ -192,7 +193,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Секционирование данных типа «ключ — значение».md",
+                "file": "Секционирование.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -209,7 +210,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Секционирование данных типа «ключ — значение».md",
+                "file": "Секционирование.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -251,7 +252,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Секционирование данных типа «ключ — значение».md"
+                "file": "Секционирование.md"
               }
             }
           }
@@ -283,14 +284,18 @@
       "obsidian-kanban:Create new board": true
     }
   },
-  "active": "01e03d4b72df8933",
+  "active": "12527a9cbd0a7ac8",
   "lastOpenFiles": [
+    "Секционирование данных типа «ключ — значение».md",
+    "files/Pasted image 20240929143919.png",
+    "Составные индексы.md",
     "Секционирование.md",
+    "Грейс Мюррей Хоппер.md",
+    "SS-таблицы и LSM-деревья.md",
     "конспекты по книге DDIA.md",
     "Designing Data-Intensive Applications.md",
     "лайнеры для конспектов.md",
     "home/homepage.md",
-    "Секционирование данных типа «ключ — значение».md",
     "projects/ГПО/project-place",
     "projects/ГПО",
     "Excalidraw/Секционирование 2024-09-29 13.20.27.excalidraw.md",
@@ -298,7 +303,6 @@
     "Репликация.md",
     "Марк Келпман.md",
     "книги.md",
-    "Грейс Мюррей Хоппер.md",
     "Часть 2. Распределенные данные.md",
     "templates/book template.md",
     "справка.md",
@@ -311,8 +315,6 @@
     "books.md",
     "templates/books template.md",
     "{{coverUrl}}.md",
-    "📥 входящие прочие и исходящие заметки.md",
-    "ОНИ-2.md",
     "Attachments/Pasted image 20240928175214.png",
     "Attachments/Pasted image 20240928175138.png",
     "Attachments/Pasted image 20240928174953.png",
@@ -329,7 +331,6 @@
     "files/Pasted image 20240928175138.png",
     "files/Pasted image 20240928172958.png",
     "files/Pasted image 20240928174953.png",
-    "files/Pasted image 20240928174930.png",
     "Untitled.canvas",
     "Учеба/ТУСУР/ГПО/Untitled.canvas",
     "Untitled 2.canvas",
