@@ -49,13 +49,13 @@
             }
           },
           {
-            "id": "4d4a3623206d9437",
+            "id": "efd917fba0a4c6c4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "справка.md",
-                "mode": "preview",
+                "file": "лайнеры для конспектов.md",
+                "mode": "source",
                 "backlinks": true,
                 "source": false
               }
@@ -140,7 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "справка.md",
+                "file": "лайнеры для конспектов.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,7 +157,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "справка.md",
+                "file": "лайнеры для конспектов.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -199,7 +199,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "справка.md"
+                "file": "лайнеры для конспектов.md"
               }
             }
           }
@@ -228,10 +228,10 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "4d4a3623206d9437",
+  "active": "efd917fba0a4c6c4",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
     "справка.md",
+    "conflict-files-obsidian-git.md",
     "лайнеры для конспектов.md",
     "home/homepage.md",
     "курсы.md",
