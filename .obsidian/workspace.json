@@ -57,7 +57,7 @@
                 "file": "лайнеры для конспектов.md",
                 "mode": "source",
                 "backlinks": true,
-                "source": false
+                "source": true
               }
             }
           }
