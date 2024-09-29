@@ -54,10 +54,23 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "конспекты по книге DDIA.md",
+                "file": "Секционирование.md",
                 "mode": "source",
                 "backlinks": true,
-                "source": false
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "01e03d4b72df8933",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Секционирование данных типа «ключ — значение».md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
               }
             }
           },
@@ -109,7 +122,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -179,6 +192,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Секционирование данных типа «ключ — значение».md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -195,6 +209,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Секционирование данных типа «ключ — значение».md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -235,7 +250,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Секционирование данных типа «ключ — значение».md"
+              }
             }
           }
         ]
@@ -259,30 +276,31 @@
       "templater-obsidian:Templater": true,
       "obsidian-spaced-repetition:Review flashcards": true,
       "daily-notes:Open today's daily note": true,
-      "obsidian-book-search-plugin:Create new book note": false,
-      "periodic-notes:Open today": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-projects:Open projects": false
+      "obsidian-book-search-plugin:Create new book note": true,
+      "periodic-notes:Open today": true,
+      "table-editor-obsidian:Advanced Tables Toolbar": true,
+      "obsidian-projects:Open projects": true,
+      "obsidian-kanban:Create new board": true
     }
   },
-  "active": "b0b962a82538b065",
+  "active": "01e03d4b72df8933",
   "lastOpenFiles": [
+    "Секционирование.md",
+    "конспекты по книге DDIA.md",
+    "Designing Data-Intensive Applications.md",
+    "лайнеры для конспектов.md",
+    "home/homepage.md",
     "Секционирование данных типа «ключ — значение».md",
     "projects/ГПО/project-place",
     "projects/ГПО",
-    "Секционирование.md",
     "Excalidraw/Секционирование 2024-09-29 13.20.27.excalidraw.md",
     "Excalidraw",
-    "конспекты по книге DDIA.md",
     "Репликация.md",
-    "Designing Data-Intensive Applications.md",
     "Марк Келпман.md",
     "книги.md",
-    "home/homepage.md",
     "Грейс Мюррей Хоппер.md",
     "Часть 2. Распределенные данные.md",
     "templates/book template.md",
-    "лайнеры для конспектов.md",
     "справка.md",
     "conflict-files-obsidian-git.md",
     "курсы.md",

@@ -31,6 +31,31 @@
           "id": "43bc2b27-863a-4b14-aa26-7884117f154f",
           "name": "Table",
           "type": "table"
+        },
+        {
+          "config": {},
+          "filter": {
+            "conjunction": "and",
+            "conditions": []
+          },
+          "colors": {
+            "conditions": [
+              {
+                "color": "#099efb",
+                "condition": {
+                  "field": "",
+                  "operator": "is-not-empty",
+                  "enabled": true
+                }
+              }
+            ]
+          },
+          "sort": {
+            "criteria": []
+          },
+          "id": "7e08a72b-5a87-47e0-8176-6f9573247439",
+          "name": "Board",
+          "type": "board"
         }
       ],
       "id": "f706eb35-0e8a-41c4-ba00-7561f0548605",
