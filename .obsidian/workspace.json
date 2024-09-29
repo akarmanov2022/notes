@@ -41,7 +41,33 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "лайнеры для конспектов.md",
+                "file": "Designing Data-Intensive Applications.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "3f96930e84090a2d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "конспекты по книге DDIA.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "600cab998e32f941",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Глава 6. Секционирование.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -49,7 +75,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -119,7 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "лайнеры для конспектов.md",
+                "file": "Глава 6. Секционирование.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +162,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "лайнеры для конспектов.md",
+                "file": "Глава 6. Секционирование.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +189,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "home",
+                "query": "boo",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -178,7 +204,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "лайнеры для конспектов.md"
+                "file": "Глава 6. Секционирование.md"
               }
             }
           }
@@ -186,7 +212,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 352.5
+    "width": 352.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -208,10 +235,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "ae5daa66a5d34f26",
+  "active": "600cab998e32f941",
   "lastOpenFiles": [
-    "справка.md",
+    "конспекты по книге DDIA.md",
+    "Часть 2. Распределенные данные.md",
+    "Designing Data-Intensive Applications.md",
+    "templates/book template.md",
     "лайнеры для конспектов.md",
+    "справка.md",
     "Глава 6. Секционирование.md",
     "conflict-files-obsidian-git.md",
     "home/homepage.md",
@@ -221,9 +252,6 @@
     "Дополнительные теги.md",
     "Основные теги.md",
     "книги.md",
-    "конспекты по книге DDIA.md",
-    "Часть 2. Распределенные данные.md",
-    "Designing Data-Intensive Applications.md",
     "books.md",
     "templates/books template.md",
     "{{coverUrl}}.md",
@@ -239,7 +267,6 @@
     "Алгоритм работы с источниками.md",
     "templates/inbox template.md",
     "periodic/templates/weekly.md",
-    "templates/book template.md",
     "Формат aliases для разных источников.md",
     "лабораторная работа ОНИ-2.md",
     "projects/учеба",

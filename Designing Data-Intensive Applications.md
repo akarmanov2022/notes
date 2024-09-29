@@ -11,14 +11,8 @@ status: wip
 recommendedby:
 ---
 
-***
-tags:: 
+tags:: Development, Database, Software 
 prev:: [[книги|назад в библиотеку]]
 category:: headbook
 author:: [[Марк Келпман]]
 children:: [[конспекты по книге DDIA]]
-***
-PDF
-![cover|150]({{coverUrl}})
-___
-
