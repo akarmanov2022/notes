@@ -80,7 +80,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Глава 6. Секционирование.md",
+                "file": "конспекты по книге DDIA.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -159,7 +159,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Глава 6. Секционирование.md",
+                "file": "конспекты по книге DDIA.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -176,7 +176,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Глава 6. Секционирование.md",
+                "file": "конспекты по книге DDIA.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -218,7 +218,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Глава 6. Секционирование.md"
+                "file": "конспекты по книге DDIA.md"
               }
             }
           }
@@ -250,13 +250,14 @@
   },
   "active": "f8e8ae3c57a870b4",
   "lastOpenFiles": [
+    "Секционирование.md",
+    "Репликация.md",
     "конспекты по книге DDIA.md",
     "Designing Data-Intensive Applications.md",
     "Марк Келпман.md",
     "книги.md",
     "home/homepage.md",
     "Грейс Мюррей Хоппер.md",
-    "Глава 6. Секционирование.md",
     "Часть 2. Распределенные данные.md",
     "templates/book template.md",
     "лайнеры для конспектов.md",
@@ -281,7 +282,6 @@
     "▶️ index.md",
     "Алгоритм работы с источниками.md",
     "templates/inbox template.md",
-    "periodic/templates/weekly.md",
     "projects/учеба",
     "projects/работа",
     "projects",
