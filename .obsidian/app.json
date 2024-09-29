@@ -23,7 +23,8 @@
     "files/",
     "periodic/daily/",
     "periodic/weekly/",
-    "templates/"
+    "templates/",
+    "periodic/templates/"
   ],
   "readableLineLength": true,
   "spellcheck": false,

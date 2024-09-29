@@ -4,18 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "7b4bbb8427745a5f",
+        "id": "bce6f3a990347702",
         "type": "tabs",
         "children": [
           {
-            "id": "9b77a05ac2616ea5",
+            "id": "9affccbfb8c14856",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
                 "file": "home/homepage.md",
-                "mode": "source",
+                "mode": "preview",
                 "backlinks": true,
                 "source": false
               },
@@ -23,64 +23,12 @@
             }
           },
           {
-            "id": "4bd64b8228574a32",
+            "id": "ba0db67c6d5baa3b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "лайнеры для конспектов.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ae5daa66a5d34f26",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Designing Data-Intensive Applications.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "3f96930e84090a2d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Секционирование.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "01e03d4b72df8933",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SS-таблицы и LSM-деревья.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "69f85f066f5e6728",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Грейс Мюррей Хоппер.md",
+                "file": "проекты.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -88,12 +36,12 @@
             }
           },
           {
-            "id": "f8e8ae3c57a870b4",
+            "id": "b7a4f22c8da6c44d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Составные индексы.md",
+                "file": "конспекты.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -101,28 +49,15 @@
             }
           },
           {
-            "id": "12527a9cbd0a7ac8",
+            "id": "d7b5453139250740",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Секционирование.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "b0b962a82538b065",
-            "type": "leaf",
-            "state": {
-              "type": "obsidian-projects",
+              "type": "graph",
               "state": {}
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -157,8 +92,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 229.5,
-    "collapsed": true
+    "width": 229.5
   },
   "right": {
     "id": "040412060455cf19",
@@ -193,7 +127,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Секционирование.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -210,7 +143,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Секционирование.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -251,9 +183,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Секционирование.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -284,37 +214,38 @@
       "obsidian-kanban:Create new board": true
     }
   },
-  "active": "12527a9cbd0a7ac8",
+  "active": "d7b5453139250740",
   "lastOpenFiles": [
+    "periodic/templates/daily.md",
+    "periodic/templates/weekly.md",
+    "Excalidraw/Секционирование 2024-09-29 13.20.27.excalidraw.md",
+    "📥 входящие прочие и исходящие заметки.md",
+    "home/homepage.md",
+    "📅 сводка по дням.md",
+    "конспекты.md",
+    "проекты.md",
+    "лайнеры для конспектов.md",
+    "Designing Data-Intensive Applications.md",
+    "Секционирование.md",
+    "SS-таблицы и LSM-деревья.md",
+    "Грейс Мюррей Хоппер.md",
+    "Составные индексы.md",
+    "справка.md",
+    "Секционирование и вторичные ключи.md",
     "Секционирование данных типа «ключ — значение».md",
     "files/Pasted image 20240929143919.png",
-    "Составные индексы.md",
-    "Секционирование.md",
-    "Грейс Мюррей Хоппер.md",
-    "SS-таблицы и LSM-деревья.md",
     "конспекты по книге DDIA.md",
-    "Designing Data-Intensive Applications.md",
-    "лайнеры для конспектов.md",
-    "home/homepage.md",
     "projects/ГПО/project-place",
     "projects/ГПО",
-    "Excalidraw/Секционирование 2024-09-29 13.20.27.excalidraw.md",
     "Excalidraw",
     "Репликация.md",
     "Марк Келпман.md",
     "книги.md",
     "Часть 2. Распределенные данные.md",
     "templates/book template.md",
-    "справка.md",
     "conflict-files-obsidian-git.md",
     "курсы.md",
     "Теги.md",
-    "Spaced repetition.md",
-    "Дополнительные теги.md",
-    "Основные теги.md",
-    "books.md",
-    "templates/books template.md",
-    "{{coverUrl}}.md",
     "Attachments/Pasted image 20240928175214.png",
     "Attachments/Pasted image 20240928175138.png",
     "Attachments/Pasted image 20240928174953.png",
