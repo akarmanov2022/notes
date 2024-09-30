@@ -8,21 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "d7b5453139250740",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "home/homepage.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": false
-              },
-              "pinned": true
-            }
-          },
-          {
             "id": "76d64aa75438b1ff",
             "type": "leaf",
             "pinned": true,
@@ -38,20 +23,22 @@
             }
           },
           {
-            "id": "7cc8331e10de1f0d",
+            "id": "cd2bf1cdef90c60f",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "экономика.md",
-                "mode": "source",
+                "file": "home/homepage.md",
+                "mode": "preview",
                 "backlinks": true,
                 "source": false
-              }
+              },
+              "pinned": true
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -121,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "экономика.md",
+                "file": "home/homepage.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "экономика.md",
+                "file": "home/homepage.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -180,7 +167,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "экономика.md"
+                "file": "home/homepage.md"
               }
             }
           }
@@ -212,10 +199,10 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "7cc8331e10de1f0d",
+  "active": "cd2bf1cdef90c60f",
   "lastOpenFiles": [
-    "home/homepage.md",
     "экономика.md",
+    "home/homepage.md",
     "Секционирование данных типа «ключ — значение».md",
     "Секционирование.md",
     "periodic/templates/daily.md",
