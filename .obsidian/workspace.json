@@ -8,19 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "ba0db67c6d5baa3b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "проекты.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "d7b5453139250740",
             "type": "leaf",
             "pinned": true,
@@ -36,13 +23,28 @@
             }
           },
           {
-            "id": "7941e3cfea533302",
+            "id": "76d64aa75438b1ff",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "home/homepage.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "7cc8331e10de1f0d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Секционирование данных типа «ключ — значение».md",
-                "mode": "preview",
+                "file": "Задача.md",
+                "mode": "source",
                 "backlinks": true,
                 "source": false
               }
@@ -119,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Секционирование данных типа «ключ — значение».md",
+                "file": "Задача.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Секционирование данных типа «ключ — значение».md",
+                "file": "Задача.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -178,7 +180,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Секционирование данных типа «ключ — значение».md"
+                "file": "Задача.md"
               }
             }
           }
@@ -210,10 +212,12 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "7941e3cfea533302",
+  "active": "7cc8331e10de1f0d",
   "lastOpenFiles": [
-    "Секционирование.md",
     "home/homepage.md",
+    "Задача.md",
+    "Секционирование данных типа «ключ — значение».md",
+    "Секционирование.md",
     "periodic/templates/daily.md",
     "periodic/templates/weekly.md",
     "Excalidraw/Секционирование 2024-09-29 13.20.27.excalidraw.md",
@@ -228,7 +232,6 @@
     "Составные индексы.md",
     "справка.md",
     "Секционирование и вторичные ключи.md",
-    "Секционирование данных типа «ключ — значение».md",
     "files/Pasted image 20240929143919.png",
     "конспекты по книге DDIA.md",
     "projects/ГПО/project-place",
@@ -241,7 +244,6 @@
     "templates/book template.md",
     "conflict-files-obsidian-git.md",
     "курсы.md",
-    "Теги.md",
     "Attachments/Pasted image 20240928175214.png",
     "Attachments/Pasted image 20240928175138.png",
     "Attachments/Pasted image 20240928174953.png",
