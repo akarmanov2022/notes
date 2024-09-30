@@ -34,9 +34,22 @@
               },
               "pinned": true
             }
+          },
+          {
+            "id": "7941e3cfea533302",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Секционирование данных типа «ключ — значение».md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -106,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "home/homepage.md",
+                "file": "Секционирование данных типа «ключ — значение».md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "home/homepage.md",
+                "file": "Секционирование данных типа «ключ — значение».md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +163,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "boo",
+                "query": "секциони",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -165,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "home/homepage.md"
+                "file": "Секционирование данных типа «ключ — значение».md"
               }
             }
           }
@@ -197,19 +210,19 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "d7b5453139250740",
+  "active": "7941e3cfea533302",
   "lastOpenFiles": [
+    "Секционирование.md",
+    "home/homepage.md",
     "periodic/templates/daily.md",
     "periodic/templates/weekly.md",
     "Excalidraw/Секционирование 2024-09-29 13.20.27.excalidraw.md",
     "📥 входящие прочие и исходящие заметки.md",
-    "home/homepage.md",
     "📅 сводка по дням.md",
     "конспекты.md",
     "проекты.md",
     "лайнеры для конспектов.md",
     "Designing Data-Intensive Applications.md",
-    "Секционирование.md",
     "SS-таблицы и LSM-деревья.md",
     "Грейс Мюррей Хоппер.md",
     "Составные индексы.md",
