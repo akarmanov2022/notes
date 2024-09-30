@@ -43,7 +43,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Задача.md",
+                "file": "экономика.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -121,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Задача.md",
+                "file": "экономика.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Задача.md",
+                "file": "экономика.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -180,7 +180,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Задача.md"
+                "file": "экономика.md"
               }
             }
           }
@@ -215,7 +215,7 @@
   "active": "7cc8331e10de1f0d",
   "lastOpenFiles": [
     "home/homepage.md",
-    "Задача.md",
+    "экономика.md",
     "Секционирование данных типа «ключ — значение».md",
     "Секционирование.md",
     "periodic/templates/daily.md",
