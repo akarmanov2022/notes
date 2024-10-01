@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "76d64aa75438b1ff",
+            "id": "cd2bf1cdef90c60f",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -23,7 +23,7 @@
             }
           },
           {
-            "id": "cd2bf1cdef90c60f",
+            "id": "e8c1265ea181db85",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -73,7 +73,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 229.5
+    "width": 424.5
   },
   "right": {
     "id": "040412060455cf19",
@@ -199,12 +199,16 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "cd2bf1cdef90c60f",
+  "active": "e8c1265ea181db85",
   "lastOpenFiles": [
-    "экономика.md",
-    "home/homepage.md",
-    "Секционирование данных типа «ключ — значение».md",
+    "Секционирование и вторичные ключи.md",
     "Секционирование.md",
+    "конспекты по книге DDIA.md",
+    "Designing Data-Intensive Applications.md",
+    "книги.md",
+    "home/homepage.md",
+    "экономика.md",
+    "Секционирование данных типа «ключ — значение».md",
     "periodic/templates/daily.md",
     "periodic/templates/weekly.md",
     "Excalidraw/Секционирование 2024-09-29 13.20.27.excalidraw.md",
@@ -213,20 +217,16 @@
     "конспекты.md",
     "проекты.md",
     "лайнеры для конспектов.md",
-    "Designing Data-Intensive Applications.md",
     "SS-таблицы и LSM-деревья.md",
     "Грейс Мюррей Хоппер.md",
     "Составные индексы.md",
     "справка.md",
-    "Секционирование и вторичные ключи.md",
     "files/Pasted image 20240929143919.png",
-    "конспекты по книге DDIA.md",
     "projects/ГПО/project-place",
     "projects/ГПО",
     "Excalidraw",
     "Репликация.md",
     "Марк Келпман.md",
-    "книги.md",
     "Часть 2. Распределенные данные.md",
     "templates/book template.md",
     "conflict-files-obsidian-git.md",
