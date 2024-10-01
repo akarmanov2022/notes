@@ -2,7 +2,13 @@
   "version": 2,
   "projects": [
     {
-      "fieldConfig": {},
+      "fieldConfig": {
+        "status": {
+          "options": [
+            "В работе"
+          ]
+        }
+      },
       "defaultName": "",
       "templates": [],
       "excludedNotes": [],
@@ -33,7 +39,17 @@
           "type": "table"
         },
         {
-          "config": {},
+          "config": {
+            "groupByField": "status",
+            "columns": {
+              "Надо сделать": {
+                "weight": 0
+              },
+              "В работе": {
+                "weight": 1
+              }
+            }
+          },
           "filter": {
             "conjunction": "and",
             "conditions": []
