@@ -46,8 +46,43 @@
                 "file": "Attachments/Drawing 2024-10-01 18.02.16.excalidraw.md"
               }
             }
+          },
+          {
+            "id": "bae3a4c60fecc108",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "проекты.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "36db482932fdca11",
+            "type": "leaf",
+            "state": {
+              "type": "obsidian-projects",
+              "state": {}
+            }
+          },
+          {
+            "id": "236e266ab6632993",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "projects/ГПО/project-place/Логическая модель данных.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -117,7 +152,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "home/homepage.md",
+                "file": "projects/ГПО/project-place/Логическая модель данных.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +169,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "home/homepage.md",
+                "file": "projects/ГПО/project-place/Логическая модель данных.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -176,7 +211,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "home/homepage.md"
+                "file": "projects/ГПО/project-place/Логическая модель данных.md"
               }
             }
           }
@@ -208,10 +243,12 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "cd2bf1cdef90c60f",
+  "active": "236e266ab6632993",
   "lastOpenFiles": [
-    "Attachments/Drawing 2024-10-01 18.02.16.excalidraw.md",
+    "projects/ГПО/project-place/Логическая модель данных.md",
+    "проекты.md",
     "home/homepage.md",
+    "Attachments/Drawing 2024-10-01 18.02.16.excalidraw.md",
     "Секционирование и вторичные ключи.md",
     "Секционирование.md",
     "конспекты по книге DDIA.md",
@@ -225,7 +262,6 @@
     "📥 входящие прочие и исходящие заметки.md",
     "📅 сводка по дням.md",
     "конспекты.md",
-    "проекты.md",
     "лайнеры для конспектов.md",
     "SS-таблицы и LSM-деревья.md",
     "Грейс Мюррей Хоппер.md",
@@ -239,7 +275,6 @@
     "Марк Келпман.md",
     "Часть 2. Распределенные данные.md",
     "templates/book template.md",
-    "conflict-files-obsidian-git.md",
     "Attachments/Pasted image 20240928175214.png",
     "Attachments/Pasted image 20240928175138.png",
     "Attachments/Pasted image 20240928174953.png",

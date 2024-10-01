@@ -20,5 +20,6 @@
   "highlightr-plugin",
   "obsidian-languagetool-plugin",
   "obsidian-projects",
-  "obsidian-kanban"
+  "obsidian-kanban",
+  "obsidian-plantuml"
 ]
