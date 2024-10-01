@@ -36,9 +36,18 @@
               },
               "pinned": true
             }
+          },
+          {
+            "id": "fefab37a9bb78acf",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Attachments/Drawing 2024-10-01 18.02.16.excalidraw.md"
+              }
+            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -199,14 +208,15 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "e8c1265ea181db85",
+  "active": "cd2bf1cdef90c60f",
   "lastOpenFiles": [
+    "Attachments/Drawing 2024-10-01 18.02.16.excalidraw.md",
+    "home/homepage.md",
     "Секционирование и вторичные ключи.md",
     "Секционирование.md",
     "конспекты по книге DDIA.md",
     "Designing Data-Intensive Applications.md",
     "книги.md",
-    "home/homepage.md",
     "экономика.md",
     "Секционирование данных типа «ключ — значение».md",
     "periodic/templates/daily.md",
@@ -230,7 +240,6 @@
     "Часть 2. Распределенные данные.md",
     "templates/book template.md",
     "conflict-files-obsidian-git.md",
-    "курсы.md",
     "Attachments/Pasted image 20240928175214.png",
     "Attachments/Pasted image 20240928175138.png",
     "Attachments/Pasted image 20240928174953.png",
