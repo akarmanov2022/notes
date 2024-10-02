@@ -21,6 +21,8 @@ category::
 author:: [[{{author}}]]
 children::
 ***
+PDF
+![cover|150]({{coverUrl}})
 ___
 
 <% tp.file.cursor(0) %>
