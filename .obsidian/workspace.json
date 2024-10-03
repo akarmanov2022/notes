@@ -36,8 +36,13 @@
             "id": "36db482932fdca11",
             "type": "leaf",
             "state": {
-              "type": "obsidian-projects",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "projects/ГПО/project-place/Use cases диаграмма.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           },
           {
@@ -56,7 +61,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -127,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "home/homepage.md",
+                "file": "projects/ГПО/project-place/Use cases диаграмма.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "home/homepage.md",
+                "file": "projects/ГПО/project-place/Use cases диаграмма.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +191,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "home/homepage.md"
+                "file": "projects/ГПО/project-place/Use cases диаграмма.md"
               }
             }
           }
@@ -219,8 +224,12 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "a60f6d8a7b9af9dc",
+  "active": "36db482932fdca11",
   "lastOpenFiles": [
+    "home/homepage.md",
+    "заметка о тегах.md",
+    "Часть 2. Распределенные данные.md",
+    "Глава 6. Секционирование.md",
     "periodic/daily/2024-10-02.md",
     "projects/ГПО/project-place/Use cases диаграмма.md",
     "projects/ГПО/project-place/project-place.drawio",
@@ -233,7 +242,6 @@
     "projects/ГПО/project-place/project-place.png.download",
     "projects/ГПО/project-place/Логическая модель данных.md",
     "проекты.md",
-    "home/homepage.md",
     "Attachments/Drawing 2024-10-01 18.02.16.excalidraw.md",
     "Секционирование и вторичные ключи.md",
     "Секционирование.md",
@@ -252,13 +260,10 @@
     "SS-таблицы и LSM-деревья.md",
     "Грейс Мюррей Хоппер.md",
     "Составные индексы.md",
-    "справка.md",
     "files/Pasted image 20240929143919.png",
     "projects/ГПО/project-place",
     "projects/ГПО",
     "Excalidraw",
-    "Репликация.md",
-    "Марк Келпман.md",
     "Attachments/Pasted image 20240928175214.png",
     "Attachments/Pasted image 20240928175138.png",
     "Attachments/Pasted image 20240928174953.png",

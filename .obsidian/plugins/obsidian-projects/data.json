@@ -23,7 +23,13 @@
       "newNotesFolder": "",
       "views": [
         {
-          "config": {},
+          "config": {
+            "fieldConfig": {
+              "name": {
+                "width": 267
+              }
+            }
+          },
           "filter": {
             "conjunction": "and",
             "conditions": []
