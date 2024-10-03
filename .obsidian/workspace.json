@@ -8,21 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "cd2bf1cdef90c60f",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "home/homepage.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": false
-              },
-              "pinned": true
-            }
-          },
-          {
             "id": "e8c1265ea181db85",
             "type": "leaf",
             "pinned": true,
@@ -48,19 +33,6 @@
             }
           },
           {
-            "id": "bae3a4c60fecc108",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "проекты.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "36db482932fdca11",
             "type": "leaf",
             "state": {
@@ -69,46 +41,22 @@
             }
           },
           {
-            "id": "7f956f191fd37b85",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "projects/ГПО/project-place/Use cases диаграмма.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "a60f6d8a7b9af9dc",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "projects/ГПО/project-place/Логическая модель данных.md",
+                "file": "home/homepage.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "236e266ab6632993",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "projects/ГПО/project-place/Логическая модель данных.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": false
-              }
+              },
+              "pinned": true
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -143,7 +91,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 424.5
+    "width": 424.5,
+    "collapsed": true
   },
   "right": {
     "id": "040412060455cf19",
@@ -178,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "projects/ГПО/project-place/Use cases диаграмма.md",
+                "file": "home/homepage.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -195,7 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "projects/ГПО/project-place/Use cases диаграмма.md",
+                "file": "home/homepage.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -237,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "projects/ГПО/project-place/Use cases диаграмма.md"
+                "file": "home/homepage.md"
               }
             }
           }
@@ -245,7 +194,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 352.5
+    "width": 352.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -269,8 +219,10 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "7f956f191fd37b85",
+  "active": "a60f6d8a7b9af9dc",
   "lastOpenFiles": [
+    "periodic/daily/2024-10-02.md",
+    "projects/ГПО/project-place/Use cases диаграмма.md",
     "projects/ГПО/project-place/project-place.drawio",
     "projects/ГПО/project-place/project-place.drawio.download/project-place.drawio",
     "projects/ГПО/project-place/project-place.drawio.download",
@@ -279,7 +231,6 @@
     "projects/ГПО/project-place/project-place-1.png.download",
     "projects/ГПО/project-place/project-place.png",
     "projects/ГПО/project-place/project-place.png.download",
-    "projects/ГПО/project-place/Use cases диаграмма.md",
     "projects/ГПО/project-place/Логическая модель данных.md",
     "проекты.md",
     "home/homepage.md",
@@ -315,7 +266,6 @@
     "Attachments/Pasted image 20240928172958.png",
     "Attachments",
     "projects/учеба",
-    "projects/работа",
     "files/Pasted image 20240928175214.png",
     "Untitled.canvas",
     "Учеба/ТУСУР/ГПО/Untitled.canvas",
