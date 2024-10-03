@@ -5,7 +5,8 @@
       "fieldConfig": {
         "status": {
           "options": [
-            "В работе"
+            "В работе",
+            "Выполнены"
           ]
         }
       },
@@ -57,8 +58,13 @@
               "В работе": {
                 "weight": 1,
                 "records": [
-                  "projects/ГПО/project-place/Use cases диаграмма.md",
                   "projects/ГПО/project-place/Физическая модель данных.md"
+                ]
+              },
+              "Выполнены": {
+                "weight": 2,
+                "records": [
+                  "projects/ГПО/project-place/Use cases диаграмма.md"
                 ]
               }
             },

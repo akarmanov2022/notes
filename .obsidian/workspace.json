@@ -8,39 +8,11 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e8c1265ea181db85",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "home/homepage.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": false
-              },
-              "pinned": true
-            }
-          },
-          {
             "id": "d19333f72050762f",
             "type": "leaf",
             "state": {
               "type": "obsidian-projects",
               "state": {}
-            }
-          },
-          {
-            "id": "36db482932fdca11",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "projects/ГПО/project-place/Use cases диаграмма.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
             }
           },
           {
@@ -57,9 +29,24 @@
               },
               "pinned": true
             }
+          },
+          {
+            "id": "9e4b149bc20d5237",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "home/homepage.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": false
+              },
+              "pinned": true
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -130,6 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "home/homepage.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,6 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "home/homepage.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +175,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "home/homepage.md"
+              }
             }
           }
         ]
@@ -218,7 +209,7 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "d19333f72050762f",
+  "active": "9e4b149bc20d5237",
   "lastOpenFiles": [
     "projects/ГПО/project-place/Физическая модель данных.md",
     "home/homepage.md",
