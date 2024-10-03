@@ -23,13 +23,11 @@
             }
           },
           {
-            "id": "fefab37a9bb78acf",
+            "id": "d19333f72050762f",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Attachments/Drawing 2024-10-01 18.02.16.excalidraw.md"
-              }
+              "type": "obsidian-projects",
+              "state": {}
             }
           },
           {
@@ -61,7 +59,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -132,7 +130,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "projects/ГПО/project-place/Use cases диаграмма.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +146,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "projects/ГПО/project-place/Use cases диаграмма.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -190,9 +186,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "projects/ГПО/project-place/Use cases диаграмма.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -224,14 +218,15 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "36db482932fdca11",
+  "active": "d19333f72050762f",
   "lastOpenFiles": [
     "home/homepage.md",
+    "Attachments/Drawing 2024-10-01 18.02.16.excalidraw.md",
+    "projects/ГПО/project-place/Use cases диаграмма.md",
     "заметка о тегах.md",
     "Часть 2. Распределенные данные.md",
     "Глава 6. Секционирование.md",
     "periodic/daily/2024-10-02.md",
-    "projects/ГПО/project-place/Use cases диаграмма.md",
     "projects/ГПО/project-place/project-place.drawio",
     "projects/ГПО/project-place/project-place.drawio.download/project-place.drawio",
     "projects/ГПО/project-place/project-place.drawio.download",
@@ -242,7 +237,6 @@
     "projects/ГПО/project-place/project-place.png.download",
     "projects/ГПО/project-place/Логическая модель данных.md",
     "проекты.md",
-    "Attachments/Drawing 2024-10-01 18.02.16.excalidraw.md",
     "Секционирование и вторичные ключи.md",
     "Секционирование.md",
     "конспекты по книге DDIA.md",
