@@ -49,12 +49,20 @@
             "groupByField": "status",
             "columns": {
               "Надо сделать": {
-                "weight": 0
+                "weight": 0,
+                "records": [
+                  "projects/ГПО/project-place/Логическая модель данных.md"
+                ]
               },
               "В работе": {
-                "weight": 1
+                "weight": 1,
+                "records": [
+                  "projects/ГПО/project-place/Use cases диаграмма.md",
+                  "projects/ГПО/project-place/Физическая модель данных.md"
+                ]
               }
-            }
+            },
+            "includeFields": []
           },
           "filter": {
             "conjunction": "and",
