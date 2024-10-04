@@ -8,14 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "d19333f72050762f",
-            "type": "leaf",
-            "state": {
-              "type": "obsidian-projects",
-              "state": {}
-            }
-          },
-          {
             "id": "a60f6d8a7b9af9dc",
             "type": "leaf",
             "pinned": true,
@@ -31,7 +23,7 @@
             }
           },
           {
-            "id": "9e4b149bc20d5237",
+            "id": "3ab464d67ee582cd",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -46,7 +38,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -81,8 +73,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 424.5,
-    "collapsed": true
+    "width": 424.5
   },
   "right": {
     "id": "040412060455cf19",
@@ -209,12 +200,16 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "9e4b149bc20d5237",
+  "active": "3ab464d67ee582cd",
   "lastOpenFiles": [
-    "projects/ГПО/project-place/Физическая модель данных.md",
-    "home/homepage.md",
-    "Attachments/Drawing 2024-10-01 18.02.16.excalidraw.md",
+    "📥 входящие прочие и исходящие заметки.md",
+    "📅 сводка по дням.md",
+    "projects/ГПО/project-place/project-place.png",
+    "projects/ГПО/project-place/project-place-1.png",
     "projects/ГПО/project-place/Use cases диаграмма.md",
+    "home/homepage.md",
+    "projects/ГПО/project-place/Физическая модель данных.md",
+    "Attachments/Drawing 2024-10-01 18.02.16.excalidraw.md",
     "заметка о тегах.md",
     "Часть 2. Распределенные данные.md",
     "Глава 6. Секционирование.md",
@@ -222,10 +217,8 @@
     "projects/ГПО/project-place/project-place.drawio",
     "projects/ГПО/project-place/project-place.drawio.download/project-place.drawio",
     "projects/ГПО/project-place/project-place.drawio.download",
-    "projects/ГПО/project-place/project-place-1.png",
     "projects/ГПО/project-place/project-place-1.png.download/project-place-1.png",
     "projects/ГПО/project-place/project-place-1.png.download",
-    "projects/ГПО/project-place/project-place.png",
     "projects/ГПО/project-place/project-place.png.download",
     "projects/ГПО/project-place/Логическая модель данных.md",
     "проекты.md",
@@ -239,12 +232,9 @@
     "periodic/templates/daily.md",
     "periodic/templates/weekly.md",
     "Excalidraw/Секционирование 2024-09-29 13.20.27.excalidraw.md",
-    "📥 входящие прочие и исходящие заметки.md",
-    "📅 сводка по дням.md",
     "конспекты.md",
     "лайнеры для конспектов.md",
     "SS-таблицы и LSM-деревья.md",
-    "Грейс Мюррей Хоппер.md",
     "files/Pasted image 20240929143919.png",
     "projects/ГПО/project-place",
     "projects/ГПО",
