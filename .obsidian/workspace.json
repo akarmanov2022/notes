@@ -36,9 +36,56 @@
               },
               "pinned": true
             }
+          },
+          {
+            "id": "5009e33749f80723",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "periodic/daily/2024-10-05.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "98e1b34769642e6a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "periodic/daily/2024-10-05.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3466960d0555592a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Подкаст Мозг как Вселенная.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a1e608e5158d8694",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -109,7 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "home/homepage.md",
+                "file": "Подкаст Мозг как Вселенная.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +173,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "home/homepage.md",
+                "file": "Подкаст Мозг как Вселенная.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +215,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "home/homepage.md"
+                "file": "Подкаст Мозг как Вселенная.md"
               }
             }
           }
@@ -176,8 +223,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 352.5,
-    "collapsed": true
+    "width": 352.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -201,11 +247,15 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "a3e121fdbbad21ec",
+  "active": "3466960d0555592a",
   "lastOpenFiles": [
+    "periodic/daily/2024-10-05.md",
+    "Подкаст Мозг как Вселенная.md",
+    "Проблема оптимальной раскраски графа.md",
+    "Неземной подкаст.md",
+    "home/homepage.md",
     "Глава 7. Транзакции.md",
     "Часть 2. Распределенные данные.md",
-    "home/homepage.md",
     "конспекты по книге DDIA.md",
     "Designing Data-Intensive Applications.md",
     "книги.md",
@@ -233,10 +283,6 @@
     "Секционирование данных типа «ключ — значение».md",
     "periodic/templates/daily.md",
     "periodic/templates/weekly.md",
-    "Excalidraw/Секционирование 2024-09-29 13.20.27.excalidraw.md",
-    "конспекты.md",
-    "лайнеры для конспектов.md",
-    "SS-таблицы и LSM-деревья.md",
     "files/Pasted image 20240929143919.png",
     "projects/ГПО/project-place",
     "projects/ГПО",
