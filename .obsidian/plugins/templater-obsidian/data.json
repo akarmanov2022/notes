@@ -16,7 +16,7 @@
   "folder_templates": [
     {
       "folder": "templates",
-      "template": ""
+      "template": "templates/_inbox_template.md"
     },
     {
       "folder": "periodic/daily",

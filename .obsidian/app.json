@@ -9,8 +9,8 @@
   "showIndentGuide": true,
   "propertiesInDocument": "visible",
   "strictLineBreaks": true,
-  "livePreview": true,
-  "defaultViewMode": "preview",
+  "livePreview": false,
+  "defaultViewMode": "source",
   "pdfExportSettings": {
     "includeName": true,
     "pageSize": "A4",

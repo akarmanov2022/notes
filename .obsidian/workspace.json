@@ -4,112 +4,78 @@
     "type": "split",
     "children": [
       {
-        "id": "bce6f3a990347702",
+        "id": "fe0e32d6b585af48",
         "type": "tabs",
         "children": [
           {
-            "id": "98e1b34769642e6a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "periodic/daily/2024-10-05.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d263ac7e1a1c58a9",
+            "id": "34da5e8db29ff15c",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
                 "file": "home/homepage.md",
-                "mode": "source",
+                "mode": "preview",
                 "backlinks": true,
-                "source": false
+                "source": true
               },
               "pinned": true
             }
           },
           {
-            "id": "a3b8d0f0d09f49b1",
+            "id": "9d5d1a68253ee41a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "конспекты.md",
+                "file": "книги.md",
                 "mode": "preview",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "16a96a43db8cf120",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "проекты.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "adb45b9e5c179bd5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Часть 2. Распределенные данные.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a209a6d9c696f998",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Глава 7. Транзакции.md",
-                "mode": "source",
                 "backlinks": true,
                 "source": true
               }
             }
           },
           {
-            "id": "fb0b84ac6bc5d46b",
+            "id": "4a46b8121e2692b2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "periodic/daily/2024-10-08.md",
-                "mode": "source",
+                "file": "Designing Data-Intensive Applications.md",
+                "mode": "preview",
                 "backlinks": true,
-                "source": false
+                "source": true
               }
             }
           },
           {
-            "id": "0015d834fd8d9b03",
+            "id": "6be60f4d5d3e02dc",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "конспекты по книге DDIA.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "2522be2bb520f095",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Какая-то заметка.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              }
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -144,8 +110,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 424.5,
-    "collapsed": true
+    "width": 226.5
   },
   "right": {
     "id": "040412060455cf19",
@@ -180,7 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Глава 7. Транзакции.md",
+                "file": "Какая-то заметка.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -197,7 +162,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Глава 7. Транзакции.md",
+                "file": "Какая-то заметка.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -239,7 +204,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Глава 7. Транзакции.md"
+                "file": "Какая-то заметка.md"
               }
             }
           }
@@ -247,7 +212,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 352.5
+    "width": 352.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -257,7 +223,7 @@
       "canvas:Create new canvas": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": true,
-      "workspaces:Manage workspace layouts": true,
+      "workspaces:Manage workspace layouts": false,
       "markdown-importer:Open format converter": true,
       "obsidian-excalidraw-plugin:Create new drawing": true,
       "obsidian-git:Open Git source control": true,
@@ -271,42 +237,42 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "a209a6d9c696f998",
+  "active": "2522be2bb520f095",
   "lastOpenFiles": [
-    "Часть 2. Распределенные данные.md",
-    "periodic/daily/2024-10-08.md",
+    "templates/_inbox_template.md",
+    "Какая-то заметка.md",
     "Глава 7. Транзакции.md",
-    "проекты.md",
-    "Секционирование.md",
-    "Глава 6. Секционирование.md",
+    "Часть 2. Распределенные данные.md",
     "конспекты по книге DDIA.md",
     "Designing Data-Intensive Applications.md",
     "книги.md",
     "home/homepage.md",
+    "periodic/daily/2024-10-05.md",
     "конспекты.md",
+    "проекты.md",
+    "periodic/daily/2024-10-08.md",
+    "📥 входящие прочие и исходящие заметки.md",
+    "▶️ index.md",
+    "📅 сводка по дням.md",
+    "🗓️ сводка по неделям.md",
+    "Секционирование.md",
+    "Глава 6. Секционирование.md",
     "English School Oct 6.md",
     "periodic/daily/2024-10-06.md",
     "курсы.md",
     "Подкаст Мозг как Вселенная.md",
-    "periodic/daily/2024-10-05.md",
     "Проблема оптимальной раскраски графа.md",
     "Неземной подкаст.md",
-    "📥 входящие прочие и исходящие заметки.md",
-    "📅 сводка по дням.md",
     "projects/ГПО/project-place/project-place.png",
     "projects/ГПО/project-place/project-place-1.png",
     "projects/ГПО/project-place/Use cases диаграмма.md",
     "projects/ГПО/project-place/Физическая модель данных.md",
-    "Attachments/Drawing 2024-10-01 18.02.16.excalidraw.md",
-    "заметка о тегах.md",
-    "periodic/daily/2024-10-02.md",
     "projects/ГПО/project-place/project-place.drawio",
     "projects/ГПО/project-place/project-place.drawio.download/project-place.drawio",
     "projects/ГПО/project-place/project-place.drawio.download",
     "projects/ГПО/project-place/project-place-1.png.download/project-place-1.png",
     "projects/ГПО/project-place/project-place-1.png.download",
     "projects/ГПО/project-place/project-place.png.download",
-    "projects/ГПО/project-place/Логическая модель данных.md",
     "files/Pasted image 20240929143919.png",
     "projects/ГПО/project-place",
     "projects/ГПО",
