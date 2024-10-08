@@ -34,9 +34,48 @@
               },
               "pinned": true
             }
+          },
+          {
+            "id": "a3b8d0f0d09f49b1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "конспекты.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "16a96a43db8cf120",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Секционирование.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "adb45b9e5c179bd5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Часть 2. Распределенные данные.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -107,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "home/homepage.md",
+                "file": "Часть 2. Распределенные данные.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "home/homepage.md",
+                "file": "Часть 2. Распределенные данные.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +205,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "home/homepage.md"
+                "file": "Часть 2. Распределенные данные.md"
               }
             }
           }
@@ -198,21 +237,24 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "d263ac7e1a1c58a9",
+  "active": "adb45b9e5c179bd5",
   "lastOpenFiles": [
-    "English School Oct 6.md",
-    "periodic/daily/2024-10-06.md",
-    "курсы.md",
-    "home/homepage.md",
-    "Подкаст Мозг как Вселенная.md",
-    "periodic/daily/2024-10-05.md",
-    "Проблема оптимальной раскраски графа.md",
-    "Неземной подкаст.md",
-    "Глава 7. Транзакции.md",
+    "Глава 6. Секционирование.md",
     "Часть 2. Распределенные данные.md",
     "конспекты по книге DDIA.md",
     "Designing Data-Intensive Applications.md",
     "книги.md",
+    "home/homepage.md",
+    "конспекты.md",
+    "Секционирование.md",
+    "Глава 7. Транзакции.md",
+    "English School Oct 6.md",
+    "periodic/daily/2024-10-06.md",
+    "курсы.md",
+    "Подкаст Мозг как Вселенная.md",
+    "periodic/daily/2024-10-05.md",
+    "Проблема оптимальной раскраски графа.md",
+    "Неземной подкаст.md",
     "📥 входящие прочие и исходящие заметки.md",
     "📅 сводка по дням.md",
     "projects/ГПО/project-place/project-place.png",
@@ -221,7 +263,6 @@
     "projects/ГПО/project-place/Физическая модель данных.md",
     "Attachments/Drawing 2024-10-01 18.02.16.excalidraw.md",
     "заметка о тегах.md",
-    "Глава 6. Секционирование.md",
     "periodic/daily/2024-10-02.md",
     "projects/ГПО/project-place/project-place.drawio",
     "projects/ГПО/project-place/project-place.drawio.download/project-place.drawio",
@@ -232,8 +273,6 @@
     "projects/ГПО/project-place/Логическая модель данных.md",
     "проекты.md",
     "Секционирование и вторичные ключи.md",
-    "Секционирование.md",
-    "экономика.md",
     "files/Pasted image 20240929143919.png",
     "projects/ГПО/project-place",
     "projects/ГПО",
