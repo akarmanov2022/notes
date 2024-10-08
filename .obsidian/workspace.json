@@ -75,16 +75,37 @@
             }
           },
           {
-            "id": "0015d834fd8d9b03",
+            "id": "a209a6d9c696f998",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Глава 7. Транзакции.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fb0b84ac6bc5d46b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "periodic/daily/2024-10-08.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
+            }
+          },
+          {
+            "id": "0015d834fd8d9b03",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
             }
           }
         ],
@@ -250,12 +271,13 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "0015d834fd8d9b03",
+  "active": "a209a6d9c696f998",
   "lastOpenFiles": [
+    "Часть 2. Распределенные данные.md",
+    "periodic/daily/2024-10-08.md",
+    "Глава 7. Транзакции.md",
     "проекты.md",
     "Секционирование.md",
-    "Глава 7. Транзакции.md",
-    "Часть 2. Распределенные данные.md",
     "Глава 6. Секционирование.md",
     "конспекты по книге DDIA.md",
     "Designing Data-Intensive Applications.md",
@@ -285,7 +307,6 @@
     "projects/ГПО/project-place/project-place-1.png.download",
     "projects/ГПО/project-place/project-place.png.download",
     "projects/ГПО/project-place/Логическая модель данных.md",
-    "Секционирование и вторичные ключи.md",
     "files/Pasted image 20240929143919.png",
     "projects/ГПО/project-place",
     "projects/ГПО",
