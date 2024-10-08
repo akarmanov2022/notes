@@ -12,7 +12,7 @@ recommendedby:
 ***
 tags::
 prev:: [[books|назад в библиотеку]]
-category:[[technology]]
+category::[[technology]]
 author:: [[Martin Kleppmann]]
 children::[[конспекты по книге DDIA]]
 ***

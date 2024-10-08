@@ -13,7 +13,8 @@ TABLE WITHOUT ID
 file.link AS "Название",
 author AS "Автор(ы)",
 start AS "Начал",
-category AS "Категория"
+category AS "Категория",
+children AS "Связанное"
 FROM !"templates"
 WHERE type = "book" AND status = "wip"
 ```
@@ -41,7 +42,8 @@ file.link AS "Название",
 author AS "Автор(ы)",
 start AS "Начал",
 end AS "Закончил",
-category AS "Категория"
+category AS "Категория",
+children AS "Связанное"
 FROM !"templates"
 WHERE type = "book" AND status = "done"
 ```

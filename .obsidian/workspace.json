@@ -17,12 +17,78 @@
                 "file": "home/homepage.md",
                 "mode": "preview",
                 "backlinks": true,
-                "source": true
+                "source": false
               },
               "pinned": true
             }
+          },
+          {
+            "id": "95a941ee2ef77682",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Глава 7. Транзакции.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0cebcbebd01d87d8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "конспекты по книге DDIA.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "70a999372103c453",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Часть 2. Распределенные данные.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4454b64026263850",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Глава 7. Транзакции.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "809801f7a901cf77",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Неустойчивая концепция транзакций.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -92,7 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "home/homepage.md",
+                "file": "Глава 7. Транзакции.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,7 +175,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "home/homepage.md",
+                "file": "Глава 7. Транзакции.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +217,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "home/homepage.md"
+                "file": "Глава 7. Транзакции.md"
               }
             }
           }
@@ -159,7 +225,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 352.5
+    "width": 352.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -183,22 +250,26 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "6b9ce64461337180",
+  "active": "95a941ee2ef77682",
   "lastOpenFiles": [
-    "книги.md",
+    "Часть 2. Распределенные данные.md",
     "конспекты по книге DDIA.md",
     "home/homepage.md",
+    "Неустойчивая концепция транзакций.md",
+    "Глава 7. Транзакции.md",
     "books.md",
     "Designing Data-Intensive Applications.md",
-    "technology.md",
     "periodic/daily/2024-10-08.md",
+    "periodic/daily/2024-10-05.md",
+    "periodic/daily/2024-10-02.md",
+    "periodic/daily/2024-09-28.md",
+    "periodic/templates/daily.md",
+    "templates/_inbox_template.md",
+    "книги.md",
+    "technology.md",
     "files/Designing Data-Intensive Applications.jpg",
     "{{coverUrl}}.md",
     "Какая-то заметка.md",
-    "templates/_inbox_template.md",
-    "Глава 7. Транзакции.md",
-    "Часть 2. Распределенные данные.md",
-    "periodic/daily/2024-10-05.md",
     "конспекты.md",
     "проекты.md",
     "📥 входящие прочие и исходящие заметки.md",
@@ -208,10 +279,6 @@
     "Секционирование.md",
     "Глава 6. Секционирование.md",
     "English School Oct 6.md",
-    "periodic/daily/2024-10-06.md",
-    "курсы.md",
-    "Подкаст Мозг как Вселенная.md",
-    "Проблема оптимальной раскраски графа.md",
     "projects/ГПО/project-place/project-place.png",
     "projects/ГПО/project-place/project-place-1.png",
     "projects/ГПО/project-place/project-place.drawio",

@@ -7,9 +7,9 @@
   "foldIndent": true,
   "smartIndentList": true,
   "showIndentGuide": true,
-  "propertiesInDocument": "visible",
+  "propertiesInDocument": "source",
   "strictLineBreaks": true,
-  "livePreview": false,
+  "livePreview": true,
   "defaultViewMode": "source",
   "pdfExportSettings": {
     "includeName": true,
@@ -31,6 +31,7 @@
   "spellcheckDictionary": [
     "хеш-функцию",
     "хеш-функция",
-    "хеш-функции"
+    "хеш-функции",
+    "wip"
   ]
 }
