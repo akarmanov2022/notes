@@ -81,9 +81,9 @@
               "type": "markdown",
               "state": {
                 "file": "Глава 7. Транзакции.md",
-                "mode": "preview",
+                "mode": "source",
                 "backlinks": true,
-                "source": false
+                "source": true
               }
             }
           },
