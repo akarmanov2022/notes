@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "fe0e32d6b585af48",
+        "id": "9471655913aaf3f1",
         "type": "tabs",
         "children": [
           {
-            "id": "34da5e8db29ff15c",
+            "id": "6b9ce64461337180",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -21,48 +21,8 @@
               },
               "pinned": true
             }
-          },
-          {
-            "id": "9d5d1a68253ee41a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "книги.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "6be60f4d5d3e02dc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "конспекты по книге DDIA.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "2522be2bb520f095",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "books.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": true
-              }
-            }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -132,7 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "books.md",
+                "file": "home/homepage.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +109,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "books.md",
+                "file": "home/homepage.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -191,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "books.md"
+                "file": "home/homepage.md"
               }
             }
           }
@@ -223,11 +183,14 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "2522be2bb520f095",
+  "active": "6b9ce64461337180",
   "lastOpenFiles": [
+    "книги.md",
+    "конспекты по книге DDIA.md",
+    "home/homepage.md",
+    "books.md",
     "Designing Data-Intensive Applications.md",
     "technology.md",
-    "books.md",
     "periodic/daily/2024-10-08.md",
     "files/Designing Data-Intensive Applications.jpg",
     "{{coverUrl}}.md",
@@ -235,9 +198,6 @@
     "templates/_inbox_template.md",
     "Глава 7. Транзакции.md",
     "Часть 2. Распределенные данные.md",
-    "конспекты по книге DDIA.md",
-    "книги.md",
-    "home/homepage.md",
     "periodic/daily/2024-10-05.md",
     "конспекты.md",
     "проекты.md",
