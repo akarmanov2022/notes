@@ -15,10 +15,6 @@
   "enable_folder_templates": true,
   "folder_templates": [
     {
-      "folder": "templates",
-      "template": "templates/_inbox_template.md"
-    },
-    {
       "folder": "periodic/daily",
       "template": "periodic/templates/daily.md"
     },
@@ -33,6 +29,6 @@
     ""
   ],
   "startup_templates": [
-    ""
+    "templates/_inbox_template.md"
   ]
 }

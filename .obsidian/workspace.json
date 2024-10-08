@@ -36,19 +36,6 @@
             }
           },
           {
-            "id": "4a46b8121e2692b2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Designing Data-Intensive Applications.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": true
-              }
-            }
-          },
-          {
             "id": "6be60f4d5d3e02dc",
             "type": "leaf",
             "state": {
@@ -67,7 +54,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Какая-то заметка.md",
+                "file": "books.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -75,7 +62,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -145,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Какая-то заметка.md",
+                "file": "books.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -162,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Какая-то заметка.md",
+                "file": "books.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -204,7 +191,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Какая-то заметка.md"
+                "file": "books.md"
               }
             }
           }
@@ -212,8 +199,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 352.5,
-    "collapsed": true
+    "width": 352.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -239,18 +225,22 @@
   },
   "active": "2522be2bb520f095",
   "lastOpenFiles": [
-    "templates/_inbox_template.md",
+    "Designing Data-Intensive Applications.md",
+    "technology.md",
+    "books.md",
+    "periodic/daily/2024-10-08.md",
+    "files/Designing Data-Intensive Applications.jpg",
+    "{{coverUrl}}.md",
     "Какая-то заметка.md",
+    "templates/_inbox_template.md",
     "Глава 7. Транзакции.md",
     "Часть 2. Распределенные данные.md",
     "конспекты по книге DDIA.md",
-    "Designing Data-Intensive Applications.md",
     "книги.md",
     "home/homepage.md",
     "periodic/daily/2024-10-05.md",
     "конспекты.md",
     "проекты.md",
-    "periodic/daily/2024-10-08.md",
     "📥 входящие прочие и исходящие заметки.md",
     "▶️ index.md",
     "📅 сводка по дням.md",
@@ -262,11 +252,8 @@
     "курсы.md",
     "Подкаст Мозг как Вселенная.md",
     "Проблема оптимальной раскраски графа.md",
-    "Неземной подкаст.md",
     "projects/ГПО/project-place/project-place.png",
     "projects/ГПО/project-place/project-place-1.png",
-    "projects/ГПО/project-place/Use cases диаграмма.md",
-    "projects/ГПО/project-place/Физическая модель данных.md",
     "projects/ГПО/project-place/project-place.drawio",
     "projects/ГПО/project-place/project-place.drawio.download/project-place.drawio",
     "projects/ГПО/project-place/project-place.drawio.download",
@@ -284,7 +271,6 @@
     "Attachments/Pasted image 20240928172958.png",
     "Attachments",
     "projects/учеба",
-    "files/Pasted image 20240928175214.png",
     "Untitled.canvas",
     "Учеба/ТУСУР/ГПО/Untitled.canvas",
     "Untitled 2.canvas",
