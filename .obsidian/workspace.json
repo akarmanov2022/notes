@@ -8,21 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "6b9ce64461337180",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "home/homepage.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": false
-              },
-              "pinned": true
-            }
-          },
-          {
             "id": "95a941ee2ef77682",
             "type": "leaf",
             "state": {
@@ -30,19 +15,6 @@
               "state": {
                 "file": "Глава 7. Транзакции.md",
                 "mode": "preview",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0cebcbebd01d87d8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "конспекты по книге DDIA.md",
-                "mode": "source",
                 "backlinks": true,
                 "source": false
               }
@@ -62,33 +34,22 @@
             }
           },
           {
-            "id": "4454b64026263850",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Глава 7. Транзакции.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "809801f7a901cf77",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Неустойчивая концепция транзакций.md",
+                "file": "home/homepage.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
-              }
+              },
+              "pinned": true
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -158,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Глава 7. Транзакции.md",
+                "file": "home/homepage.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Глава 7. Транзакции.md",
+                "file": "home/homepage.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -217,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Глава 7. Транзакции.md"
+                "file": "home/homepage.md"
               }
             }
           }
@@ -250,13 +211,13 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "95a941ee2ef77682",
+  "active": "809801f7a901cf77",
   "lastOpenFiles": [
+    "Глава 7. Транзакции.md",
     "Часть 2. Распределенные данные.md",
     "конспекты по книге DDIA.md",
     "home/homepage.md",
     "Неустойчивая концепция транзакций.md",
-    "Глава 7. Транзакции.md",
     "books.md",
     "Designing Data-Intensive Applications.md",
     "periodic/daily/2024-10-08.md",
