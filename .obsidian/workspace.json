@@ -36,9 +36,22 @@
               },
               "pinned": true
             }
+          },
+          {
+            "id": "2b15a9a8ecff651d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Экономика Доклады.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -108,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "home/homepage.md",
+                "file": "Экономика Доклады.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "home/homepage.md",
+                "file": "Экономика Доклады.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -167,7 +180,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "home/homepage.md"
+                "file": "Экономика Доклады.md"
               }
             }
           }
@@ -200,9 +213,10 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "5af91d105da9b6e2",
+  "active": "2b15a9a8ecff651d",
   "lastOpenFiles": [
     "Экономика. Вопросы к докладу.md",
+    "Экономика Доклады.md",
     "home/homepage.md",
     "курсы.md",
     "экономика.md",
@@ -228,7 +242,6 @@
     "конспекты.md",
     "проекты.md",
     "📥 входящие прочие и исходящие заметки.md",
-    "▶️ index.md",
     "projects/ГПО/project-place/project-place.png",
     "projects/ГПО/project-place/project-place-1.png",
     "projects/ГПО/project-place/project-place.drawio",
