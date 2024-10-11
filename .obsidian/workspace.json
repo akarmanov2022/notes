@@ -8,19 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "70a999372103c453",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Часть 2. Распределенные данные.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "792589ffd8b34421",
             "type": "leaf",
             "pinned": true,
@@ -36,46 +23,22 @@
             }
           },
           {
-            "id": "c103e53c5b0c33b6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "экономика.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "5af91d105da9b6e2",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "курсы.md",
+                "file": "home/homepage.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "8090d6a87b60f793",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Экономика. Вопросы к докладу.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": false
-              }
+              },
+              "pinned": true
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -145,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Экономика. Вопросы к докладу.md",
+                "file": "home/homepage.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -162,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Экономика. Вопросы к докладу.md",
+                "file": "home/homepage.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -204,7 +167,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Экономика. Вопросы к докладу.md"
+                "file": "home/homepage.md"
               }
             }
           }
@@ -237,12 +200,12 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "8090d6a87b60f793",
+  "active": "5af91d105da9b6e2",
   "lastOpenFiles": [
+    "Экономика. Вопросы к докладу.md",
     "home/homepage.md",
     "курсы.md",
     "экономика.md",
-    "Экономика. Вопросы к докладу.md",
     "periodic/daily/2024-10-09.md",
     "English School Oct 6.md",
     "Глава 7. Транзакции.md",
