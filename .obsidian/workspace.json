@@ -23,21 +23,6 @@
             }
           },
           {
-            "id": "5af91d105da9b6e2",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "home/homepage.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "pinned": true
-            }
-          },
-          {
             "id": "2b15a9a8ecff651d",
             "type": "leaf",
             "state": {
@@ -51,7 +36,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -215,9 +200,9 @@
   },
   "active": "2b15a9a8ecff651d",
   "lastOpenFiles": [
-    "Экономика. Вопросы к докладу.md",
-    "Экономика Доклады.md",
     "home/homepage.md",
+    "Экономика Доклады.md",
+    "Экономика. Вопросы к докладу.md",
     "курсы.md",
     "экономика.md",
     "periodic/daily/2024-10-09.md",
