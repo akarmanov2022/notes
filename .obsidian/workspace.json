@@ -8,21 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "2b15a9a8ecff651d",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "home/homepage.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "pinned": true
-            }
-          },
-          {
             "id": "e733575a9ff8b3d6",
             "type": "leaf",
             "state": {
@@ -36,33 +21,22 @@
             }
           },
           {
-            "id": "f9d6b8e8c1e732ac",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Информационные Системы и Сети.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "76924197d0c33716",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Циклические коды-1.md",
+                "file": "home/homepage.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
-              }
+              },
+              "pinned": true
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -133,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Циклические коды-1.md",
+                "file": "home/homepage.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Циклические коды-1.md",
+                "file": "home/homepage.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -192,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Циклические коды-1.md"
+                "file": "home/homepage.md"
               }
             }
           }
@@ -227,8 +201,8 @@
   },
   "active": "76924197d0c33716",
   "lastOpenFiles": [
-    "Информационные Системы и Сети.md",
     "Циклические коды-1.md",
+    "Информационные Системы и Сети.md",
     "ТУСУР topic.md",
     "home/homepage.md",
     "Экономика Доклады.md",
