@@ -6,78 +6,25 @@
         "type": "split",
         "children": [
           {
-            "id": "fe0e32d6b585af48",
+            "id": "9471655913aaf3f1",
             "type": "tabs",
             "children": [
               {
-                "id": "34da5e8db29ff15c",
+                "id": "d19356ee5936f91f",
                 "type": "leaf",
                 "pinned": true,
                 "state": {
                   "type": "markdown",
                   "state": {
                     "file": "home/homepage.md",
-                    "mode": "preview",
+                    "mode": "source",
                     "backlinks": true,
                     "source": false
                   },
                   "pinned": true
                 }
-              },
-              {
-                "id": "9d5d1a68253ee41a",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "книги.md",
-                    "mode": "preview",
-                    "backlinks": true,
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "4a46b8121e2692b2",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Designing Data-Intensive Applications.md",
-                    "mode": "preview",
-                    "backlinks": true,
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "6be60f4d5d3e02dc",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "конспекты по книге DDIA.md",
-                    "mode": "preview",
-                    "backlinks": true,
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "2522be2bb520f095",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Часть 2. Распределенные данные.md",
-                    "mode": "preview",
-                    "backlinks": true,
-                    "source": false
-                  }
-                }
               }
-            ],
-            "currentTab": 4
+            ]
           }
         ],
         "direction": "vertical"
@@ -112,7 +59,8 @@
           }
         ],
         "direction": "horizontal",
-        "width": 226.5
+        "width": 226.5,
+        "collapsed": true
       },
       "right": {
         "id": "040412060455cf19",
@@ -147,7 +95,7 @@
                 "state": {
                   "type": "backlink",
                   "state": {
-                    "file": "Часть 2. Распределенные данные.md",
+                    "file": "home/homepage.md",
                     "collapseAll": false,
                     "extraContext": false,
                     "sortOrder": "alphabetical",
@@ -164,14 +112,14 @@
                 "state": {
                   "type": "outgoing-link",
                   "state": {
-                    "file": "Часть 2. Распределенные данные.md",
+                    "file": "home/homepage.md",
                     "linksCollapsed": false,
                     "unlinkedCollapsed": true
                   }
                 }
               },
               {
-                "id": "5bd9c6d73a38290c",
+                "id": "deedd6c379947a64",
                 "type": "leaf",
                 "state": {
                   "type": "review-queue-list-view",
@@ -191,7 +139,7 @@
                 "state": {
                   "type": "search",
                   "state": {
-                    "query": "tag:#⚛️",
+                    "query": "",
                     "matchingCase": false,
                     "explainSearch": false,
                     "collapseAll": false,
@@ -206,7 +154,7 @@
                 "state": {
                   "type": "outline",
                   "state": {
-                    "file": "Часть 2. Распределенные данные.md"
+                    "file": "home/homepage.md"
                   }
                 }
               }
@@ -238,9 +186,198 @@
           "periodic-notes:Open today": false
         }
       },
-      "active": "2522be2bb520f095",
-      "mtime": "2024-10-08T22:01:54+07:00"
+      "active": "d19356ee5936f91f",
+      "mtime": "2024-10-14T22:35:32+07:00"
+    },
+    "Home": {
+      "main": {
+        "id": "0b591d5c4857bfd5",
+        "type": "split",
+        "children": [
+          {
+            "id": "9471655913aaf3f1",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "d19356ee5936f91f",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "home/homepage.md",
+                    "mode": "source",
+                    "backlinks": true,
+                    "source": false
+                  },
+                  "pinned": true
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "736f77505cba9d1e",
+        "type": "split",
+        "children": [
+          {
+            "id": "189fca2f69460972",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "21056d9121618ad3",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "7121c5738b24e89b",
+                "type": "leaf",
+                "state": {
+                  "type": "bookmarks",
+                  "state": {}
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 226.5,
+        "collapsed": true
+      },
+      "right": {
+        "id": "040412060455cf19",
+        "type": "split",
+        "children": [
+          {
+            "id": "eb71fc3da614ac2b",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "f001b63bf2cda163",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": true
+                  }
+                }
+              },
+              {
+                "id": "a6a7f8d62073ba27",
+                "type": "leaf",
+                "state": {
+                  "type": "calendar",
+                  "state": {}
+                }
+              },
+              {
+                "id": "fba831673c1b98d5",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "home/homepage.md",
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "f8697680b1c7eff2",
+                "type": "leaf",
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "file": "home/homepage.md",
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "deedd6c379947a64",
+                "type": "leaf",
+                "state": {
+                  "type": "review-queue-list-view",
+                  "state": {}
+                }
+              }
+            ],
+            "currentTab": 1
+          },
+          {
+            "id": "4166578bf79763d2",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "9f17e8dd5ed40de7",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "",
+                    "matchingCase": false,
+                    "explainSearch": false,
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "154b4c490c03dcc5",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "file": "home/homepage.md"
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 352.5
+      },
+      "left-ribbon": {
+        "hiddenItems": {
+          "graph:Open graph view": true,
+          "homepage:Open homepage": false,
+          "switcher:Open quick switcher": false,
+          "canvas:Create new canvas": false,
+          "templates:Insert template": false,
+          "command-palette:Open command palette": true,
+          "workspaces:Manage workspace layouts": false,
+          "markdown-importer:Open format converter": true,
+          "obsidian-excalidraw-plugin:Create new drawing": true,
+          "obsidian-git:Open Git source control": true,
+          "templater-obsidian:Templater": true,
+          "obsidian-spaced-repetition:Review flashcards": true,
+          "daily-notes:Open today's daily note": true,
+          "obsidian-book-search-plugin:Create new book note": true,
+          "table-editor-obsidian:Advanced Tables Toolbar": true,
+          "obsidian-projects:Open projects": true,
+          "obsidian-kanban:Create new board": true,
+          "periodic-notes:Open today": false
+        }
+      },
+      "active": "d19356ee5936f91f",
+      "mtime": "2024-10-14T22:35:50+07:00"
     }
   },
-  "active": "Высоконагруженные приложения"
+  "active": "Home"
 }
