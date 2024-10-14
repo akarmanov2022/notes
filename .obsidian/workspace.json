@@ -28,7 +28,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "books.md",
+                "file": "конспекты по книге DDIA.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "books.md",
+                "file": "конспекты по книге DDIA.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "books.md",
+                "file": "конспекты по книге DDIA.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,7 +165,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "books.md"
+                "file": "конспекты по книге DDIA.md"
               }
             }
           }
@@ -199,8 +199,9 @@
   },
   "active": "5f5692651c954a37",
   "lastOpenFiles": [
-    "home/homepage.md",
     "Designing Data-Intensive Applications.md",
+    "books.md",
+    "home/homepage.md",
     "{{coverUrl}}.md",
     "▶️ index.md",
     "periodic/daily/2024-10-14.md",
@@ -222,7 +223,6 @@
     "Часть 2. Распределенные данные.md",
     "конспекты по книге DDIA.md",
     "Неустойчивая концепция транзакций.md",
-    "books.md",
     "periodic/daily/2024-10-05.md",
     "periodic/daily/2024-10-02.md",
     "files/Designing Data-Intensive Applications.jpg",
