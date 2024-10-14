@@ -21,8 +21,22 @@
               },
               "pinned": true
             }
+          },
+          {
+            "id": "5f5692651c954a37",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "books.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -57,8 +71,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 226.5,
-    "collapsed": true
+    "width": 226.5
   },
   "right": {
     "id": "040412060455cf19",
@@ -93,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "home/homepage.md",
+                "file": "books.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "home/homepage.md",
+                "file": "books.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +165,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "home/homepage.md"
+                "file": "books.md"
               }
             }
           }
@@ -184,10 +197,12 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "d19356ee5936f91f",
+  "active": "5f5692651c954a37",
   "lastOpenFiles": [
-    "▶️ index.md",
     "home/homepage.md",
+    "Designing Data-Intensive Applications.md",
+    "{{coverUrl}}.md",
+    "▶️ index.md",
     "periodic/daily/2024-10-14.md",
     "Экономика. Заполнить таблицу.md",
     "📥 входящие прочие и исходящие заметки.md",
@@ -208,10 +223,8 @@
     "конспекты по книге DDIA.md",
     "Неустойчивая концепция транзакций.md",
     "books.md",
-    "Designing Data-Intensive Applications.md",
     "periodic/daily/2024-10-05.md",
     "periodic/daily/2024-10-02.md",
-    "periodic/daily/2024-09-28.md",
     "files/Designing Data-Intensive Applications.jpg",
     "projects/ГПО/project-place/project-place.png",
     "projects/ГПО/project-place/project-place-1.png",
