@@ -2,7 +2,6 @@
   "obsidian-git",
   "link-with-alias",
   "dataview",
-  "calendar",
   "periodic-notes",
   "templater-obsidian",
   "obsidian-excalidraw-plugin",
@@ -23,5 +22,6 @@
   "obsidian-kanban",
   "obsidian-plantuml",
   "obsidian-plugin-toc",
-  "obsidian-auto-link-title"
+  "obsidian-auto-link-title",
+  "calendar"
 ]

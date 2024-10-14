@@ -21,8 +21,35 @@
               },
               "pinned": true
             }
+          },
+          {
+            "id": "f9e0eb45d5d4df42",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "periodic/daily/2024-10-14.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f844f371aa80f146",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "📥 входящие прочие и исходящие заметки.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -79,20 +106,12 @@
             }
           },
           {
-            "id": "a6a7f8d62073ba27",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {}
-            }
-          },
-          {
             "id": "fba831673c1b98d5",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "home/homepage.md",
+                "file": "periodic/daily/2024-10-14.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "home/homepage.md",
+                "file": "periodic/daily/2024-10-14.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -122,9 +141,17 @@
               "type": "review-queue-list-view",
               "state": {}
             }
+          },
+          {
+            "id": "961bb9cf74cdbc58",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       },
       {
         "id": "4166578bf79763d2",
@@ -151,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "home/homepage.md"
+                "file": "periodic/daily/2024-10-14.md"
               }
             }
           }
@@ -183,13 +210,17 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "f9e0eb45d5d4df42",
   "lastOpenFiles": [
+    "книги.md",
+    "📅 сводка по дням.md",
+    "📥 входящие прочие и исходящие заметки.md",
+    "home/homepage.md",
+    "periodic/daily/2024-10-09.md",
+    "periodic/daily/2024-10-08.md",
     "periodic/templates/weekly.md",
     "periodic/templates/daily.md",
     "🗓️ сводка по неделям.md",
-    "home/homepage.md",
-    "📅 сводка по дням.md",
     "конспекты по книге DDIA.md",
     "{{coverUrl}}.md",
     "Designing Data-Intensive Applications.md",
@@ -197,11 +228,8 @@
     "▶️ index.md",
     "periodic/daily/2024-10-14.md",
     "Экономика. Заполнить таблицу.md",
-    "📥 входящие прочие и исходящие заметки.md",
     "Задача Экономика.md",
     "periodic/daily/2024-10-13.md",
-    "periodic/daily/2024-10-09.md",
-    "periodic/daily/2024-10-08.md",
     "Циклические коды-1.md",
     "Информационные Системы и Сети.md",
     "ТУСУР topic.md",
@@ -210,7 +238,6 @@
     "курсы.md",
     "экономика.md",
     "English School Oct 6.md",
-    "Глава 7. Транзакции.md",
     "files/Designing Data-Intensive Applications.jpg",
     "projects/ГПО/project-place/project-place.png",
     "projects/ГПО/project-place/project-place-1.png",
