@@ -22,5 +22,6 @@
   "obsidian-projects",
   "obsidian-kanban",
   "obsidian-plantuml",
-  "obsidian-plugin-toc"
+  "obsidian-plugin-toc",
+  "obsidian-auto-link-title"
 ]

@@ -32,7 +32,7 @@
                 "file": "home/homepage.md",
                 "mode": "source",
                 "backlinks": true,
-                "source": false
+                "source": true
               },
               "pinned": true
             }
