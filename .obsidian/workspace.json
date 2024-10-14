@@ -8,21 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "76924197d0c33716",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "home/homepage.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "pinned": true
-            }
-          },
-          {
             "id": "d19356ee5936f91f",
             "type": "leaf",
             "pinned": true,
@@ -38,20 +23,22 @@
             }
           },
           {
-            "id": "c71b64b5d580f795",
+            "id": "f74c14bf96a00ce0",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Задача Экономика.md",
+                "file": "home/homepage.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
-              }
+              },
+              "pinned": true
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -122,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Задача Экономика.md",
+                "file": "home/homepage.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Задача Экономика.md",
+                "file": "home/homepage.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -181,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Задача Экономика.md"
+                "file": "home/homepage.md"
               }
             }
           }
@@ -213,7 +200,7 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "9f17e8dd5ed40de7",
+  "active": "f74c14bf96a00ce0",
   "lastOpenFiles": [
     "home/homepage.md",
     "Задача Экономика.md",
