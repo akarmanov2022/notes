@@ -21,8 +21,61 @@
               },
               "pinned": true
             }
+          },
+          {
+            "id": "e26236947d6d0844",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "конспекты по книге DDIA.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c6e94b84d8cb0a60",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Часть 2. Распределенные данные.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5442761e770d8456",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Транзакции.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a85b652365421fc7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Неустойчивая концепция транзакций.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -57,8 +110,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 226.5,
-    "collapsed": true
+    "width": 226.5
   },
   "right": {
     "id": "040412060455cf19",
@@ -93,7 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "home/homepage.md",
+                "file": "Неустойчивая концепция транзакций.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +162,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "home/homepage.md",
+                "file": "Неустойчивая концепция транзакций.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +204,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "home/homepage.md"
+                "file": "Неустойчивая концепция транзакций.md"
               }
             }
           }
@@ -184,16 +236,17 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "a85b652365421fc7",
   "lastOpenFiles": [
-    "projects/ГПО/project-place/Схема экранов и элементов на них.md",
-    "home/homepage.md",
-    "books.md",
-    "Designing Data-Intensive Applications.md",
-    "книги.md",
+    "Транзакции.md",
     "Часть 2. Распределенные данные.md",
     "конспекты по книге DDIA.md",
-    "Транзакции.md",
+    "Designing Data-Intensive Applications.md",
+    "books.md",
+    "home/homepage.md",
+    "конспекты.md",
+    "projects/ГПО/project-place/Схема экранов и элементов на них.md",
+    "книги.md",
     "Экономика. Заполнить таблицу.md",
     "periodic/daily/2024-10-25.md",
     "📅 сводка по дням.md",
@@ -211,7 +264,6 @@
     "periodic/templates/weekly.md",
     "🗓️ сводка по неделям.md",
     "{{coverUrl}}.md",
-    "▶️ index.md",
     "files/Designing Data-Intensive Applications.jpg",
     "projects/ГПО/project-place/project-place.png",
     "projects/ГПО/project-place/project-place-1.png",
