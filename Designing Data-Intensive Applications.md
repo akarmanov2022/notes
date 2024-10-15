@@ -9,10 +9,10 @@ recommendedby:
 ---
 
 ***
-tags:🧑‍💻tech
+tags::🧑‍💻tech
 prev:: [[books|назад в библиотеку]]
-category::
-author:: [[Martin Kleppmann]]
+category::🧑‍💻tech
+author:: [[Марк Келпман]]
 children:: [[конспекты по книге DDIA]]
 ***
 PDF

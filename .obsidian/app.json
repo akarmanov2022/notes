@@ -7,7 +7,7 @@
   "foldIndent": true,
   "smartIndentList": true,
   "showIndentGuide": true,
-  "propertiesInDocument": "source",
+  "propertiesInDocument": "visible",
   "strictLineBreaks": true,
   "livePreview": true,
   "defaultViewMode": "source",
